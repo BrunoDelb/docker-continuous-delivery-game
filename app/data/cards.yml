@@ -1,0 +1,130 @@
+---
+- title: APPLICATION
+  icon: icons/build.svg
+  theme: Construire l'application
+  description_fr: |
+    En tant que développeur, quand je commite du code sur la branche de développement, je veux qu'une nouvelle image Docker soit construite.
+  description_en: |
+    xxx
+  tags: '#build'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: APPLICATION
+  icon: icons/build.svg
+  theme: Tester l'application
+  description_fr: |
+    En tant que développeur, je veux tester la nouvelle image Docker.
+  description_en: |
+    xxx
+  tags: '#test'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardB
+
+- title: INFRASTRUCTURE
+  icon: icons/infrastructure.svg
+  theme: Valider l'infrastructure
+  description_fr: |
+    En tant qu'architecte, je souhaite valider l'infrastructure avant de la construire.
+  description_en: |
+    xx
+  tags: '#test'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: INFRASTRUCTURE
+  icon: icons/infrastructure.svg
+  theme: Créer l'infrastructure
+  description_fr: |
+    En tant qu'architecte, je souhaite créer une instance ECS avec les groupes de sécurité appropriés.
+  description_en: |
+    xx
+  tags: '#build'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardB
+
+- title: INFRASTRUCTURE
+  icon: icons/infrastructure.svg
+  theme: Tester l'infrastructure
+  description_fr: |
+    En tant qu'architecte, je souhaite vérifier que l'infrastructure que je viens de construire fonctionne correctement.
+  description_en: |
+    xx
+  tags: '#test'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardB
+
+- title: ENVIRONNEMENT
+  icon: icons/environment.svg
+  theme: Configurer l'env
+  description_fr: |
+    En tant que Release Manager, je souhaite configurer la nouvelle infrastructure pour le nouvel environnement.
+  description_en: |
+    xx
+  tags: '#config'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardB
+
+- title: ENVIRONNEMENT
+  icon: icons/environment.svg
+  theme: Tester l'environnement
+  description_fr: |
+    En tant que Release Manager, je souhaite tester la nouvelle configuration mise en place.
+  description_en: |
+    xx
+  tags: '#test'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardB
+
+- title: APPLICATION
+  icon: icons/deployment.svg
+  theme: Déployer l'application
+  description_fr: |
+    En tant que Release Manager, je souhaite déployer la nouvelle release dans le nouvel environnement.
+  description_en: |
+    xx
+  tags: '#deploy'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardB
+
+- title: APPLICATION
+  icon: icons/deployment.svg
+  theme: Tester l'app déployée
+  description_fr: |
+    En tant que Release Manager, je souhaite tester l'application déployée.
+  description_en: |
+    xx
+  tags: '#test'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardB
+
+- title: APPLICATION
+  icon: icons/deployment.svg
+  theme: Valider l'app déployée
+  description_fr: |
+    En tant que Release Manager, je souhaite vérifier que l'application tourne correctement.
+  description_en: |
+    xx
+  tags: '#test'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardB

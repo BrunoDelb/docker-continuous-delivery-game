@@ -1,9 +1,4 @@
-# Continuous Delivery game
+```
+docker run -v $PWD/cards:/app/_output -v $PWD/data:/app/data card-game
+```
 
-How to generate :
-```
-docker build -t card-game .
-docker run -i -t card-game /bin/bash
-  ruby deck.rb
-docker cp 39c92f73f6ea://workspace/_output .
-```
