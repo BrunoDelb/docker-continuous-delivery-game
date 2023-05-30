@@ -1,0 +1,104 @@
+---
+- title: Sécurité des transactions
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Assurer la confidentialité, l'intégrité et l'authenticité des transactions effectuées sur la blockchain
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Sécurité du réseau
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Etablir un consensus entre les noeuds participants pour valider et enregistrer les transactions de manière sécurisée et décentralisée
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Intégrité des données
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Garantir l'intégrité des données, c'est-à-dire que les données enregistrées dans la blockchain ne sont pas altérées ou modifiées après leur enregistrement initial
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Gouvernance
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Mettre en place une gouvernannce décentralisée, c'est-à-dire permettre aux participants de la blockchain de prendre des décisions collectives concernant les mises à jour du protocole, les règles de fonctionnement et d'autres aspects importants
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Interopérabilité
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Les blockchains peuvent utiliser des protocoles et des normes communs pour faciliter l'interopérabilité entre différents réseaux, permettant ainsi l'échange de données et de valeurs de manière transparente.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Scalabilité
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Mettre en place la scalabilité. Les blockchains cherchent à améliorer leur capacité à traiter un grand nombre de transactions par seconde afin de répondre aux besoins croissants des utilisateurs
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Sécurité des contrats
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Protéger les contrats intelligents contre les failles de sécurité, les bugs et les attaques malveillantes
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Gestion des actifs
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer, émettre et gérer des actifs numériques sur la blockchain
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA

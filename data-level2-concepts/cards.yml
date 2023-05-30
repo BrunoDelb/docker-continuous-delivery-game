@@ -1,0 +1,234 @@
+---
+- title: Adresse publique
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    L'adresse publique permet d'identifier de manière unique une entité sur la blockchain. Elle est utilisée pour recevoir des fonds ou vérifier leur propriété.
+  description_en: |
+    xx
+  tags: '#wallet'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Algorithme de hachage
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    L'algorithme de hachage est utilisé pour transformer les données en une empreinte numérique unique, assurant l'intégrité des informations stockées sur la blockchain.
+  description_en: |
+    xx
+  tags: '#transaction'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Bloc
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Le bloc regroupe un ensemble de transactions. Il forme la structure de base de la blockchain, garantissant l'ordre chronologique et l'immutabilité des données.
+  description_en: |
+    xx
+  tags: '#transaction'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Clé privée
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    La clé privée est utilisée pour signer numériquement les transactions, garantissant l'authenticité et la sécurité des transferts de fonds.
+  description_en: |
+    xx
+  tags: '#wallet'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Consensus
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Le consensus est un mécanisme par lequel les participants de la blockchain se mettent d'accord sur l'état et la validité des transactions. Différents algorithmes de consensus, tels que la preuve de travail (proof of work) ou la preuve d'enjeu (proof of stake), permettent de sécuriser et de valider les transactions.
+  description_en: |
+    xx
+  tags: '#blockchain'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Contrat intelligent
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Les contrats intelligents sont des programmes informatiques autonomes et sécurisés, permettant l'exécution de transactions en fonction de conditions prédéfinies.
+  description_en: |
+    xx
+  tags: '#blockchain'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Fork
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Le fork est une séparation dans la blockchain résultant de divergences d'opinions entre les participants. Les forks peuvent être utilisés pour résoudre des problèmes de consensus ou explorer de nouvelles fonctionnalités.
+  description_en: |
+    xx
+  tags: '#transaction'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Interopérabilité
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    L'interopérabilité est la capacité des blockchains à interagir et à échanger des informations entre elles. Elle permet de créer des écosystèmes plus vastes et de faciliter l'échange d'actifs entre différentes blockchains.
+  description_en: |
+    xx
+  tags: '#blockchain'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Mineur
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Un mineur est un participant qui résout des calculs complexes (proof of work) ou qui détient une participation (proof of stake) pour valider les transactions et sécuriser le réseau de la blockchain.
+  description_en: |
+    xx
+  tags: '#blockchain'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: NFT
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Un NFT (Non-Fungible Token) est un type de token unique qui représente un actif numérique non interchangeable, tel qu'une œuvre d'art ou un objet de collection. Les NFT permettent de garantir l'authenticité et la propriété d'actifs numériques uniques.
+  description_en: |
+    xx
+  tags: '#wallet'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Noeud
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Un noeud est un ordinateur ou un serveur qui participe au réseau de la blockchain en stockant et en vérifiant les transactions, contribuant ainsi à la décentralisation et à la sécurité du réseau.
+  description_en: |
+    xx
+  tags: '#blockchain'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Ordonnancement
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    L'ordonnancement des transactions joue un rôle clé dans l'amélioration de la scalabilité en optimisant le traitement et la vitesse des transactions.
+  description_en: |
+    xx
+  tags: '#transaction'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: PoW, PoS
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Proof of Work (PoW) et le Proof of Stake (PoS) sont des algorithmes de consensus utilisés pour valider les transactions et sécuriser le réseau, en fonction du calcul de puissance (Proof of Work) ou de la détention d'enjeu (Proof of Stake).
+  description_en: |
+    xx
+  tags: '#blockchain'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Signature électronique
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    La signature électronique permet de vérifier l'authenticité et l'intégrité des données et des transactions en utilisant la combinaison de la clé privée et de l'algorithme de hachage.
+  description_en: |
+    xx
+  tags: '#wallet'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Token
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Le token est un actif numérique émis sur une blockchain, représentant une valeur ou un droit spécifique. Les tokens permettent de représenter et de transférer divers actifs, tels que des monnaies, des actions ou des droits de vote.
+  description_en: |
+    xx
+  tags: '#wallet'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Transaction
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Une transaction représente un transfert de fonds ou d'actifs sur la blockchain, permettant de suivre et de vérifier les mouvements d'argent ou d'actifs numériques.
+  description_en: |
+    xx
+  tags: '#transaction'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Validation
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    La validation des transactions est le processus par lequel les participants d'une blockchain vérifient et confirment l'exactitude et la légitimité des transactions avant de les ajouter à la chaîne de blocs, assurant ainsi la cohérence et la sécurité du réseau.
+  description_en: |
+    xx
+  tags: '#transaction'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Wallet
+  icon: data/icons/concept.svg
+  theme: Concepts
+  description_fr: |
+    Un wallet est un portefeuille numérique qui permet aux utilisateurs de stocker, gérer et effectuer des transactions avec leurs actifs numériques.
+  description_en: |
+    xx
+  tags: '#wallet'
+  cardcolor: environment_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA

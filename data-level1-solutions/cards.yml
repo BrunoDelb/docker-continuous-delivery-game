@@ -1,0 +1,322 @@
+---
+- title: Election sécurisée
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent de vote 2. Cryptographie à clé publique 3. Consensus. 
+    EXPLICATIONS : Chaque électeur possède une paire de clés publique/privée. Les votes sont chiffrés à l'aide de la clé publique de chaque électeur, assurant la confidentialité. Ensuite, le consensus est utilisé pour valider et compter les votes de manière transparente et sécurisée.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Droits d'accès
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat de DAO 2. Contrat intelligent 3. Signature numérique. 
+    EXPLICATIONS : Les utilisateurs peuvent proposer des modifications aux règles d'accès en soumettant des contrats intelligibles, qui sont votés et approuvés par les membres du DAO. Les signatures numériques sont utilisées pour vérifier l'identité des membres et garantir la sécurité des décisions prises.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Identité
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat d'identité numérique 2. Algorithme de hachage 3. Contrat Multisig. 
+    EXPLICATIONS : Les utilisateurs peuvent enregistrer leurs informations d'identité de manière sécurisée. Les informations d'identité sont hachées pour assurer la confidentialité, et un contrat multisig est utilisé pour valider les vérifications d'identité par plusieurs parties de confiance.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Marché
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Token 3. Escrow (Garantie). 
+    EXPLICATIONS : Les utilisateurs peuvent échanger des biens ou des services en utilisant des tokens. Un mécanisme d'escrow est mis en place pour garantir la sécurité des transactions, où les tokens sont gelés jusqu'à ce que les conditions de l'échange soient remplies.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Gouvernance
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat de DAO 2. Vote pondéré 3. Consensus. 
+    EXPLICATIONS : Les détenteurs de tokens peuvent proposer et voter sur des décisions importantes. Un contrat de gouvernance autonome (DAO) est utilisé pour gérer les propositions et les votes. Le vote peut être pondéré en fonction du nombre de tokens détenus par chaque votant. Le consensus est utilisé pour valider et mettre en œuvre les décisions prises par la communauté.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Traçabilité alimentaire
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Internet des objets (IoT) 3. Blockchain privée. 
+    EXPLICATIONS : Des contrats intelligents sont utilisés pour enregistrer les informations de chaque étape de la chaîne d'approvisionnement, depuis la production jusqu'à la livraison. L'IoT est utilisé pour collecter et transmettre des données en temps réel, telles que la température et la localisation des produits. Une blockchain privée peut être utilisée pour garantir la confidentialité des informations sensibles.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Authenticité dans le luxe
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Token non fongible (NFT) 3. Vérification physique. 
+    EXPLICATIONS : Chaque produit est associé à un NFT unique enregistré dans un contrat intelligent. Les utilisateurs peuvent scanner des codes QR ou des puces NFC sur les produits pour vérifier leur authenticité. Les détails de la vérification sont enregistrés sur la blockchain pour une traçabilité transparente.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Assurance
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Oracles 3. Réclamations et paiements. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour établir les termes et les conditions de l'assurance, ainsi que pour gérer les réclamations et les paiements. Les oracles, qui sont des sources externes de données, sont utilisés pour déclencher les réclamations et vérifier les événements assurés.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Financement participatif
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Prêt et emprunt 3. Pool de liquidités. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour faciliter les prêts et les emprunts entre les participants. Les pools de liquidités sont créés où les participants peuvent déposer des fonds pour gagner des intérêts ou emprunter des fonds à des taux compétitifs. Cela permet une participation équitable et transparente aux activités de financement.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Supply Chain
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. RFID 3. Blockchain privée. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour enregistrer les détails des produits à chaque étape de la chaîne d'approvisionnement. Des technologies telles que la RFID (Radio Frequency Identification) peuvent être utilisées pour suivre et enregistrer les mouvements des produits. Une blockchain privée est utilisée pour partager les informations de manière sécurisée entre les parties prenantes.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Antécédents
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat d'identité numérique 2. Stockage distribué 3. Algorithme de hachage. 
+    EXPLICATIONS : Les informations d'antécédents des individus, telles que les vérifications de casier judiciaire ou les références d'emploi, sont enregistrées dans des contrats d'identité numérique. Les informations sensibles sont hachées et stockées de manière distribuée pour garantir la confidentialité. Les utilisateurs peuvent donner un accès sélectif aux informations d'antécédents via des autorisations spécifiques.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Ressources en eau
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Capteurs IoT 2. Contrat intelligent 3. Blockchain privée. 
+    EXPLICATIONS : Des capteurs IoT sont utilisés pour surveiller les niveaux d'eau, la qualité et la consommation. Les contrats intelligents permettent la gestion automatisée des ressources en fonction des données des capteurs. Une blockchain privée peut être utilisée pour partager les informations de manière sécurisée avec les parties prenantes.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Crowdfunding
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Tokenisation 3. Mécanisme de consensus. 
+    EXPLICATIONS : Les projets peuvent être financés à l'aide de tokens. Les contrats intelligents sont utilisés pour gérer les contributions, la distribution des récompenses et les conditions de remboursement. La tokenisation permet aux contributeurs de recevoir des tokens représentant leur participation au projet. Un mécanisme de consensus est utilisé pour valider les transactions et garantir l'intégrité du processus de financement.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Revenus publicitaires
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Vérification d'activité 3. Blockchain publique. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour enregistrer les interactions publicitaires et calculer les revenus générés. La vérification d'activité permet de confirmer la diffusion réelle des publicités. Les revenus sont ensuite automatiquement répartis entre les créateurs de contenu et les annonceurs sur la base des conditions prédéfinies.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Enchères
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Enchères inversées 3. Blockchain publique. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour gérer le processus d'enchères, les offres et les paiements. Les enchères inversées peuvent être utilisées, où les vendeurs proposent des produits et les acheteurs font des offres pour obtenir le prix le plus bas. La blockchain publique garantit la transparence et l'intégrité du processus d'enchères.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Microcrédit
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Crédit scoring 3. Mécanisme de réputation. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour faciliter les demandes de crédit, l'évaluation du crédit scoring et les prêts. Les données des emprunteurs sont utilisées pour évaluer leur solvabilité et établir un historique de crédit. Un mécanisme de réputation peut également être mis en place, où les emprunteurs et les prêteurs accumulent une réputation basée sur leurs interactions passées.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Energie renouvelable
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Vérification d'énergie verte 3. Blockchain privée. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour faciliter les transactions d'énergie entre les producteurs et les consommateurs. La vérification d'énergie verte est réalisée pour garantir que l'énergie fournie provient de sources renouvelables. Une blockchain privée est utilisée pour enregistrer les données énergétiques et assurer la transparence et la traçabilité des transactions.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Diplômes
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Certification décentralisée 3. Blockchain publique. 
+    EXPLICATIONS : Les diplômes et les certifications sont enregistrés dans des contrats intelligents, ce qui permet aux employeurs de vérifier rapidement et de manière transparente l'authenticité des qualifications d'un individu. La blockchain publique assure la transparence et la vérifiabilité des informations tout en préservant la confidentialité des données personnelles.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Echange de carbone
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Vérification des crédits carbone 3. Blockchain publique. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour gérer les transactions de crédits carbone entre les parties prenantes. La vérification des crédits carbone est effectuée pour garantir la validité et la traçabilité des réductions d'émissions. La blockchain publique assure la transparence et l'auditabilité du processus d'échange de carbone.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Financement
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Transparence des fonds 3. Vérification de l'impact social. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour collecter les fonds des contributeurs et assurer une transparence totale sur la manière dont ces fonds sont utilisés. La vérification de l'impact social permet de mesurer et de rendre compte des résultats obtenus grâce aux financements, offrant ainsi une assurance aux contributeurs que leur argent est utilisé de manière efficace pour des causes sociales.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Location de voitures
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Vérification d'identité 3. Paiement sans intermédiaire. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour faciliter les transactions de location entre les propriétaires de voitures et les locataires. La vérification d'identité est effectuée pour garantir la sécurité et la confiance dans les transactions. Les paiements sont effectués directement entre les parties sans nécessiter d'intermédiaire, réduisant ainsi les frais et les délais.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Droits de PI
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Vérification des droits d'auteur 3. Répartition des redevances. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour enregistrer les droits d'auteur, les licences et les redevances associées aux œuvres musicales. La vérification des droits d'auteur permet de garantir l'authenticité et la propriété des œuvres, tandis que la répartition des redevances est automatisée et transparente, assurant une juste rémunération pour les artistes et les détenteurs de droits.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Talents
+  icon: data/icons/challenge.svg
+  theme: Solutions
+  description_fr: |
+    CONCEPTS : 1. Contrat intelligent 2. Profils de talents 3. Evaluation de performances. 
+    EXPLICATIONS : Les contrats intelligents sont utilisés pour enregistrer les profils de talents, les compétences et les réalisations des individus. Les évaluations de performances peuvent être réalisées par des pairs ou des employeurs, permettant une évaluation objective et transparente des talents.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: infrastructure_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA

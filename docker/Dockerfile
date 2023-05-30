@@ -12,7 +12,7 @@ RUN apt-get install -y \
       poppler-utils
 
 WORKDIR /app
+ADD app/ /app
 COPY Gemfile /app
 #ADD . /app
 RUN bundle install
-CMD ruby deck.rb

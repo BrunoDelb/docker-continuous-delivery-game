@@ -1,0 +1,299 @@
+---
+- title: Election sécurisée
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Mettre en place une élection sécurisée sur la blockchain, où chaque électeur peut voter.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Droits d'accès
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer une DAO pour gérer les droits d'accès à une ressource à partir de règles d'accès.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Identité
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer un mécanisme de vérification des informations d'identité numérique des individus sur la blockchain.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Marché
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer une solution de marché décentralisé où les utilisateurs peuvent échanger des biens ou des services. Les transactions être garanties.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Gouvernance
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer un système de gouvernance décentralisée où les détenteurs de tokens peuvent proposer et voter sur des décisions importantes. Il doit être possible de gérer les propositions et les votes.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Traçabilité alimentaire
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Mettre en place un système de traçabilité des produits alimentaires à l'aide de la blockchain. Utiliser l'IoT pour collecter et transmettre des données en temps réel, comme la température et la localisation des produits.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Authenticité dans le luxe
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer un système permettant de vérifier l'authenticité des produits de luxe sur la blockchain en utilisant des codes QR ou des puces NFC sur les produits.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Assurance
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Concevoir un système d'assurance décentralisée sur la blockchain permettant d'établir les termes et les conditions de l'assurance, ainsi de gérer les réclamations et les paiements.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Financement participatif
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer un système de financement participatif décentralisé sur la blockchain. Ce système doit faciliter les prêts et les emprunts entre les participants.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Supply Chain
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer une supply chain transparente en utilisant la blockchain en utilisant des technologies comme la RFID pour suivre et enregistrer les mouvements des produits.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Antécédents
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer un système de vérification des antécédents des individus, telles que les vérifications de casier judiciaire ou les références d'emploi, sur la blockchain.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Ressources en eau
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Mettre en place un système de gestion des ressources en eau basé sur la blockchain en utilisant des capteurs IoT pour surveiller les niveaux d'eau, la qualité et la consommation.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Crowdfunding
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer une plateforme de crowdfunding décentralisée où les projets peuvent être financés. Cette plateforme doit gérer les contributions, la distribution des récompenses et les conditions de remboursement.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Revenus publicitaires
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer un système de partage des revenus publicitaires équitable sur la blockchain. Ce système doit pouvoir enregistrer les interactions publicitaires et calculer les revenus générés.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Enchères
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer une plateforme de vente aux enchères décentralisée sur la blockchain. Cette plateforme doit gérer les offres et les paiements. Les enchères inversées peuvent être utilisées, où les vendeurs proposent des produits et les acheteurs font des offres pour obtenir le prix le plus bas.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Microcrédit
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer une plateforme de microcrédit décentralisée sur la blockchain. Cette plateforme doit gérer les demandes de crédit, l'évaluation du crédit scoring et les prêts.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Energie renouvelable
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Mettre en place un système de gestion de l'approvisionnement en énergie renouvelable sur la blockchain. Croncrètement, ce système doit faciliter les transactions d'énergie entre les producteurs et les consommateurs.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Diplômes
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Mettre en place un système de vérification des diplômes et des compétences professionnelles sur la blockchain.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Echange de carbone
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer une plateforme d'échange de carbone décentralisée sur la blockchain.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Financement
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer une plateforme de financement participatif sur la blockchain dédiée aux projets sociaux. Les contributeurs veulent avoir l'assurance que leur fonds sont utilisés de manière efficace pour des causes sociales.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Location de voitures
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer une plateforme de location de voitures décentralisée sur la blockchain.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Droits de PI
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Mettre en place un système de gestion sur la blockchain des droits de propriété intellectuelle des droits d'auteur, des licences et des redevances associées aux oeuvres musicales.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Talents
+  icon: data/icons/challenge.svg
+  theme: Challenges
+  description_fr: |
+    Créer une plateforme de gestion des talents décentralisée sur la blockchain permettant aux individus de se connecter avec des opportunités professionnelles.
+  description_en: |
+    xx
+  tags: '#challenge'
+  cardcolor: application_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
