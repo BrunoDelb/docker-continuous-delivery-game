@@ -16,9 +16,9 @@ warn_ellipsize: false
 #  foo: '#abc'
 
 custom_colors:
-  application_color: '#FF8000'
-  infrastructure_color: '#0080FF'
-  environment_color: '#00FF80'
+  orange_color: '#FF8000'
+  green_color: '#00FF80'
+  blue_color: '#00d0ff'
 
   light_text: '#FFFFFF'
   dark_text: '#000000'

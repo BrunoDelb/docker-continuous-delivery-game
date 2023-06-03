@@ -7,7 +7,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -20,7 +20,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -33,7 +33,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -46,7 +46,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -59,7 +59,7 @@
   description_en: |
     xx
   tags: 'Complexité: Élevé - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -72,7 +72,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -85,7 +85,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -98,7 +98,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -111,7 +111,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -124,7 +124,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -137,7 +137,7 @@
   description_en: |
     xx
   tags: 'xComplexité: Moyen - Importance: Elevéx'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -150,7 +150,7 @@
   description_en: |
     xx
   tags: 'Complexité: Élevé - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -163,7 +163,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -176,7 +176,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -189,7 +189,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -202,7 +202,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -215,7 +215,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -228,7 +228,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -241,7 +241,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -254,7 +254,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -267,7 +267,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -280,7 +280,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -293,7 +293,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyenxx'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -306,7 +306,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -319,7 +319,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -332,7 +332,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -345,7 +345,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -358,7 +358,7 @@
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -371,7 +371,7 @@
   description_en: |
     xx
   tags: 'Complexité: Bas - Importance: Elevé'
-  cardcolor: environment_color
+  cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA

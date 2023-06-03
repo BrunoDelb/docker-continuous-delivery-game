@@ -22,6 +22,7 @@ rm -rf $PWD/_output-level3-concepts
 rm -rf $PWD/_output-level1-solutions
 rm -rf $PWD/_output-level2-solutions
 rm -rf $PWD/_output-level3-solutions
+rm -rf $PWD/_output-game
 ```
 
 Run all:
@@ -38,4 +39,6 @@ docker run -it -v $PWD/data-level2-solutions:/app/data -v $PWD/_output-level2-so
 docker run -it -v $PWD/data-level3-challenges:/app/data -v $PWD/_output-level3-challenges:/app/_output card-game ruby deck.rb
 docker run -it -v $PWD/data-level3-concepts:/app/data -v $PWD/_output-level3-concepts:/app/_output card-game ruby deck.rb
 docker run -it -v $PWD/data-level3-solutions:/app/data -v $PWD/_output-level3-solutions:/app/_output card-game ruby deck.rb
+
+docker run -it -v $PWD/data-game:/app/data -v $PWD/_output-game:/app/_output card-game ruby deck.rb
 ```

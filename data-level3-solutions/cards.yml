@@ -8,7 +8,7 @@
   description_en: |
     xx
   tags: '#attaque'
-  cardcolor: infrastructure_color
+  cardcolor: green_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -22,7 +22,7 @@
   description_en: |
     xx
   tags: '#attaque'
-  cardcolor: infrastructure_color
+  cardcolor: green_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -36,7 +36,7 @@
   description_en: |
     xx
   tags: '#attaque'
-  cardcolor: infrastructure_color
+  cardcolor: green_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -50,7 +50,7 @@
   description_en: |
     xx
   tags: '#attaque'
-  cardcolor: infrastructure_color
+  cardcolor: green_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -64,7 +64,7 @@
   description_en: |
     xx
   tags: '#attaque'
-  cardcolor: infrastructure_color
+  cardcolor: green_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -78,7 +78,7 @@
   description_en: |
     xx
   tags: '#attaque'
-  cardcolor: infrastructure_color
+  cardcolor: green_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
@@ -92,7 +92,7 @@
   description_en: |
     xx
   tags: '#attaque'
-  cardcolor: infrastructure_color
+  cardcolor: green_color
   textcolor: black
   iconcolor: black
   cardPos: cardA

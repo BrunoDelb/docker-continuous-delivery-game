@@ -1,0 +1,585 @@
+---
+- title: Chaotic Codebreakers
+  icon: data/icons/frein.svg
+  theme: Hack de blockchain
+  description_fr: |
+    Hack de blockchain : Un hack réduit temporairement la sécurité de la blockchain ciblée, ce qui entraîne une perte de confiance des utilisateurs.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Double Trouble
+  icon: data/icons/frein.svg
+  theme: Double dépense
+  description_fr: |
+    Attaque par double dépense : Un hack réduit temporairement la sécurité de la blockchain ciblée, ce qui entraîne une perte de confiance des utilisateurs.
+  description_en: |
+    xx
+  tags: 'Cible: -3 / Vous: +2'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Deceptive Dealings
+  icon: data/icons/frein.svg
+  theme: Fausse transaction
+  description_fr: |
+    Fausse transaction : Un hack réduit temporairement la sécurité de la blockchain ciblée, ce qui entraîne une perte de confiance des utilisateurs.
+  description_en: |
+    xx
+  tags: 'Cible: -1 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Whispering Whirlwind
+  icon: data/icons/frein.svg
+  theme: Propagation de rumeurs
+  description_fr: |
+    Propagation de rumeurs : Un hack réduit temporairement la sécurité de la blockchain ciblée, ce qui entraîne une perte de confiance des utilisateurs.
+  description_en: |
+    xx
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Traffic Jam
+  icon: data/icons/frein.svg
+  theme: Congestion de réseau
+  description_fr: |
+    Congestion de réseau : Un hack réduit temporairement la sécurité de la blockchain ciblée, ce qui entraîne une perte de confiance des utilisateurs.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Chaos des Mineurs
+  icon: data/icons/frein.svg
+  theme: Attaque de consensus
+  description_fr: |
+    Attaque de consensus : Vous créez une division parmi les mineurs de la blockchain adverse, entraînant une baisse de la vitesse de confirmation des transactions.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Bulle de Savon
+  icon: data/icons/frein.svg
+  theme: Fausse publicité
+  description_fr: |
+    Fausse publicité : Vous diffusez de fausses informations sur la blockchain adverse pour décourager les utilisateurs potentiels.
+  description_en: |
+    xx
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Marteau de Thor
+  icon: data/icons/frein.svg
+  theme: Manipulation des prix
+  description_fr: |
+    Manipulation des prix : Vous menez une campagne de manipulation des prix de la crypto-monnaie de la blockchain adverse, causant de la volatilité.
+  description_en: |
+    xx
+  tags: 'Cible: -3 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Fantôme des Noeuds
+  icon: data/icons/frein.svg
+  theme: Brouillage
+  description_fr: |
+    Brouillage des communications : Vous perturbez les communications entre les noeuds de la blockchain adverse, entraînant des retards dans la transmission des transactions.
+  description_en: |
+    xx
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: La Main Invisible
+  icon: data/icons/frein.svg
+  theme: Lobbying réglementaire
+  description_fr: |
+    Lobbying réglementaire : Vous influencez les régulateurs pour introduire des mesures défavorables à la blockchain adverse, créant des obstacles juridiques.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Fracture Cryptographique
+  icon: data/icons/frein.svg
+  theme: Sabotage du consensus
+  description_fr: |
+    Sabotage du consensus : Vous perturbez le processus de consensus de la blockchain ciblée, entraînant des retards dans la validation des transactions.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Pillage des Hachages
+  icon: data/icons/frein.svg
+  theme: Vol de ressources
+  description_fr: |
+    Vol de ressources : Vous volez une partie des ressources (comme le pouvoir de hachage) de la blockchain adverse, ralentissant son fonctionnement.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Bogue Malicieux
+  icon: data/icons/frein.svg
+  theme: Propagation de virus
+  description_fr: |
+    Propagation de virus : Vous introduisez un virus malveillant dans la blockchain adverse, provoquant des erreurs et des dysfonctionnements.
+  description_en: |
+    xx
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Tempête Transactionnelle
+  icon: data/icons/frein.svg
+  theme: Attaque par DoS
+  description_fr: |
+    Attaque par déni de service : Vous inondez la blockchain adverse avec un grand nombre de transactions frauduleuses, la ralentissant et la surchargeant.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Loi de la Corde Raide
+  icon: data/icons/frein.svg
+  theme: Blocage réglementaire
+  description_fr: |
+    Blocage réglementaire : Vous influencez les régulateurs pour imposer des restrictions ou des réglementations strictes sur la blockchain adverse, entravant son adoption.
+  description_en: |
+    xx
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Savings Surge
+  icon: data/icons/adoption.svg
+  theme: Réduction des frais
+  description_fr: |
+    Réduction des frais de transaction : La réduction ds frais de transaction diminue les frais de transaction sur votre blockchain, incitant les utilisateurs à migrer vers votre réseau pour économiser des frais.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Innovation Injection"
+  icon: data/icons/adoption.svg
+  theme: Nouvelle fonctionnalité
+  description_fr: |
+    Nouvelle fonctionnalité : Une nouvelle fonctionnalité ajoute une nouvelle fonctionnalité ou un avantage unique à votre blockchain, attirant ainsi les utilisateurs qui recherchent des fonctionnalités avancées.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Guardian's Shield
+  icon: data/icons/adoption.svg
+  theme: Sécurisation
+  description_fr: |
+    Amélioration de la sécurité : L'amélioration de la sécurité renforce la sécurité de votre blockchain en introduisant des mesures de protection supplémentaires, rassurant les utilisateurs soucieux de la sécurité.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Early Bird Bonanza
+  icon: data/icons/adoption.svg
+  theme: Adoption précoce
+  description_fr: |
+    Récompenses d'adoption précoce : Les récompenses d'adoption précoce permettent d'offrir des récompenses spéciales ou des incitations aux utilisateurs qui adoptent votre blockchain dès le début.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Alliance Ace
+  icon: data/icons/adoption.svg
+  theme: Partenariat stratégique
+  description_fr: |
+    Partenariat stratégique : Un partenariat stratégique permet d'établir un partenariat avec une entreprise ou une entité influente, ce qui augmente la crédibilité et l'adoption de votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Fièvre de l'Adoption
+  icon: data/icons/adoption.svg
+  theme: Incitation à l'utilisation
+  description_fr: |
+    Programme d'incitation à l'utilisation : Vous lancez un programme de récompenses pour encourager les utilisateurs à adopter votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: L'Union des Titan
+  icon: data/icons/adoption.svg
+  theme: Fusion de blockchain
+  description_fr: |
+    Fusion avec une blockchain établie : Vous fusionnez votre blockchain avec une blockchain bien établie, attirant ainsi les utilisateurs de cette dernière.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +3'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Feux de la Rampe
+  icon: data/icons/adoption.svg
+  theme: Promotion médiatique
+  description_fr: |
+    Promotion médiatique : Vous menez une campagne médiatique intensive pour promouvoir les avantages de votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Porte d'Entrée
+  icon: data/icons/adoption.svg
+  theme: Intégration d'app
+  description_fr: |
+    Intégration d'applications populaires : Vous parvenez à l'intégration de votre blockchain dans des applications populaires, augmentant ainsi sa visibilité et son adoption.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Explosion Médiatique
+  icon: data/icons/adoption.svg
+  theme: Sensibilisation
+  description_fr: |
+    Evénement de sensibilisation : Vous organisez un événement majeur pour promouvoir votre blockchain et attirer l'attention des utilisateurs et des médias.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Grand Boum
+  icon: data/icons/adoption.svg
+  theme: Campagne marketing
+  description_fr: |
+    Campagne marketing massive : Vous lancez une campagne publicitaire de grande envergure pour promouvoir votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +3'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Alliance Éclair
+  icon: data/icons/adoption.svg
+  theme: Collaboration
+  description_fr: |
+    Collaboration stratégique : Vous établissez un partenariat avec une grande entreprise ou une institution influente pour intégrer votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: La Course Effrénée
+  icon: data/icons/adoption.svg
+  theme: Confirmation plus rapide
+  description_fr: |
+    Réduction des temps de confirmation : Vous optimisez le protocole de consensus de votre blockchain pour réduire considérablement les temps de confirmation des transactions.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: La Fête des Blocs
+  icon: data/icons/adoption.svg
+  theme: Evénement
+  description_fr: |
+    Evénement communautaire : Vous organisez un événement de grande envergure pour rassembler la communauté et susciter l'engouement pour votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Récompenses Enchantées
+  icon: data/icons/adoption.svg
+  theme: Participation
+  description_fr: |
+    Incitation à la participation : Vous offrez des récompenses spéciales aux utilisateurs qui contribuent activement à la sécurité ou au développement de votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Divergent Destiny
+  icon: data/icons/special.svg
+  theme: Hard fork
+  description_fr: |
+    Hard fork : Un hard fork divise la blockchain ciblée en deux versions distinctes, créant ainsi de la confusion et obligeant les utilisateurs à choisir leur camp.
+  description_en: |
+    xx
+  tags: 'Cible: -1 / Vous: -1'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: User Uprising
+  icon: data/icons/special.svg
+  theme: Mass adoption
+  description_fr: |
+    Mass adoption : L'adoption de masse accélère l'adoption de votre blockchain de manière exponentielle en attirant un grand nombre d'utilisateurs simultanément.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Glitch Gone Good
+  icon: data/icons/special.svg
+  theme: Bug fix
+  description_fr: |
+    Bug fix : La correction de bug résoud un problème majeur ou une vulnérabilité sur votre blockchain, rétablissant la confiance des utilisateurs et renforçant votre réseau.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Red Tape Tango
+  icon: data/icons/special.svg
+  theme: Régulation
+  description_fr: |
+    Régulation gouvernementale : La régulation gouvernementale influence les autorités pour mettre en place des réglementations favorables à votre blockchain, ce qui peut décourager les utilisateurs d'autres blockchains.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: -2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Mighty Miners
+  icon: data/icons/special.svg
+  theme: Super Mineur
+  description_fr: |
+    Super Mineur : Un super mineur permet d'obtenir un avantage en accélérant le processus de minage sur votre blockchain, augmentant ainsi la vitesse et l'efficacité des transactions.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: La Main du Pouvoir
+  icon: data/icons/special.svg
+  theme: Blockchain gouv
+  description_fr: |
+    Blockchain gouvernementale : Vous obtenez le soutien d'un gouvernement pour promouvoir votre blockchain, créant ainsi une adoption massive.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +4'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Big Bang Technologique
+  icon: data/icons/special.svg
+  theme: Révolution techno
+  description_fr: |
+    Révolution technologique : Vous développez une nouvelle technologie révolutionnaire pour votre blockchain, surpassant les fonctionnalités de toutes les autres blockchains.
+  description_en: |
+    xx
+  tags: 'Cible: -3 / Vous: +5'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Contrat Révolutionnaire
+  icon: data/icons/special.svg
+  theme: Contrat disruptif
+  description_fr: |
+    Contrat intelligent disruptif : Vous déployez un contrat intelligent innovant qui résout un problème majeur de l'industrie, attirant ainsi les utilisateurs vers votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Etoile Filante
+  icon: data/icons/special.svg
+  theme: Influence des célébrités
+  description_fr: |
+    Influence des célébrités : Vous obtenez le soutien et la promotion d'une célébrité ou d'un influenceur célèbre, générant un engouement massif pour votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Mur d'Impénétrabilité
+  icon: data/icons/special.svg
+  theme: Protection
+  description_fr: |
+    Protection contre les attaques : Vous développez une technologie de pointe pour renforcer la sécurité de votre blockchain, la protégeant contre les attaques externes.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Voyage Cosmique
+  icon: data/icons/special.svg
+  theme: Interopérabilité
+  description_fr: |
+    Chaîne de blocs interopérable : Vous proposez une interopérabilité révolutionnaire avec d'autres blockchains, ouvrant de nouvelles possibilités d'échange de données et d'actifs.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +4'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Esprit Libre
+  icon: data/icons/special.svg
+  theme: Contrat autonome
+  description_fr: |
+    Contrat intelligent autonome : Vous déployez un contrat intelligent autonome qui s'exécute automatiquement et offre des avantages uniques aux utilisateurs de votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Ruée vers l'Or Numérique
+  icon: data/icons/special.svg
+  theme: Récompense du minage
+  description_fr: |
+    Récompense du minage : Vous augmentez temporairement les récompenses de minage sur votre blockchain, attirant ainsi davantage de mineurs et renforçant la sécurité.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: La Bataille des Codeurs
+  icon: data/icons/special.svg
+  theme: Hackathon
+  description_fr: |
+    Hackathon : Vous organisez un hackathon pour encourager les développeurs à créer des applications innovantes sur votre blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Pouvoir du Peuple
+  icon: data/icons/special.svg
+  theme: Gouvernance
+  description_fr: |
+    Révolution de la gouvernance : Vous introduisez un nouveau modèle de gouvernance décentralisée sur votre blockchain, offrant plus de voix et d'influence aux utilisateurs.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
