@@ -3,7 +3,7 @@
   icon: data/icons/frein.svg
   theme: Hack de blockchain
   description_fr: |
-    Hack de blockchain : Un hack réduit temporairement la sécurité de la blockchain ciblée, ce qui entraîne une perte de confiance des utilisateurs.
+    Hack de blockchain : Un hacker attaque la blockchain cible, volant des centaines de milliers de Bitcoins. La confiance s'effondre. Panique parmi ses utilisateurs et méfiance envers cette blockchain.
   description_en: |
     xx
   tags: 'Cible: -2 / Vous: +1'
@@ -12,11 +12,63 @@
   iconcolor: black
   cardPos: cardA
 
+- title: Chaotic Codebreakers
+  icon: data/icons/frein.svg
+  theme: Hack de blockchain
+  description_fr: |
+    Hack de blockchain : Une attaque sur le contrat intelligent de la DAO de la blockchain cible provoque un détournement massif d'Ethers, divisant la communauté et créant un fork.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Chaotic Codebreakers
+  icon: data/icons/frein.svg
+  theme: Hack de blockchain
+  description_fr: |
+    Hack de blockchain : Un hackeur détourne des millions de dollars, mais surprend en restituant la majorité des fonds, invoquant des motivations éthiques.
+  description_en: |
+    xx
+  tags: 'Cible: -1 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Chaotic Codebreakers
+  icon: data/icons/frein.svg
+  theme: Hack de blockchain
+  description_fr: |
+    Hack de blockchain : Une faille dans la blockchain cible cause la perte de 150 000 Ether. Les pirates ont exploité une vulnérabilité du contrat intelligent, causant des pertes considérables pour les utilisateurs.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Chaotic Codebreakers
+  icon: data/icons/frein.svg
+  theme: Hack de blockchain
+  description_fr: |
+    Hack de blockchain : Un hacker prend le contrôle de la blockchain cible en manipulant les transactions et en effectuant des doubles dépenses, soulignant les vulnérabilités de ce type de blockchains.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: -1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
 - title: Double Trouble
   icon: data/icons/frein.svg
-  theme: Double dépense
+  theme: Hack de blockchain
   description_fr: |
-    Attaque par double dépense : Un hack réduit temporairement la sécurité de la blockchain ciblée, ce qui entraîne une perte de confiance des utilisateurs.
+    Attaque par double dépense : Un hacker a réussi à dépenser deux fois des jetons sur la blockchain cible, créant une perte financière significative pour les utilisateurs qui ont accepté les transactions frauduleuses et une perte de confiance dans la blockchain.
   description_en: |
     xx
   tags: 'Cible: -3 / Vous: +2'
@@ -29,7 +81,7 @@
   icon: data/icons/frein.svg
   theme: Fausse transaction
   description_fr: |
-    Fausse transaction : Un hack réduit temporairement la sécurité de la blockchain ciblée, ce qui entraîne une perte de confiance des utilisateurs.
+    Fausse transaction : La blockchain cible est attaquée par des transactions fictives. Confiance brisée, pertes massives, remise en question de la sécurité des plateformes d'échange.
   description_en: |
     xx
   tags: 'Cible: -1 / Vous: +1'
@@ -38,14 +90,14 @@
   iconcolor: black
   cardPos: cardA
 
-- title: Whispering Whirlwind
+- title: Deceptive Dealings
   icon: data/icons/frein.svg
-  theme: Propagation de rumeurs
+  theme: Fausse transaction
   description_fr: |
-    Propagation de rumeurs : Un hack réduit temporairement la sécurité de la blockchain ciblée, ce qui entraîne une perte de confiance des utilisateurs.
+    Fausse transaction : Une fausse transaction DeFi sur la blockchain cible escroque les investisseurs, entraînant des pertes financières et sapant la confiance envers les projets DeFi.
   description_en: |
     xx
-  tags: 'Cible: -1 / Vous: 0'
+  tags: 'Cible: -1 / Vous: +1'
   cardcolor: green_color
   textcolor: black
   iconcolor: black
@@ -55,7 +107,46 @@
   icon: data/icons/frein.svg
   theme: Congestion de réseau
   description_fr: |
-    Congestion de réseau : Un hack réduit temporairement la sécurité de la blockchain ciblée, ce qui entraîne une perte de confiance des utilisateurs.
+    Congestion de réseau : La popularité des protocoles DeFi sur la blockchain cible crée une congestion majeure. Délais de confirmation rallongés et frais de transaction élevés pour les utilisateurs.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Traffic Jam
+  icon: data/icons/frein.svg
+  theme: Congestion de réseau
+  description_fr: |
+    Congestion de réseau : Les utilisateurs de la blockchain cible payant moins attendent plus longtemps, entraînant des retards. Améliorer l'évolutivité des blockchains est essentiel.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Traffic Jam
+  icon: data/icons/frein.svg
+  theme: Congestion de réseau
+  description_fr: |
+    Congestion de réseau : Suite à la frénésie des NFTs DigitalPaws, le réseau de la blockchain cible est congesté. Des retards et des frais élevés sont constatés. Les joueurs ont dû faire preuve de patience face à l'engouement pour les "Paws" numériques.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Traffic Jam
+  icon: data/icons/frein.svg
+  theme: Congestion de réseau
+  description_fr: |
+    Congestion de réseau : La hausse des prix congestionne le réseau, générant des frais élevés et des délais de confirmation plus longs.
   description_en: |
     xx
   tags: 'Cible: -2 / Vous: 0'
@@ -68,7 +159,46 @@
   icon: data/icons/frein.svg
   theme: Attaque de consensus
   description_fr: |
-    Attaque de consensus : Vous créez une division parmi les mineurs de la blockchain adverse, entraînant une baisse de la vitesse de confirmation des transactions.
+    Attaque de consensus : Un groupe prend le contrôle de 51% de la puissance de calcul de la blockchain cible (Proof of Work), effectuant des doubles dépenses et ébranlant la confiance. La valeur du token chute. La communauté s'unit pour contrer l'attaque et renforcer la sécurité.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Chaos des Mineurs
+  icon: data/icons/frein.svg
+  theme: Attaque de consensus
+  description_fr: |
+    Attaque de consensus : Un groupe détient une grande quantité de tokens de la blockchain cible (Proof of Stake) et contrôle plus d'un tiers des avoirs. Ils manipulent les récompenses et excluent les utilisateurs légitimes. La communauté réagit en demandant une décentralisation et une démocratie renforcée sur la blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Chaos des Mineurs
+  icon: data/icons/frein.svg
+  theme: Attaque de consensus
+  description_fr: |
+    Attaque de consensus : Une attaque massive de déni de service paralyse la blockchain cible. Surchargeant les noeuds avec des transactions malveillantes, des retards majeurs se produisent. La confiance diminue, les prix deviennent volatils.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Chaos des Mineurs
+  icon: data/icons/frein.svg
+  theme: Attaque de consensus
+  description_fr: |
+    Attaque de consensus : Des noeuds malveillants envahissent la blockchain cible, mettant en péril sécurité et consensus. Les détenteurs de tokens unissent leurs forces pour isoler les noeuds et renforcer la détection, prévenant ainsi de futures manipulations.
   description_en: |
     xx
   tags: 'Cible: -2 / Vous: 0'
@@ -96,7 +226,7 @@
   description_fr: |
     Manipulation des prix : Vous menez une campagne de manipulation des prix de la crypto-monnaie de la blockchain adverse, causant de la volatilité.
   description_en: |
-    xx
+    wash trading, pump and dump, rug, falsification de spread, diffusion de fausses informations
   tags: 'Cible: -3 / Vous: 0'
   cardcolor: green_color
   textcolor: black
@@ -111,32 +241,6 @@
   description_en: |
     xx
   tags: 'Cible: -1 / Vous: 0'
-  cardcolor: green_color
-  textcolor: black
-  iconcolor: black
-  cardPos: cardA
-
-- title: La Main Invisible
-  icon: data/icons/frein.svg
-  theme: Lobbying réglementaire
-  description_fr: |
-    Lobbying réglementaire : Vous influencez les régulateurs pour introduire des mesures défavorables à la blockchain adverse, créant des obstacles juridiques.
-  description_en: |
-    xx
-  tags: 'Cible: -2 / Vous: 0'
-  cardcolor: green_color
-  textcolor: black
-  iconcolor: black
-  cardPos: cardA
-
-- title: Fracture Cryptographique
-  icon: data/icons/frein.svg
-  theme: Sabotage du consensus
-  description_fr: |
-    Sabotage du consensus : Vous perturbez le processus de consensus de la blockchain ciblée, entraînant des retards dans la validation des transactions.
-  description_en: |
-    xx
-  tags: 'Cible: -2 / Vous: 0'
   cardcolor: green_color
   textcolor: black
   iconcolor: black
@@ -233,7 +337,7 @@
   iconcolor: black
   cardPos: cardA
 
-- title: Early Bird Bonanza
+- title: Early Bird
   icon: data/icons/adoption.svg
   theme: Adoption précoce
   description_fr: |
@@ -267,19 +371,6 @@
   description_en: |
     xx
   tags: 'Cible: 0 / Vous: +2'
-  cardcolor: orange_color
-  textcolor: black
-  iconcolor: black
-  cardPos: cardA
-
-- title: L'Union des Titan
-  icon: data/icons/adoption.svg
-  theme: Fusion de blockchain
-  description_fr: |
-    Fusion avec une blockchain établie : Vous fusionnez votre blockchain avec une blockchain bien établie, attirant ainsi les utilisateurs de cette dernière.
-  description_en: |
-    xx
-  tags: 'Cible: 0 / Vous: +3'
   cardcolor: orange_color
   textcolor: black
   iconcolor: black
@@ -324,20 +415,7 @@
   iconcolor: black
   cardPos: cardA
 
-- title: Le Grand Boum
-  icon: data/icons/adoption.svg
-  theme: Campagne marketing
-  description_fr: |
-    Campagne marketing massive : Vous lancez une campagne publicitaire de grande envergure pour promouvoir votre blockchain.
-  description_en: |
-    xx
-  tags: 'Cible: 0 / Vous: +3'
-  cardcolor: orange_color
-  textcolor: black
-  iconcolor: black
-  cardPos: cardA
-
-- title: Alliance Éclair
+- title: Alliance Eclair
   icon: data/icons/adoption.svg
   theme: Collaboration
   description_fr: |
@@ -352,7 +430,7 @@
 
 - title: La Course Effrénée
   icon: data/icons/adoption.svg
-  theme: Confirmation plus rapide
+  theme: Confirmation + rapide
   description_fr: |
     Réduction des temps de confirmation : Vous optimisez le protocole de consensus de votre blockchain pour réduire considérablement les temps de confirmation des transactions.
   description_en: |
@@ -409,13 +487,13 @@
     Mass adoption : L'adoption de masse accélère l'adoption de votre blockchain de manière exponentielle en attirant un grand nombre d'utilisateurs simultanément.
   description_en: |
     xx
-  tags: 'Cible: 0 / Vous: +3'
+  tags: 'Cible: +2 / Vous: +3'
   cardcolor: blue_color
   textcolor: black
   iconcolor: black
   cardPos: cardA
 
-- title: Glitch Gone Good
+- title: Bug Buster
   icon: data/icons/special.svg
   theme: Bug fix
   description_fr: |
@@ -428,27 +506,14 @@
   iconcolor: black
   cardPos: cardA
 
-- title: Red Tape Tango
+- title: Rule Master
   icon: data/icons/special.svg
   theme: Régulation
   description_fr: |
     Régulation gouvernementale : La régulation gouvernementale influence les autorités pour mettre en place des réglementations favorables à votre blockchain, ce qui peut décourager les utilisateurs d'autres blockchains.
   description_en: |
     xx
-  tags: 'Cible: 0 / Vous: -2'
-  cardcolor: blue_color
-  textcolor: black
-  iconcolor: black
-  cardPos: cardA
-
-- title: Mighty Miners
-  icon: data/icons/special.svg
-  theme: Super Mineur
-  description_fr: |
-    Super Mineur : Un super mineur permet d'obtenir un avantage en accélérant le processus de minage sur votre blockchain, augmentant ainsi la vitesse et l'efficacité des transactions.
-  description_en: |
-    xx
-  tags: 'Cible: 0 / Vous: +1'
+  tags: 'Cible: -2 / Vous: -2'
   cardcolor: blue_color
   textcolor: black
   iconcolor: black
@@ -474,7 +539,7 @@
     Révolution technologique : Vous développez une nouvelle technologie révolutionnaire pour votre blockchain, surpassant les fonctionnalités de toutes les autres blockchains.
   description_en: |
     xx
-  tags: 'Cible: -3 / Vous: +5'
+  tags: 'Cible: -1 / Vous: +3'
   cardcolor: blue_color
   textcolor: black
   iconcolor: black
@@ -495,7 +560,7 @@
 
 - title: Etoile Filante
   icon: data/icons/special.svg
-  theme: Influence des célébrités
+  theme: Célébrités
   description_fr: |
     Influence des célébrités : Vous obtenez le soutien et la promotion d'une célébrité ou d'un influenceur célèbre, générant un engouement massif pour votre blockchain.
   description_en: |
@@ -506,7 +571,7 @@
   iconcolor: black
   cardPos: cardA
 
-- title: Mur d'Impénétrabilité
+- title: Guardzilla
   icon: data/icons/special.svg
   theme: Protection
   description_fr: |
@@ -526,20 +591,7 @@
     Chaîne de blocs interopérable : Vous proposez une interopérabilité révolutionnaire avec d'autres blockchains, ouvrant de nouvelles possibilités d'échange de données et d'actifs.
   description_en: |
     xx
-  tags: 'Cible: 0 / Vous: +4'
-  cardcolor: blue_color
-  textcolor: black
-  iconcolor: black
-  cardPos: cardA
-
-- title: Esprit Libre
-  icon: data/icons/special.svg
-  theme: Contrat autonome
-  description_fr: |
-    Contrat intelligent autonome : Vous déployez un contrat intelligent autonome qui s'exécute automatiquement et offre des avantages uniques aux utilisateurs de votre blockchain.
-  description_en: |
-    xx
-  tags: 'Cible: 0 / Vous: +3'
+  tags: 'Cible: +1 / Vous: +4'
   cardcolor: blue_color
   textcolor: black
   iconcolor: black
@@ -547,7 +599,7 @@
 
 - title: Ruée vers l'Or Numérique
   icon: data/icons/special.svg
-  theme: Récompense du minage
+  theme: Récompense minage
   description_fr: |
     Récompense du minage : Vous augmentez temporairement les récompenses de minage sur votre blockchain, attirant ainsi davantage de mineurs et renforçant la sécurité.
   description_en: |
@@ -583,3 +635,30 @@
   textcolor: black
   iconcolor: black
   cardPos: cardA
+
+- title: Révolution réglementaire
+  icon: data/icons/special.svg
+  theme: Lobbying positif
+  description_fr: |
+    Lobbying réglementaire positif : Vous influencez les régulateurs et parvenez à introduire des mesures favorables aux blockchains.
+  description_en: |
+    xx
+  tags: 'Cible: 2 / Vous: 3'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Ruse de l'ombre
+  icon: data/icons/special.svg
+  theme: Lobbying négatif
+  description_fr: |
+    Lobbying réglementaire négatif : Les opposants aux blockchains influencez les régulateurs et parviennent à introduire des mesures défavorables aux blockchains.
+  description_en: |
+    xx
+  tags: 'Cible: -2 / Vous: -2'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+

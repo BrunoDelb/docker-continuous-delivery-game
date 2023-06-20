@@ -198,7 +198,7 @@
   icon: data/icons/concept.svg
   theme: Concepts
   description_fr: |
-    Un fork dur est une modification majeure du protocole qui rend les versions précédentes incompatibles, tandis qu'un fork doux est une mise à jour compatible avec les versions précédentes.
+    Un hard fork est une modification majeure du protocole qui rend les versions précédentes incompatibles, tandis qu'un fork doux est une mise à jour compatible avec les versions précédentes.
   description_en: |
     xx
   tags: 'Complexité: Moyen - Importance: Moyen'

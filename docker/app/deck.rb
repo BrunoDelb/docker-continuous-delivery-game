@@ -26,8 +26,8 @@ def cutmark(top, left, right, bottom, size)
   line x1: left, y1: bottom, x2: left+size, y2: bottom, stroke_width: 1, cap: :round, stroke_color: 'white'
   line x1: left, y1: bottom, x2: left, y2: bottom-size, stroke_width: 1, cap: :round, stroke_color: 'white'
 
-  line x1: right, y1: bottom, x2: right-size, y2: bottom, stroke_width: 1, cap: :round, stroke_color: 'white'
-  line x1: right, y1: bottom, x2: right, y2: bottom-size, stroke_width: 1, cap: :round, stroke_color: 'white'
+  #line x1: right, y1: bottom, x2: right-size, y2: bottom, stroke_width: 1, cap: :round, stroke_color: 'white'
+  #line x1: right, y1: bottom, x2: right, y2: bottom-size, stroke_width: 1, cap: :round, stroke_color: 'white'
 end
 
 def save_home_made(file)
@@ -47,7 +47,7 @@ end
 def make_cards(description, output_file)
   Squib::Deck.new(cards: Cards.size, layout: 'layout-cards.yml') do
     background color: 'white'
-    rect layout: 'cut' # cut line as defined by TheGameCrafter
+    #rect layout: 'cut' # cut line as defined by TheGameCrafter
     rect layout: 'safe', stroke_color: Cards2.cardcolor # safe zone as defined by TheGameCrafter
     rect layout: 'HeaderFlatBottom', fill_color: Cards2.cardcolor
     rect layout: 'HeaderRound', fill_color: Cards2.cardcolor
