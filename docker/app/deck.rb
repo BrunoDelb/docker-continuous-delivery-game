@@ -52,10 +52,10 @@ def make_cards(description, output_file)
     rect layout: 'HeaderFlatBottom', fill_color: Cards2.cardcolor
     rect layout: 'HeaderRound', fill_color: Cards2.cardcolor
 
-    card_marker = ['CardA', 'CardB', 'CardC']
-    0.upto(Cards.size-1) do |n|
-      rect range: n, layout: card_marker[n % 3], fill_color: Cards2.textcolor, stroke_color: Cards2.textcolor
-    end
+    #card_marker = ['CardA', 'CardB', 'CardC']
+    #0.upto(Cards.size-1) do |n|
+    #  rect range: n, layout: card_marker[n % 3], fill_color: Cards2.textcolor, stroke_color: Cards2.textcolor
+    #end
     
     text str: Cards2.title, layout: 'Title', color: Cards.map { |e| e["textcolor"]}
     text str: Cards2.theme, layout: 'Theme'

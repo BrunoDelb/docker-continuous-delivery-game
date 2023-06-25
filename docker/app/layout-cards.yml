@@ -85,7 +85,7 @@ icon:
 Title:
   extends: AllText
   font: ChunkFive Roman,Sans bold
-  font_size: 8 #35
+  font_size: 7 #35
   width: 500
   x: 220
   y: 140
