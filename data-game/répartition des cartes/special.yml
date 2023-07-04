@@ -1,0 +1,168 @@
+- title: NFT Extravaganza
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Un NFT de votre blockchain bat tous les records en se vendant à des millions de dollars, rendant les autres collectionneurs verts de jalousie !
+  description_en: |
+    Vente de NFT record : Un NFT sur votre blockchain atteint des millions de dollars, bouleversant l'industrie des NFT et captivant les collectionneurs et investisseurs mondiaux.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Blockchain Nation
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Un pays instable adopte votre blockchain, propulsant le prix du token vers des sommets stratosphériques et ébranlant les économies traditionnelles !
+  description_en: |
+    Adoption par un pays entier : Votre blockchain est adoptée par un pays instable, ce qui permet de renforcer la confiance et facilite les transactions. Le prix du token augmente, booste l'économie et permet l'adoption des crypto-monnaies.
+  tags: 'Cible: +2 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: DéFi Mania
+  icon: data/icons/adoption.svg
+  theme: Spécial
+  description_fr: |
+    Le DeFi fait un carton sur votre blockchain avec des frais minimes et des incitations attrayantes, attirant tous les aventuriers de la finance décentralisée !
+  description_en: |
+    Adoption massive de DeFi : Le DeFi booste l'adoption de votre blockchain avec des frais réduits et des incitations.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Pizza Party Bitcoin
+  icon: data/icons/adoption.svg
+  theme: Spécial
+  description_fr: |
+    22 mai 2010, première transaction réelle avec Bitcoin : Laszlo Hanyecz achète 2 pizzas pour 10 000 BTC. On célèbre le jour où Bitcoin a été utilisé pour acheter des pizzas en distribuant des récompenses en crypto lors d'une fête épique !
+  description_en: |
+    22 mai 2010, première transaction réelle avec Bitcoin : Laszlo Hanyecz achète 2 pizzas pour 10 000 BTC. Vous célébrez en distribuant des récompenses en crypto lors d'une fête !
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: L'Escroquerie Catastrophe
+  icon: data/icons/frein.svg
+  theme: Spécial
+  description_fr: |
+    Une fraude retentissante (Scam) secoue la blockchain cible, donnant le vertige aux investisseurs et semant la zizanie dans l'écosystème crypto.
+  description_en: |
+    Scam : Fraude majeure impliquant la blockchain cible, arnaquant des investisseurs et provoquant la perte de millions de dollars.
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Contrat Farceur
+  icon: data/icons/frein.svg
+  theme: Spécial
+  description_fr: |
+    Une faille de sécurité dans un smart contract de la blockchain joue avec les fonds des utilisateurs, faisant des dégâts financiers et brisant des cœurs crypto.
+  description_en: |
+    Smart contract défaillant : Une faille de sécurité sur la blockchain cible exploite les fonds des utilisateurs, causant d'importantes pertes financières et sapant la confiance dans la blockchain.
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: NFT Frenzy
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Un artiste célèbre lance sa collection de NFT sur votre blockchain, créant une frénésie chez les fans et les investisseurs, avec des NFT atteignant des prix stratosphériques !
+  description_en: |
+    Nouvelle collective d'un célèbre artiste : Un célèbre artiste lance sa propre collection de NFT sur votre blockchain. La demande explose, les fans et les investisseurs se ruent pour acheter ces NFT. Ces créations deviennent des objets de collection prisés, atteignant des prix exorbitants.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: La Blockchain du Futur
+  icon: data/icons/adoption.svg
+  theme: Spécial
+  description_fr: |
+    Votre blockchain révolutionnaire, rapide et écolo, crée une ruée sans précédent grâce à une promotion médiatique déchaînée !
+  description_en: |
+    Nouvelle génération de blockchain : Votre blockchain, révolutionnaire, rapide et écologique, connaît un engouement massif grâce à une promotion médiatique.
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Crypto-Ecolo
+  icon: data/icons/adoption.svg
+  theme: Récompenses
+  description_fr: |
+    Les mineurs écolos de votre blockchain Proof of Work, alimentés par des énergies renouvelables, reçoivent des tokens supplémentaires. Faites un pas vers une utilisation d'énergie verte, réduisez votre empreinte carbone et profitez d'avantages exclusifs.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Stablecoin Mania
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Votre nouveau stablecoin séduit les foules avec sa valeur stable, sa liquidité instantanée et ses frais réduits, transformant les échanges et les paiements mondiaux !
+  description_en: |
+    Adoption de masse des stablecoins : Un nouveau stablecoin de votre blockchain bénéficie d'une valeur stable, d'une liquidité instantanée et de frais réduits. Cela permet des échanges rapides et des paiements mondiaux sans volatilité des crypto-monnaies.
+  tags: 'Cible: +2 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Contrats Intelligents Futuristes
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    L'IA révolutionne vos contrats intelligents en prenant des décisions éclairées, créant une demande sans fin et faisant frétiller les investisseurs.
+  description_en: |
+    Intégration de l'IA dans les contrats intelligents : L'intelligence artificielle révolutionne les contrats intelligents sur votre blockchain en permettant une analyse automatique des données et une prise de décisions autonomes. Cela provoque une demande croissante et un intérêt industriel.
+  tags: 'Cible: -1 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Chaînes en Fusion
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Votre blockchain rejoint une union de blockchains, ouvrant les portes à une interconnectivité passionnante, des transferts d'actifs fluides et des interactions transchaines !
+  description_en: |
+    Les mineurs écolos de votre blockchain Proof of Work, alimentés par des énergies renouvelables, reçoivent des tokens supplémentaires. Faites un pas vers une utilisation d'énergie verte, réduisez votre empreinte carbone et profitez d'avantages exclusifs.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Projet Crypto Fantastique
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Une équipe talentueuse remporte un concours épique avec votre blockchain en proposant un projet révolutionnaire qui repousse les limites de l'imagination. Leur innovation éblouissante intrigue les investisseurs et fait tourner les têtes dans l'industrie. Soyez prêt à embarquer dans cette aventure extraordinaire et à récolter des récompenses au-delà de vos rêves les plus fous !
+  description_en: |
+    Solution d'identité décentralisée : Une équipe gagne un hackathon organisé avec votre blockchain avec une identité décentralisée révolutionnaire, donnant aux utilisateurs le contrôle total de leurs données, éliminant les intermédiaires et renforçant la confidentialité. Le projet est primé et attire l'intérêt des grandes organisations.
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA

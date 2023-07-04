@@ -1,0 +1,203 @@
+- title: Le Prêt Equitable
+  icon: data/icons/special.svg
+  theme: Contrat intelligent
+  description_fr: |
+    Prêt décentralisé : Votre blockchain offre des prêts avec un taux et une durée fixés. Les utilisateurs peuvent emprunter en utilisant leurs actifs en garantie et peuvent ainsi avoir un accès aux liquidités sans banque traditionnelle.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: La Galerie Lucrative
+  icon: data/icons/special.svg
+  theme: Contrat intelligent
+  description_fr: |
+    Royalties d'art numérique : Un contrat intelligent d'artiste sur votre blockchain permet de créer, de vendre et de gagner des royalties sur des oeuvres d'art numériques. Les reventes génèrent automatiquement des revenus pour les artistes. Cela apporte une source de revenus transparente et continue.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Partage Equitable
+  icon: data/icons/special.svg
+  theme: Contrat intelligent
+  description_fr: |
+    Partage de ressources peer-to-peer : Vous déployez sur votre blockchain un contrat intelligent pour le partage peer-to-peer de voitures. Les utilisateurs peuvent accéder aux ressources moyennant paiement sécurisé.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Bouclier Sans Faille
+  icon: data/icons/special.svg
+  theme: Contrat intelligent
+  description_fr: |
+    Assurance décentralisée : Vous déployez sur votre blockchain un contrat intelligent d'assurance décentralisée qui permet d'offrir une couverture transparente et sécurisée. Cela permet à votre blockchain de gagner en popularité et de devenir plus influente.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Transfert Monde
+  icon: data/icons/special.svg
+  theme: Adoption
+  description_fr: |
+    Révolution des transferts d'argent mondiaux : rapides, sécurisés et abordables. Cela donne des avantages pour les travailleurs migrants, les entreprises et les économies en développement.
+  description_en: |
+    xx
+  tags: 'Cible: +2 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Supply Chain Révo
+  icon: data/icons/special.svg
+  theme: Adoption
+  description_fr: |
+    Révolution des chaînes d'approvisionnement mondiales grâce à la traçabilité, la transparence et la sécurité améliorées. Elle permet de vérifier l'origine et l'authenticité des produits et d'éliminer les contrefaçons. Elle permet aussi une consommation plus éthique et responsable.
+  description_en: |
+    xx
+  tags: 'Cible: +2 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Santé Numérique
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Votre blockchain propose un système de gestion des dossiers de santé basé sur la blockchain. Les utilisateurs peuvent stocker et partager leurs informations médicales en toute sécurité, améliorant la coordination des soins et préservant la confidentialité des données sensibles.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +4'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Vote Verrouillé
+  icon: data/icons/adoption.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Vote électronique sécurisé : Votre blockchain est utilisée pour les élections et pour réaliser des sondages en toute confiance.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Identité Fortifiée
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Votre blockchain permet aux utilisateurs de bénéficier d'une identité numérique sécurisée et d'un accès facile aux services gouvernementaux en ligne.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +4'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Foncier Invincible
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Votre blockchain offre un registre foncier sécurisé afin d'enregistrer les biens des utilisateurs, d'assurer les transactions immobilières et de faciliter les transferts de propriété.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +4'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Mur Impénétrable
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Bouclier de confidentialité : Votre blockchain permet d'assurer des transactions anonymes et sécurisées, attirant les utilisateurs et entreprises soucieux de leur vie privée. La confiance grandit, favorisant une adoption croissante.
+  description_en: |
+    xx
+  tags: 'Cible: -1 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+=> reformuler
+- title: L'Identité Sans Frontières
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Solution d'identité décentralisée : Une équipe gagne un hackathon organisé avec votre blockchain avec une identité décentralisée révolutionnaire, donnant aux utilisateurs le contrôle total de leurs données, éliminant les intermédiaires et renforçant la confidentialité. Le projet est primé et attire l'intérêt des grandes organisations.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+=> reformuler
+- title: La Chaîne de Confiance
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Blockchain au service de la transparence de la Supply Chain : Une équipe remporte un hackathon organisé par votre blockchain en développant une application blockchain pour tracer les produits dans la chaîne d'approvisionnement. La transparence accrue suscite l'intérêt des entreprises et des consommateurs en quête de provenance et d'authenticité.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+=> reformuler
+- title: La Révolution Solidaire
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    La blockchain au service de l'impact social : Une équipe au hackathon organisé par votre blockchain remporte un hackathon en développant une plateforme blockchain pour les dons sociaux transparents et traçables. Il attire les ONGs grâce à sa transparence et à son efficacité.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+=> reformuler
+- title: L'Egalité Monétaire
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Blockchain au service de l'inclusion financière : Une équipe gagne le hackathon organisé par votre équipe en créant une application sur blockchain pour l'inclusion financière. Elle facilite l'accès aux services financiers pour les non-bancarisés via une identité vérifiable et des transactions décentralisées. Le projet reçoit un financement pour être déployé à grande échelle.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+
+
+
+=> tokenisation

@@ -57,8 +57,7 @@ def make_cards(description, output_file)
     #  rect range: n, layout: card_marker[n % 3], fill_color: Cards2.textcolor, stroke_color: Cards2.textcolor
     #end
     
-    #text str: Cards2.title, layout: 'Title', color: Cards.map { |e| e["textcolor"]}
-    text str: Cards2.title, layout: 'LTitle', color: Cards.map { |e| e["textcolor"]}
+    text str: Cards2.title, layout: 'Title', color: Cards.map { |e| e["textcolor"]}
     text str: Cards2.theme, layout: 'Theme'
     text str: description, layout: 'Description'
     # print 'color : %s', Cards2.textcolor
@@ -67,7 +66,6 @@ def make_cards(description, output_file)
     #   svg mask: '#000000', file: Cards2.icon, layout: 'icon'
     # else
       svg mask: Cards2.iconcolor, file: Cards2.icon, layout: 'icon'
-      png file: Card2.image, layout: 'image'
     # end
     text str: Cards2.tags, layout: 'Tags', color: 'black'
 

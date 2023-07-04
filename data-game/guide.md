@@ -34,7 +34,7 @@ Qui sortira victorieux de cette bataille blockchain ? Préparez-vous à un voyag
     - A chaque tour, chaque équipe peut effectuer une action en jouant une carte de sa main.
     - Chaque équipe lance un dé. Si le dé est pair, une carte spéciale est tirée en plus.
   - Les règles spécifiques sur chaque carte sont appliquées.
-  - Le score est actualisé.
+  - Les tokens sont actualisés.
   - Le jeu se termine quand plus aucune équipe n'a de carte.
 
 - Le gagnant

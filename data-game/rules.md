@@ -29,7 +29,7 @@ Certaines cartes permettent de freiner l'adoption, d'autres l'accélérer.
 - A chaque tour, chaque équipe peut effectuer une action en jouant une carte de sa main.
 - Chaque équipe lance un dé. Si le dé est pair, une carte spéciale est tirée en plus.
 - Les règles spécifiques sur chaque carte sont appliquées.
-- Le score est actualisé.
+- Les tokens sont actualisés.
 - Le jeu se termine quand plus aucune équipe n'a de carte.
 - Comparez les niveaux d'adoption des blockchains de chaque équipe.
 - L'équipe ayant la plus grande adoption remporte la partie.
@@ -43,6 +43,3 @@ Vous pouvez permettre aux équipes d'échanger des cartes entre elles ou d'en ga
 - Ajouter des conditions
 - Revoir les noms trop compliqués
 - sur la carte gouvernance ajouter le mot "dao"
-
-Bitcoin     : 21
-Victoria VR : 22

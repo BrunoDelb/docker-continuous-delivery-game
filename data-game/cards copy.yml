@@ -1,0 +1,105 @@
+---
+- title: Portail de l'Interconnectivité
+  icon: data/icons/adoption.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Portail de l'interconnectivité : L'échange d'actifs et de données entre votre blockchain et d'autres blockchains renforcent l'adoption et élargissant l'écosystème.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Bouclier de l'Anonymat
+  icon: data/icons/adoption.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Bouclier anonyme : Protection accrue des données et transactions des utilisateurs sur votre blockchain, renforçant la confiance et l'adoption de la blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Prêt Magique
+  icon: data/icons/adoption.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Opportunité de prêt décentralisé : Le prêt décentralisé permet d'obtenir des taux réduits et des avantages spéciaux sur votre blockchain. Il permet d'emprunter et de prêter en toute confiance, sans intermédiaires. La transparence et la compétitivité attirent de nombreux participants.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Parrainage Epique
+  icon: data/icons/adoption.svg
+  theme: Récompenses
+  description_fr: |
+    Programme de parrainage : En invitant de nouveaux utilisateurs à rejoindre votre blockchain, un utilisateur obtient des récompenses chaque fois qu'ils s'inscrivent ou agissent. Cela permet de renforcer la communauté et d'augmenter les récompenses.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: DeFi Révolution
+  icon: data/icons/special.svg
+  theme: Adoption
+  description_fr: |
+    DeFi renaissance : La DeFi arrive sur votre blockchain pour proposer des prêts, des échanges, de l'épargne avec des rendements élevés, de la transparence et le tout sans intermédiaires. L'adoption est massive grâce à la confiance en la finance décentralisée.
+  description_en: |
+    xx
+  tags: 'Cible: +2 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Pont Universel
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Chaîne de blocs interopérable : Vous proposez une interopérabilité révolutionnaire avec d'autres blockchains, ouvrant de nouvelles possibilités d'échange de données et d'actifs.
+  description_en: |
+    xx
+  tags: 'Cible: +1 / Vous: +4'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Le Jardin des Récompenses
+  icon: data/icons/special.svg
+  theme: Récompenses
+  description_fr: |
+    En déléguant les tokens à des pools de staking, les utilisateurs reçoivent des récompenses, ce qui permet d'augmenter ses ressources et ses capacités d'intervention sur la blockchain.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+
+- title: La Redistribution Equitable
+  icon: data/icons/special.svg
+  theme: Gouvernance
+  description_fr: |
+    Restructuration des récompenses : Les utilisateurs de votre blockchain peuvent proposer des changements de récompense pour aligner les incitations et encourager l'adoption. Si la communauté est convaincue, les récompenses sont réorganisées pour stimuler l'engagement et l'adoption de masse.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA

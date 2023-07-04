@@ -82,6 +82,10 @@ icon:
   extends: 'art'
   y: += 5
 
+image:
+  extends: 'art'
+  y: += 5
+
 Title:
   extends: AllText
   font: ChunkFive Roman,Sans bold

@@ -1,0 +1,89 @@
+- title: Gardien des Vérifications
+  icon: data/icons/adoption.svg
+  theme: Développeurs
+  description_fr: |
+    Votre blockchain est scrutée par des ninjas experts en sécurité qui traquent les failles avec une précision chirurgicale, vous offrant une tranquillité d'esprit blindée et éliminant les risques d'attaques sournoises.
+  description_en: |
+    Audit de sécurité régulier : Votre blockchain subit régulièrement des audits de sécurité par des experts. Cela permet de gagner en confiance en la sécurité, réduisant les risques d'attaques et de compromissions.
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Faille Fatale
+  icon: data/icons/special.svg
+  theme: Développeurs
+  description_fr: |
+    Votre blockchain fait face à un bug épique dans l'un de ses contrats intelligents, mettant l'équipe de devs dans une course folle pour déployer une mise à jour salvatrice et éteindre l'incendie de la vulnérabilité.
+  description_en: |
+    Une vulnérabilité critique dans un contrat intelligent de votre blockchain oblige l'équipe de devs à réagir rapidement et à publier une mise à jour pour corriger ce bug.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Loterie Loufoque
+  icon: data/icons/special.svg
+  theme: Développeurs
+  description_fr: |
+    Votre blockchain se retrouve dans une saga digne d'un film fantastique, avec un sortilège de génération aléatoire perturbant les transactions. Heureusement, une mise à jour magique du protocole s'impose, et une migration héroïque assure la sécurité des données.
+  description_en: |
+    Un problème de génération aléatoire de nombres sur votre blockchain est résolu grâce à une mise à jour du protocole. Une migration est nécessaire pour assurer la sécurité des transactions et des données.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Bogue Loufoque
+  icon: data/icons/special.svg
+  theme: Développeurs
+  description_fr: |
+    Attention, la chasse aux billets est ouverte ! Un bug diabolique frappe votre blockchain, provoquant une inflation incontrôlée. Les devs se lèvent telles des superstars pour déployer un correctif redoutable qui stoppe cette folie monétaire et ramène l'équilibre dans l'univers crypto.
+  description_en: |
+    Une bug est découvert dans un contrat intelligent de votre blockchain, provoquant une inflation incontrôlée. Les développeurs réagissent avec un correctif limitant inflation et en stabilisant la valeur.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+- title: Bug Cataclysmique
+  icon: data/icons/special.svg
+  theme: Développeurs
+  description_fr: |
+    Un bug de dimension cataclysmique secoue votre blockchain, révélant les secrets les mieux gardés des utilisateurs. Un hacker rusé profite de cette faille béante pour se faufiler et mettre la pagaille. Une bataille épique entre les forces du bien et du mal s'engage pour rétablir l'ordre et la sécurité.
+  description_en: |
+    Un bug majeur dans votre blockchain expose les données des utilisateurs. Un hacker exploite la faille pour accéder aux infos sensibles.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+
+
+
+
+Code Magicien des Contrats Intelligents : En tant que développeur de blockchain, vous possédez le pouvoir de créer des contrats intelligents impressionnants ! Faites apparaître des programmes autonomes qui rendent la blockchain magique. Devenez le maître des transactions transparentes et des exécutions sans accroc. Votre code ingénieux fait briller l'innovation blockchain. Préparez-vous à enchanter le monde numérique avec vos contrats intelligents !
+
+Génie de la documentation : En tant que génie de la documentation, vous créez des guides détaillés et fournissez un support hors pair pour la blockchain. Vous résolvez les problèmes des utilisateurs comme par magie et votre réputation atteint des sommets stellaires. Les utilisateurs vous acclament comme le héros des développeurs et vous ouvrez la voie à une adoption et une compréhension fluide de la blockchain.
+
+Le Gardien de la Blockchain: Vous êtes le Gardien de la Blockchain ! Prenez les rênes de la sécurité et décidez des mesures à mettre en place pour protéger votre précieuse création. Auditez les contrats intelligents, gérez les clés secrètes, contrôlez les autorisations et repoussez les attaques malveillantes. Avec votre vigilance, la Blockchain restera impénétrable et vos utilisateurs en toute sécurité !
+
+Dans la peau d'un Super Dev : Enfilez votre cape de super-dev et préparez-vous à conquérir l'univers de la blockchain ! Assistez aux conférences les plus branchées, défiez les hackers les plus redoutables lors de hackathons légendaires et dévorez les blogs et les publications spécialisées pour nourrir votre esprit de génie. Soyez le développeur le plus stylé de l'écosystème et codez votre chemin vers la gloire !
+
+Le Savant des Lignes de Code : Vous êtes un développeur de blockchain génial ! Vous pouvez booster la puissance de la blockchain en intégrant des fonctionnalités époustouflantes. Programmez des contrats intelligents magiques, donnez vie aux NFT enchanteurs et invoquez les oracles pour accéder à des connaissances mystiques. Avec vos lignes de code, vous pouvez créer un monde blockchain incroyablement innovant et captivant !
+
+L'Ingénieur Interopérable : Vous êtes un développeur de blockchain audacieux et astucieux ! Prenez la décision d'intégrer l'interopérabilité dans votre projet. En connectant différentes blockchains, vous ouvrez les portes de la collaboration et de l'échange de données entre les mondes numériques. Soyez le maître de la connectivité blockchain et créez des passerelles vers l'avenir de la décentralisation.
+
+Super Devs United : Enfilez votre cape de développeur et rejoignez la ligue des super devs de la blockchain ! Avec vos pouvoirs de codage incroyables, collaborez avec d'autres héros du code, partagez des idées brillantes et créez des projets époustouflants. Ensemble, vous formez une force imparable qui défie les limites de la technologie blockchain. Préparez-vous à des aventures épiques et à des lignes de code légendaires !
+
+Le Gardien des Contrats Intelligents : Vous êtes un développeur de blockchain qui a le pouvoir de sécuriser les contrats intelligents. Prenez des décisions cruciales pour assurer la solidité de vos contrats, en menant des audits minutieux, en choisissant des bibliothèques de sécurité dignes de confiance et en suivant les meilleures pratiques de développement sécurisé. Protégez votre blockchain et devenez le gardien inébranlable de l'intégrité contractuelle !
+
+Hackeur bienveillant : Vous êtes un développeur de blockchain créatif et astucieux ! Organisez des programmes de bug bounty pour attirer d'autres génies du code. Ensemble, traquez les vulnérabilités dans les blockchains et soyez généreusement récompensés pour chaque bug critique découvert. La sécurité des blockchains n'aura plus de secrets pour vous !
+
+Le Maître de l'Évolutivité : Vous êtes un développeur de blockchain avec des pouvoirs magiques ! Vous pouvez utiliser votre expertise pour mettre en place des mécanismes d'évolutivité et d'extensibilité sur la blockchain. Ainsi, elle pourra s'adapter aux besoins changeants, accueillir une foule de nouveaux utilisateurs et traiter une avalanche de transactions. Préparez-vous à révolutionner l'univers blockchain avec votre code superpuissant !
+
+Maîtrise du Stockage Décentralisé : En tant que développeur intrépide, vous maîtrisez l'art du stockage décentralisé grâce à l'IPFS ! Vous pouvez stocker et récupérer des données sans dépendre de serveurs centralisés. Utilisez cette carte pour créer des applications ultra-sécurisées et résistantes, ou résolvez des énigmes complexes en utilisant les liens IPFS. Préparez-vous à plonger dans un monde de stockage épique et décentralisé !
