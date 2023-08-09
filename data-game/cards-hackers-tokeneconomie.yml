@@ -1,0 +1,254 @@
+- title: Le Tour de Passe-Passe
+  description: |
+    Vous prenez le contrôle de la blockchain et jouez avec les transactions comme un magicien. Vous créez des doubles dépenses et mettez en évidence les vulnérabilités de cette blockchain. On se croirait dans un film d'action !
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +5 / Cible: -3'
+  cryptoworld_score: +2
+  explanations:
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: La Duplicité Monétaire
+  description: |
+    Rusé, vous parvenez à dépenser deux fois les mêmes jetons sur la blockchain, créant une catastrophe financière pour ceux qui ont accepté les transactions frauduleuses. Les utilisateurs sont en colère et la confiance en la blockchain est ébranlée.
+  level: Moyen
+  video: '',
+  quest: '193171',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Attaque par double dépense
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: L'Evasion des Cryptos
+  description: |
+    Vous dérobez des tonnes de tokens sur la blockchain, semant la panique parmi les investisseurs et la méfiance envers cette blockchain. Tout le monde cherche à attraper le coupable !
+  level: Tous niveaux
+  video: '',
+  quest: '189807',
+  cryptoclash_score: 'Vous: +5 / Cible: -3'
+  cryptoworld_score: +2
+  explanations: |
+    Vol de fonds
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: L'Exploit Bienveillant
+  description: |
+    Astucieux, vous parvenez à dérober des millions de dollars, mais surprise ! Vous vous montrez d'un bon coeur en restituant la plupart des fonds, invoquant des raisons éthiques. Vous êtes le Robin des Bois des crypto-monnaies ! Mais la réputation a été entâchée.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +6 / Cible: -4'
+  cryptoworld_score: +2
+  explanations:
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: La Malchance Financière
+  description: |
+    Une faille dans la blockchain provoque la disparition de 150 000 Ether. Vous avez profité d'une vulnérabilité du contrat intelligent, causant ainsi d'énormes pertes pour les utilisateurs. Oups, ça fait mal !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -1'
+  cryptoworld_score: +2
+  explanations:
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: L'Escroquerie Epique
+  description: |
+    Malicieux, vous attaquez la blockchain avec des transactions fictives, semant le doute et causant d'énormes pertes pour les utilisateurs. C'est une véritable escroquerie crypto-criminelle !
+  level: Moyen
+  video: '',
+  quest: '116572',
+  cryptoclash_score: 'Vous: +3 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Transaction fictive
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: Le Coup de DeFi
+  description: |
+    Une fausse transaction DeFi sur la blockchain escroque les investisseurs, causant des pertes financières et sapant la confiance envers les projets DeFi. Vous avez des idées diaboliques !
+  level: Tous niveaux
+  video: '',
+  quest: '157893 116572',
+  cryptoclash_score: 'Vous: +3 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Transaction fictive
+    DeFi
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: Le Pouvoir Suprême
+  description: |
+    Vous vous emparez de 51% de la puissance de calcul de la blockchain (Proof of Work), effectuant des doubles dépenses et provoquant la chute de la valeur du token. La communauté se rassemble pour contrer l'attaque, tel un groupe de super-héros crypto !
+  level: Avancé
+  video: '',
+  quest: '109195',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Attaque des 51%
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: Rugamania
+  description: |
+    Vous faites un rug pull sur un projet de crypto en vendant massivement vos tokens pour provoquer un effondrement des prix. C'est la grande évasion du tapis volant, les prix s'effondrent comme par magie !
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Rug pull
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: ICOscopie
+  description: |
+    Vous créez une fausse ICO (Initial Coin Offering) et trompez les investisseurs en leur promettant des rendements élevés qui ne se matérialiseront jamais. Préparez-vous pour le grand spectacle de l'illusion, où les promesses s'évanouissent dans les airs !
+  level: Moyen
+  video: '',
+  quest: '131316',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    ICO
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: Le Prêt Fougueux
+  description: |
+    Vous utilisez un flash loan pour manipuler le marché ou exploiter une faille dans un contrat intelligent et voler des fonds. En un éclair, vous réalisez des prouesses dignes d'un magicien, faisant disparaître des fonds sans laisser de trace !
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Flash loan
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: Dépegatrouille
+  description: |
+    Vous manipulez le prix d'une crypto-monnaie stable en faisant des achats massifs ou en vendant d'énormes quantités pour tenter de rompre le peg. La danse du dépeg commence, où le prix tangue comme un funambule sur un fil !
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Depeg
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: Pumpémon GO
+  description: |
+    Vous coordonnez une campagne de pompage (pump) pour faire grimper le prix d'une crypto-monnaie, puis vendez massivement (dump) pour réaliser des bénéfices au détriment des autres investisseurs. C'est le grand spectacle du pump and dump, où les profits montent en flèche et les autres restent perplexes !
+  level: Moyen
+  video: '',
+  quest: '110619',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Pump and Dump
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: La Traction Instable
+  description: |
+    Vous manipulez les réserves de stablecoins pour influencer leur prix et perturber la stabilité du marché. Les réserves s'envolent et tombent comme des balles jonglantes dans une performance époustouflante !
+  level: Moyen
+  video: '',
+  quest: '123710 188229',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Stablecoin
+    Réserves
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: La Prise de Contrôle Décentralisée
+  description: |
+    Vous prenez le contrôle d'un DAO (Decentralized Autonomous Organization) en votant avec une majorité de tokens pour modifier les règles ou détourner les fonds. Le pouvoir du DAO est entre vos mains, et vous dirigez cette organisation avec adresse et ruse !
+  level: Moyen
+  video: '',
+  quest: '113338',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    DAO
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie
+
+- title: Poussière de Lutin
+  description: |
+    Vous menez une attaque de poussière (attaque Dust en anglais) : vous envoyez de petites quantités de crypto-monnaies à de nombreux comptes pour perturber l'analyse des transactions. C'est le tour de magie des transactions mystères, où les pistes se dissipent comme par enchantement !
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Attaque de poussière
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Tokenéconomie

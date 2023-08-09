@@ -1,0 +1,639 @@
+- title: Quest Master
+  description: |
+    Quiz : Qu'est-ce que l'analyse fondamentale ? a) Une méthode d'analyse basée sur l'étude des mouvements passés des prix. b) Une méthode d'analyse basée sur l'examen des facteurs économiques, financiers et industriels d'un actif. c) Une méthode d'analyse basée sur l'observation des graphiques et des indicateurs techniques. Si le joueur répond bien, il gagne 2 points, sinon les autres joueurs gagnent 1 point.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Réponse : B
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Quest Master
+  description: |
+    Quiz : Qu'est-ce que l'analyse technique ? a) Une méthode d'analyse basée sur l'examen des facteurs économiques, financiers et industriels d'un actif. b) Une méthode d'analyse basée sur l'observation des graphiques et des indicateurs techniques. c) Une méthode d'analyse basée sur l'étude des mouvements passés des prix. Si le joueur répond bien, il gagne 2 points, sinon les autres joueurs gagnent 1 point.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Réponse : C
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Quest Master
+  description: |
+    Associe chaque concept à la méthode d'analyse qui lui correspond : (A) Analyse fondamentale. (T) Analyse technique. a) Etude des états financiers et des ratios d'une entreprise pour évaluer sa santé financière et sa valeur. b) Utilisation des graphiques et des indicateurs techniques pour analyser les mouvements passés des prix.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Réponse : A, T
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Quest Master
+  description: |
+    Associe chaque concept à la méthode d'analyse qui lui correspond : (A) Analyse fondamentale. (T) Analyse technique. a) Examen des facteurs économiques et industriels qui peuvent influencer la performance d'un actif. b) Utilisation de lignes de tendance et de moyennes mobiles pour identifier les schémas et les niveaux clés sur un graphique.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Réponse : A, T
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Quest Master
+  description: |
+    Associe chaque concept à la méthode d'analyse qui lui correspond : (A) Analyse fondamentale. (T) Analyse technique. a) Evaluation des événements économiques et des nouvelles pour anticiper l'impact sur les marchés financiers. b) Recherche et analyse des données macroéconomiques, des nouvelles économiques et politiques pour comprendre leur impact sur les marchés financiers.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Réponse : A, A
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Quest Master
+  description: |
+    Enigme : Je suis un mécanisme qui garantit l'intégrité des données sur une blockchain. Chaque nouveau bloc contient une référence vers moi, ce qui crée une connexion entre les blocs précédents et les blocs suivants. Qui suis-je ?
+  level: Moyen
+  video: '',
+  quest: '156275',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Réponse : Le hash (ou hachage) du bloc précédent.
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🧱🔗🔐 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Bloc de chaîne sécurisé (Blockchain)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 📈🚀💹 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Hausse fulgurante des prix (Bull market)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🏦💱👥 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Échange décentralisé (Decentralized exchange)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 💡💰💡 = ?
+  level: Moyen
+  video: '',
+  quest: '168559',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Contrat intelligent (Smart contract)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🔒🔗💻🖊️ = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Signature numérique (Digital signature)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🗝️🔐💳💱 = ?
+  level: Moyen
+  video: '',
+  quest: '129082',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Portefeuille de crypto-monnaie (Wallet)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🕳️🔍🚪🔓 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Vulnérabilité de sécurité (Security vulnerability)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 💡🛡️💻👥 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Sécurité informatique (Cybersecurity)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🕒🔗📃 = ?
+  level: Moyen
+  video: '',
+  quest: '169006',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Horodatage de document (Timestamping)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🤝💼👬 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Partenariat d'entreprise (Business partnership)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🌐💱🔗 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Echange mondial (Global exchange)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🏢🔒💼🔐 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Sécurité de l'entreprise (Enterprise security)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 💹📉📈📊 = ?
+  level: Moyen
+  video: '',
+  quest: '198001',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Volatilité du marché (Market volatility)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🧩🔗🧩🔗 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Puzzle de blockchain (Blockchain puzzle)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🌐🔗🤖👥 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Réseau décentralisé (Decentralized network)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : ⛓️🚀🔝 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Blockchain en pleine ascension (Blockchain skyrocket)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🗂️📝🔐 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Contrat stocké sur la blockchain (Blockchain contract)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🚫🔒💼👩‍💼 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Accès refusé à l'entreprise (Denied access to the enterprise)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : ⛓️🚀🌙 = ?
+  level: Moyen
+  video: '',
+  quest: '165971',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Blockchain à la lune (Blockchain to the moon)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Blockbus
+  description: |
+    Rébus : 🤝👥💻🤝 = ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Accord de partage de données (Data sharing agreement)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis un livre numérique partagé par tous, avec des pages cryptées et des transactions transparentes. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : La blockchain
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis une série de chiffres et de lettres qui vous donne accès à votre argent numérique. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '137795',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Une clé privée
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis un processus qui valide les transactions sur la blockchain en résolvant des problèmes mathématiques complexes. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '101494',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Le minage
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis une technologie qui permet d'exécuter des contrats automatiques sans l'intervention d'un tiers de confiance. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Les contrats intelligents
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis une monnaie numérique populaire basée sur une blockchain. J'ai été créé en 2009 par une personne ou un groupe de personnes sous le pseudonyme de Satoshi Nakamoto. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '118868',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Bitcoin
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis un système de vérification qui garantit l'exactitude des données stockées sur la blockchain. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '113839',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Le consensus (preuve de travail ou preuve d'enjeu)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis une série de transactions regroupées et ajoutées à la blockchain toutes les dix minutes. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Un bloc
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis un livre de comptes public, mais les informations que je contiens sont cryptées et ne peuvent pas être modifiées une fois enregistrées. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : La blockchain
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis une technologie qui permet de créer des jetons uniques et non fongibles pour représenter des actifs numériques sur la blockchain. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '169238',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Les NFT
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis un protocole de consensus qui permet à plusieurs nœuds de travailler ensemble et de parvenir à un accord sans autorité centrale. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '172650',
+  quest: '174610 166417',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Le Proof of Stake (preuve d'enjeu) ou le Proof of Work (preuve de travail)
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis une série de caractères utilisée pour identifier un destinataire lors d'une transaction de cryptomonnaie. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Une adresse de portefeuille
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis un concept clé de la blockchain, qui garantit que les informations ne peuvent pas être modifiées une fois enregistrées. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : L'immutabilité
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis un terme utilisé pour décrire le processus de duplication d'une blockchain existante pour créer une nouvelle cryptomonnaie. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '149212',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : Un fork
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Enigme
+  description: |
+    Enigme : Je suis un processus de vérification qui permet de confirmer qu'une transaction est valide et qu'elle n'a pas déjà été effectuée. Qu'est-ce que je suis ?
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '+2'
+  explanations: |
+    Réponse : La validation des transactions
+  character: CryptoQuest
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest

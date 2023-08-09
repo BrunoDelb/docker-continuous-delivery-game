@@ -1,0 +1,254 @@
+- title: Maître de la Psychologie des Marchés
+  description: |
+    Les Market Makers jouent avec les émotions des autres joueurs. Ils diffusent habilement des informations pour créer des hausses ou des baisses artificielles des prix. Ce sont les marionnettistes du marché et remportent des gains financiers considérables en manipulant le destin de la blockchain !
+  level: Tous niveaux
+  video: '',
+  quest: '168206',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: '-4'
+  explanations: |
+    Manipulation du marché par les Market Makers
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Les Coulisses du Pouvoir
+  description: |
+    Les Market Makers rusés manient les ficelles de l'influence. Avec une accumulation stratégique secrète de tokens, ils prévoient de devenir des acteurs majeurs sur le marché. En contrôlant une part importante de l'offre, ils ont le pouvoir de dicter les prix selon leur bon vouloir. Ils choisissent habilement le moment et la manière de vendre ou d'acheter ces jetons et deviennent le maître incontesté de la fluctuation des prix.
+  level: Moyen
+  video: '',
+  quest: '128612',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Accumulation
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Le Magnat de la Demande Artificielle
+  description: |
+    Les Market Makers sont prêts à tout pour créer une frénésie d'achat. Ils lancent une campagne marketing délirante avec de faux partenariats, des publicités tapageuses et des événements sensationnels. Ils attirent les foules, manipulent les investisseurs et créent une demande artificielle pour les tokens du projet de blockchain. Ce sont les maîtres des illusions et dominent le marché avec leur ingéniosité.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -3'
+  cryptoworld_score: '-2'
+  explanations:
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Les As du Spectacle Financier
+  description: |
+    Les Market Makers sont des as du spectacle financier, capables de créer une ambiance époustouflante sur le marché ! Ils utilisent leurs talents pour donner l'illusion de liquidité et d'activité trépidante. Ils jouent avec les chiffres, jonglent avec les jetons et laissent les autres se demander comment ils réalisent ces prouesses incroyables ! Que le spectacle commence !
+  level: Avancé
+  video: '',
+  quest: '111721',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Liquidité
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Le Grand Plongeon dans la Crypto
+  description: |
+    Les Market Makers décident de plonger dans le monde des ETF crypto ! Ils investissent dans des ETF Bitcoin, Ethereum et bien d'autres, prêts à surfer sur la vague de croissance explosive des crypto-monnaies. Ils visent à atteindre de nouveaux sommets financiers et à secouer le monde de la finance traditionnelle !
+  level: Avancé
+  video: '',
+  quest: '130659',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: '+2'
+  explanations: |
+    ETF
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Contrat Futur Fantastique
+  description: |
+    Les Market Makers créent des contrats à terme, ou futures, captivants. Ils proposent des contrats futurs innovants qui captivent les investisseurs et offrent des opportunités de trading intéressantes. Ils jouent avec les dates d'expiration, les marges et les spécifications pour créer des contrats qui répondent aux besoins du marché. Ce sont les maîtres des contrats à terme.
+  level: Avancé
+  video: '',
+  quest: '198327',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: '+3'
+  explanations: |
+    Contrat à terme
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Long & Strong
+  description: |
+    Les Market Makers sont spécialisés dans les trades longs. Ils ont le flair pour identifier les actifs qui ont un potentiel de croissance à long terme. En proposant des positions longues attrayantes, ils attirent les investisseurs qui souhaitent profiter des gains sur le long terme. Ils identifient les opportunités et se préparent à voir leurs trades longs prendre de l'ampleur.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations: |
+    Trade longs
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Short & Sharp
+  description: |
+    Les Market Makers excellent dans les trades courts et percutants. Ils savent comment identifier les actifs qui sont surévalués et prêts à chuter. En proposant des positions courtes attractives, ils attirent les investisseurs qui cherchent à profiter des baisses de prix.
+  level: Tous niveaux
+  video: '',
+  quest: '153629',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+1'
+  explanations: |
+    Trade court
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Maître de la Volatilité
+  description: |
+    Les Market Makers créent de l'excitation sur le marché. Ils utilisent leurs compétences pour stimuler la volatilité des crypto-monnaies et capturer des opportunités lucratives. Ils jouent avec les émotions des traders et font monter les prix en flèche.
+  level: Tous niveaux
+  video: '',
+  quest: '198001',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: '+2'
+  explanations: |
+    Volatilité
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Maître des Options
+  description: |
+    Les Market Makers créent des opportunités flexibles pour les traders. En émettant des contrats d'options sur les crypto-monnaies, ils permettent aux investisseurs de profiter de la volatilité du marché tout en se protégeant contre les risques.
+  level: Avancé
+  video: '',
+  quest: '185013',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Contrat d'option
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Le Gourou des Contrats à Terme sur Indices
+  description: |
+    Les Market Makers dominent le marché des indices cryptographiques. Ils émettent et négocient des contrats à terme sur les indices pour offrir aux investisseurs une exposition diversifiée aux performances du marché. Ils anticipent les tendances et fixent des prix compétitifs pour attirer les traders avides de profits.
+  level: Moyen
+  video: '',
+  quest: '132279 156488',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: '+2'
+  explanations: |
+    Contrat à terme sur indices
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Bots-Vengers
+  description: |
+    Les market makers utilisent des bots sophistiqués pour exploiter les marchés financiers. Ces bots automatisés sont programmés pour exécuter des stratégies de trading complexes et réagir rapidement aux fluctuations des prix.
+  level: Tous niveaux
+  video: '',
+  quest: '101591',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Exploitation de Bots Sophistiqués
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Les Oreilles Magiques de la Blockchain
+  description: |
+    Des market makers utilisent l'exploitation d'informations privilégiées pour obtenir un avantage injuste sur les autres participants du marché en utilisant des informations non publiques pour prendre des décisions de trading.
+  level: Tous niveaux
+  video: '',
+  quest: '124118',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: '+3'
+  explanations: |
+    Exploitation d'Informations Privilégiées
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Le Grand Bal des Illusions
+  description: |
+    Des market makers utilisent des opérations de spoofing pour manipuler le marché en plaçant de fausses commandes d'achat ou de vente pour créer une illusion de demande ou d'offre afin d'influencer les prix.
+  level: Moyen
+  video: '',
+  quest: '167707',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations: |
+    Spoofing
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Spreadzilla
+  description: |
+    Des market makers utilisent la manipulation des spreads pour influencer les écarts entre les prix d'achat et de vente sur le marché, créant ainsi des opportunités de profit pour eux-mêmes.
+  level: Moyen
+  video: '',
+  quest: '180490',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations: |
+    Spread
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker
+
+- title: Le Contrôle des Cordons
+  description: |
+    Des market makers utilisent leur pouvoir d'ajustement des ordres d'achat et de vente pour manipuler les cours du marché et tirer profit de ces fluctuations.
+  level: Tous niveaux
+  video: '',
+  quest: '147724',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: '+3'
+  explanations: |
+    Manipulation des ordres d'achat et de vente
+  character: Le Market Maker
+  image: ../data/images/market_makers.png
+  cardcolor: market_makers_color
+  textcolor: white
+  theme: Market Maker

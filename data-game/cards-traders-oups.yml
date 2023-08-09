@@ -1,0 +1,146 @@
+- title: Le Grand Débarras
+  description: |
+    L'équipe derrière un token décide de faire du ménage en vendant en masse les jetons qu'elle a collectés : c'est un Token Dump. Résultat ? Une plongée vertigineuse du prix qui peut vous laisser le souffle coupé.
+  level: Tous niveaux
+  video: '',
+  quest: '164181',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: -2
+  explanations: |
+    Token Dump
+  character: Le Trader
+  image: ../data/images/token-dump.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+************- title: Le Coup de Vitesse
+  description: |
+    Un escroc rusé profite d'informations privilégiées sur les transactions pour manipuler le prix d'un token. C'est ce qu'on appelle le Front Running. Il achète avant tout le monde, poussant le prix vers les sommets, puis vend pour faire un joli profit. Attention, il pourrait vous prendre de vitesse !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: -2
+  explanations: |
+    Front Running
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: Le Tour de Passe-Pump
+  description: |
+    Des traders malicieux s'amusent à gonfler artificiellement le prix d'un token, comme un ballon de baudruche sur le point d'éclater. C'est le piège du Pump and Dump. Attention à ne pas être pris dans cette montagne russe émotionnelle !
+  level: Tous niveaux
+  video: '',
+  quest: '110619',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: -2
+  explanations: |
+    Pump and Dump
+  character: Le Trader
+  image: ../data/images/pump-and-dump.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: Le Bain de Ventes
+  description: |
+    Des acteurs sournois font des vagues en effectuant des transactions fictives à grande échelle sur un token. C'est du Wash Trading ! Le résultat ? Une illusion d'activité frénétique et de liquidité abondante. Mais ne vous laissez pas noyer par cette supercherie !
+  level: Tous niveaux
+  video: '',
+  quest: '111721 150389',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: -2
+  explanations: |
+    Wash Trading
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: FOMO Master
+  description: |
+    Vous êtes pris dans le tourbillon du FOMO (Fear of Missing Out) ! Vous observez une crypto-monnaie dont le prix monte en flèche et tout le monde en parle. Vous décidez d'acheter impulsivement pour ne pas manquer l'action.
+  level: Tous niveaux
+  video: '',
+  quest: '104153',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: -2
+  explanations: |
+    FOMO
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: Explosion de la Toupie
+  description: |
+    Les prix montent en flèche, créant une congestion hilarante sur le réseau : c'est une bulle spéculative. Attendez-vous à des frais de transaction qui défient la gravité et des délais de confirmation plus longs que le discours d'un politicien.
+  level: Moyen
+  video: '',
+  quest: '198343',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: -2
+  explanations: |
+    Congestion
+  character: Le Trader
+  image: ../data/images/effets-de-la-congestion.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: La Ruée DeFi
+  description: |
+    La folie autour des protocoles DeFi sur la blockchain cible provoque une frénésie congestionnante ! Les confirmations prennent leur temps et les frais de transaction s'envolent pour les utilisateurs. En surfant sur ces fluctuations, vous essayez de transformer ces défis en opportunités lucratives. Alors, soyez rapide, soyez astucieux, et saisissez ces occasions pour faire danser les profits !
+  level: Tous niveaux
+  video: '',
+  quest: '139312 174703 157893 198343',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: -2
+  explanations: |
+    Congestion
+    Confirmation
+    Frais de transaction
+    DeFi
+  character: Le Trader
+  image: ../data/images/effets-de-la-congestion.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: La NFTmania
+  description: |
+    Le réseau blockchain est encombré par la frénésie des NFTs DigitalPaws, entraînant des retards et des frais élevés. Soyez patient et agile pour saisir les opportunités dans cette effervescence, tel un maître de l'arbitrage entre plateformes d'échange.
+  level: Tous niveaux
+  video: '',
+  quest: '198343 169238',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: -2
+  explanations: |
+    Congestion
+  character: Le Trader
+  image: ../data/images/effets-de-la-congestion.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: Margin Madness
+  description: |
+    En tant que trader intrépide, vous utilisez le trading sur marge avec un dé décisif. Si vous obtenez un 6, vous gagnez 4 points. Sinon, vous en perdez 4. Cela décuple vos gains ou vos pertes. Mais attention, une mauvaise décision peut entraîner des pertes bien supérieures à votre mise initiale. Soyez prêt à gérer les risques et à prendre des décisions judicieuses dans ce jeu à haut enjeu.
+  level: Moyen
+  video: '',
+  quest: '189272',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: -2
+  explanations: |
+    Trading sur marge (effet de levier)
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading

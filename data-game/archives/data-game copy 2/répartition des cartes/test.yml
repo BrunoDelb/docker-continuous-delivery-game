@@ -1,0 +1,13 @@
+- title: La Ruée DeFi
+  theme: Trading
+  image: ./images/trader.png
+  description_fr: |
+    DeFi Fever : La folie autour des protocoles DeFi sur la blockchain cible provoque une frénésie congestionnante ! Les confirmations prennent leur temps et les frais de transaction s'envolent pour les utilisateurs. Mais pas de panique, vous êtes un véritable maître de l'arbitrage ! En surfant sur ces fluctuations, vous transformez ces défis en opportunités lucratives. Alors, soyez rapide, soyez astucieux, et saisissez ces occasions pour faire danser les profits !
+  description_en: |
+    DeFi rush : La popularité des protocoles DeFi sur la blockchain cible crée une congestion majeure. Délais de confirmation rallongés et frais de transaction élevés pour les utilisateurs.
+  battle_score: 'Cible: -2 / Vous: 0'
+  role_score: '+15'
+  explanations: En tant que maître de l'arbitrage, vous pouvez exploiter la frénésie congestionnante des protocoles DeFi pour transformer les défis en opportunités lucratives, ce qui vous permet d'accumuler des points et de faire danser les profits.
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black

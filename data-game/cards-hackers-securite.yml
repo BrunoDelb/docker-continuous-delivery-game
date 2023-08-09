@@ -1,0 +1,306 @@
+- title: Bandit de bande passante
+  description: |
+    Vous exploitez une faille dans le système de tarification des frais de la blockchain et lancez une attaque de Déni de Service (DoS). Le réseau est submergé de transactions sans valeur, bloquant la bande passante et laissant les utilisateurs légitimes impuissants face à la congestion. C'est comme un embouteillage géant sur l'autoroute crypto !
+  level: Tous niveaux
+  video: '',
+  quest: '118413',
+  cryptoclash_score: 'Vous: +3 / Cible: -3'
+  cryptoworld_score: +3
+  explanations: |
+    Attaque par DoS
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Verrouilleur de vers
+  description: |
+    Un virus sournois chiffre les portefeuilles. Vous exigez une rançon pour débloquer les fonds, causant d'énormes pertes financières et révélant les failles de sécurité dans l'écosystème crypto. C'est un cauchemar crypto-viral !
+  level: Tous niveaux
+  video: '',
+  quest: '129082 148322',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations: |
+    Virus
+    Portefeuille
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Robin des Stakes
+  description: |
+    Vous accumulez des tokens et dominez le consensus de la blockchain Proof of Stake en manipulant les décisions et en volant les récompenses de staking, laissant les autres détenteurs perplexes et frustrés. Vous êtes vraiment audacieux !
+  level: Moyen
+  video: '',
+  quest: '117388 113839',
+  cryptoclash_score: 'Vous: +5 / Cible: -5'
+  cryptoworld_score: +3
+  explanations: |
+    Attaque du consensus PoS
+    Consensus
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Maître des calculs
+  description: |
+    Vous avez réussi à infecter des ordinateurs. Ces ordinateurs infectés se mettent à miner et à attaquer la blockchain Proof of Work, volant la puissance de calcul et perturbant tout le réseau. Ces machines sont comme des parasites crypto voraces !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -2'
+  cryptoworld_score: +3
+  explanations:
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: L'Invasion Incontrôlable
+  description: |
+    Vous lancez une attaque de Déni de Service (DoS), inondant le réseau de transactions non valides. Les communications ralentissent, perturbant les opérations et faisant chuter la réactivité. C'est comme si la blockchain était prise dans une file d'attente infinie !
+  level: Tous niveaux
+  video: '',
+  quest: '118413',
+  cryptoclash_score: 'Vous: +3 / Cible: -3'
+  cryptoworld_score: +3
+  explanations: |
+    Attaque par DoS
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: La Multiplication Diabolique
+  description: |
+    Des noeuds malveillants envahissent la blockchain, mettant en péril la sécurité et le consensus. Les détenteurs de tokens se rassemblent pour isoler les faux noeuds et renforcer la détection, empêchant ainsi toute manipulation future. C'est une véritable guerre contre les faux crypto-amis !
+  level: Tous niveaux
+  video: '',
+  quest: '183943 159002',
+  cryptoclash_score: 'Vous: +2 / Cible: -2'
+  cryptoworld_score: +3
+  explanations: |
+    Attaque Sybil
+    Noeud
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Le Sabotage Démocratique
+  description: |
+    Avec votre groupe de hackers, vous possèdez une grande quantité de tokens sur la blockchain (Proof of Stake) et manipulez les récompenses, excluant les utilisateurs légitimes. La communauté se lève pour exiger une décentralisation et une démocratie renforcée. C'est la révolution des crypto-voteurs !
+  level: Tous niveaux
+  video: '',
+  quest: '174610 152108 130196',
+  cryptoclash_score: 'Vous: +5 / Cible: -3'
+  cryptoworld_score: +3
+  explanations: |
+    Attaque par les droits de vote
+    Décentralisation
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Le Complot des Développeurs
+  description: |
+    Vicieux, vous attaquez un contrat intelligent de la DAO, ce qui entraîne le détournement massif de crypto-monnaies. La communauté se divise en deux camps, et la blockchain se retrouve avec un "fork" géant. C'est le chaos total !
+  level: Tous niveaux
+  video: '',
+  quest: '168559 113338',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +3
+  explanations: |
+    DAO
+    Contrat intelligent
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: L'Assaut Incessant
+  description: |
+    Vous procédez à une attaque massive de Déni de Service (DoS), ce qui paralyse la blockchain. Des transactions malveillantes inondent le réseau, provoquant des retards majeurs. La confiance s'évanouit et les prix deviennent plus instables que jamais.
+  level: Tous niveaux
+  video: '',
+  quest: '118413',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +3
+  explanations: |
+    Attaque par DoS
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Voltaire des Watts
+  description: |
+    Vous exploitez une faille du protocole Proof of Work de la blockchain, prenez le contrôle de la puissance de calcul et vous accaparez toutes les récompenses minières. Vous perturbez ainsi l'équilibre du réseau et jouez avec les nerfs de tout le monde !
+  level: Tous niveaux
+  video: '',
+  quest: '172650',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations:
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Avalanche des Blocs Vides
+  description: |
+    Vous lanez une attaque de Déni de Service (DoS) sur la blockchain Proof of Work, provoquant une avalanche de blocs vides, surchargeant les noeuds et entravant les transactions légitimes. Les mineurs en ont marre de creuser des blocs vides et tout le monde se demande : où sont passés les vrais blocs ?
+  level: Tous niveaux
+  video: '',
+  quest: '118413',
+  cryptoclash_score: 'Vous: +3 / Cible: -3'
+  cryptoworld_score: +3
+  explanations: |
+    Attaque par DoS
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Vulnérabilité de l'EVM
+  description: |
+    Vous exploitez une vulnérabilité dans la machine virtuelle Ethereum (EVM) pour contourner les mesures de sécurité et prenez le contrôle d'un contrat intelligent. Avec un tour de passe-passe informatique, vous devenez le maître de la blockchain, et les contrats n'ont qu'à bien se tenir !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations: |
+    EVM
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: L'éclipse de la Blockchain
+  description: |
+    Attaque d'éclipse : Vous isolez un noeud du réseau blockchain pour le priver d'informations et le manipuler en le déconnectant du reste du réseau. Telle une éclipse mystérieuse, vous plongez le nœud dans l'ombre, lui faisant perdre ses repères dans ce monde virtuel !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations: |
+    Attaque d'éclipse
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Crypto-Quantum Catastrophe
+  description: |
+    Vous utilisez un ordinateur quantique hypothétique pour casser les algorithmes de chiffrement utilisés dans la blockchain et accéder aux clés privées. Armé d'un ordinateur quantique, vous brisez les codes comme un génie des mathématiques, ouvrant la voie aux secrets les mieux gardés de la blockchain !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations: |
+    Informatique quantique
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: DéFi's Doomsday
+  description: |
+    Vous profitez d'une faille dans un protocole DeFi pour accéder aux fonds bloqués ou détourner les revenus générés par le protocole. Tel un as de la piraterie, vous naviguez à travers les failles du protocole DeFi et détournez les fonds sans laisser de trace !
+  level: Tous niveaux
+  video: '',
+  quest: '157893',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations: |
+    DeFi
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Pirates des noeuds
+  description: |
+    Attaque de routage : Vous déroutez le trafic réseau pour cibler spécifiquement certains nœuds de la blockchain. Comme un magicien du réseau, vous modifiez les itinéraires, laissant les nœuds perplexes quant à leur véritable destination !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations: |
+    Attaque de routage
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Mineurs Malicieux
+  description: |
+    Vous collaborez avec d'autres mineurs pour contrôler la majorité du pouvoir de hachage et manipuler le processus de minage pour votre bénéfice. Unis dans une alliance sombre, vous devenez les maîtres du minage, forçant la blockchain à plier à vos exigences !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations:
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Le Mystère Découvert
+  description: |
+    Vous exploitez une faille de confidentialité dans un token pour accéder aux adresses des utilisateurs et à leurs transactions confidentielles. Telle une ombre discrète, vous infiltrez les secrets bien gardés, révélant des informations confidentielles à la lumière du jour !
+  level: Tous niveaux
+  video: '',
+  quest: '114329',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations: |
+    Confidentialité
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Les Prédictions Dévoyées
+  description: |
+    Vous manipulez les données fournies par un oracle pour influencer le fonctionnement des contrats intelligents et obtenir un avantage injuste. Tel un marionnettiste numérique, vous tirez les ficelles des oracles, dictant ainsi les mouvements des contrats intelligents à votre avantage !
+  level: Tous niveaux
+  video: '',
+  quest: '118047',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations: |
+    Oracle
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+

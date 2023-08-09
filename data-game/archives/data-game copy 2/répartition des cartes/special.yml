@@ -1,0 +1,194 @@
+- title: NFT Extravaganza
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Un NFT de votre blockchain bat tous les records en se vendant à des millions de dollars, rendant les autres collectionneurs verts de jalousie !
+  description_en: |
+    Vente de NFT record : Un NFT sur votre blockchain atteint des millions de dollars, bouleversant l'industrie des NFT et captivant les collectionneurs et investisseurs mondiaux.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+La carte "NFT Céleste" rapporte 10 points à votre score. Votre blockchain a créé un NFT qui a brisé tous les records en se vendant à des millions de dollars. Les collectionneurs du monde entier sont verts de jalousie devant votre succès éclatant. Profitez de ce triomphe et continuez à éblouir le marché avec vos créations uniques !
+
+- title: Blockchain Nation
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Un pays instable adopte votre blockchain, propulsant le prix du token vers des sommets stratosphériques et ébranlant les économies traditionnelles !
+  description_en: |
+    Adoption par un pays entier : Votre blockchain est adoptée par un pays instable, ce qui permet de renforcer la confiance et facilite les transactions. Le prix du token augmente, booste l'économie et permet l'adoption des crypto-monnaies.
+  tags: 'Cible: +2 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++30
+La carte "Un pays instable adopte votre blockchain" rapporte 30 points au joueur. Cette adoption massive propulse le prix du token vers des sommets stratosphériques, offrant une opportunité en or pour le joueur d'accumuler des bénéfices astronomiques et de dominer le marché. De plus, cette adoption déstabilise les économies traditionnelles, ce qui confère au joueur un avantage supplémentaire en ébranlant la concurrence. C'est une carte très puissante qui peut changer le cours du jeu en faveur du joueur chanceux !
+
+- title: DéFi Mania
+  icon: data/icons/adoption.svg
+  theme: Spécial
+  description_fr: |
+    Le DeFi fait un carton sur votre blockchain avec des frais minimes et des incitations attrayantes, attirant tous les aventuriers de la finance décentralisée !
+  description_en: |
+    Adoption massive de DeFi : Le DeFi booste l'adoption de votre blockchain avec des frais réduits et des incitations.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+La carte "Le DeFi en Fête" rapporte 10 points. Elle symbolise le succès et l'engouement massif pour la finance décentralisée (DeFi) sur votre blockchain. Les frais minimes et les incitations attrayantes font vibrer les aventuriers qui se ruent vers cette nouvelle ère financière, générant des bénéfices et renforçant votre score en tant que trader.
+
+- title: Pizza Party Bitcoin
+  icon: data/icons/adoption.svg
+  theme: Spécial
+  description_fr: |
+    22 mai 2010, première transaction réelle avec Bitcoin : Laszlo Hanyecz achète 2 pizzas pour 10 000 BTC. On célèbre le jour où Bitcoin a été utilisé pour acheter des pizzas en distribuant des récompenses en crypto lors d'une fête épique !
+  description_en: |
+    22 mai 2010, première transaction réelle avec Bitcoin : Laszlo Hanyecz achète 2 pizzas pour 10 000 BTC. Vous célébrez en distribuant des récompenses en crypto lors d'une fête !
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++5
+La carte "La Fête des Pizzas" rapporte 5 points. C'est un événement emblématique dans l'histoire de Bitcoin, où Laszlo Hanyecz a utilisé 10 000 BTC pour acheter deux pizzas. En célébrant ce jour historique, vous distribuez des récompenses en crypto lors d'une fête épique. Savourez la délicieuse victoire et profitez de la fête !
+
+- title: L'Escroquerie Catastrophe
+  icon: data/icons/frein.svg
+  theme: Spécial
+  description_fr: |
+    Une fraude retentissante (Scam) secoue la blockchain cible, donnant le vertige aux investisseurs et semant la zizanie dans l'écosystème crypto.
+  description_en: |
+    Scam : Fraude majeure impliquant la blockchain cible, arnaquant des investisseurs et provoquant la perte de millions de dollars.
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-5
+La carte "Fraude Retentissante" pourrait rapporter -5 points au score du joueur. Cette carte représente une situation négative qui secoue la blockchain cible, et en tant que joueur, vous perdriez des points en raison des conséquences néfastes de cette fraude sur l'écosystème crypto.
+
+- title: Le Contrat Farceur
+  icon: data/icons/frein.svg
+  theme: Spécial
+  description_fr: |
+    Une faille de sécurité dans un smart contract de la blockchain joue avec les fonds des utilisateurs, faisant des dégâts financiers et brisant des cœurs crypto.
+  description_en: |
+    Smart contract défaillant : Une faille de sécurité sur la blockchain cible exploite les fonds des utilisateurs, causant d'importantes pertes financières et sapant la confiance dans la blockchain.
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-10
+La carte "Faille Fatale" rapporte -10 points au joueur. La faille de sécurité dans le smart contract de la blockchain cause des dégâts financiers et brise des cœurs crypto.
+
+- title: NFT Frenzy
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Un artiste célèbre lance sa collection de NFT sur votre blockchain, créant une frénésie chez les fans et les investisseurs, avec des NFT atteignant des prix stratosphériques !
+  description_en: |
+    Nouvelle collective d'un célèbre artiste : Un célèbre artiste lance sa propre collection de NFT sur votre blockchain. La demande explose, les fans et les investisseurs se ruent pour acheter ces NFT. Ces créations deviennent des objets de collection prisés, atteignant des prix exorbitants.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+La carte "Folie des NFT" rapporte un nombre de points aussi délirant que les prix des NFT ! Imaginez, un artiste célèbre lance sa collection sur votre blockchain et tout le monde devient fou ! Les fans et les investisseurs se bousculent pour acheter ces NFT à des prix stratosphériques. C'est comme si vous aviez mis la main sur une machine à imprimer des billets virtuels ! Préparez-vous à accumuler des points en pagaille et à faire tourner les têtes avec votre flair pour les affaires !
+
+- title: La Blockchain du Futur
+  icon: data/icons/adoption.svg
+  theme: Spécial
+  description_fr: |
+    Votre blockchain révolutionnaire, rapide et écolo, crée une ruée sans précédent grâce à une promotion médiatique déchaînée !
+  description_en: |
+    Nouvelle génération de blockchain : Votre blockchain, révolutionnaire, rapide et écologique, connaît un engouement massif grâce à une promotion médiatique.
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+La carte "Ruée Médiatique" rapporte 10 points. Elle représente une situation où la blockchain que vous avez créée génère une attention massive grâce à une campagne promotionnelle intense et sensationnelle. Les médias du monde entier en parlent, attirant une foule d'investisseurs et d'utilisateurs. Cette ruée médiatique peut propulser votre score en raison de l'engouement et de l'intérêt suscités autour de votre blockchain révolutionnaire. Cependant, il est important de noter que la ruée médiatique peut être éphémère, et il faudra continuer à maintenir l'intérêt et à offrir des fonctionnalités solides pour assurer la pérennité de votre projet.
+
+- title: Crypto-Ecolo
+  icon: data/icons/adoption.svg
+  theme: Récompenses
+  description_fr: |
+    Les mineurs écolos de votre blockchain Proof of Work, alimentés par des énergies renouvelables, reçoivent des tokens supplémentaires. Faites un pas vers une utilisation d'énergie verte, réduisez votre empreinte carbone et profitez d'avantages exclusifs.
+  description_en: |
+    xx
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++5
+Vos mineurs écolos, fonctionnant grâce à des énergies renouvelables, sont récompensés avec des tokens supplémentaires ! En adoptant une approche énergétique responsable, vous réduisez votre empreinte carbone tout en obtenant des avantages exclusifs. Votre engagement en faveur de l'énergie verte vous permet de marquer des points supplémentaires et de contribuer à un avenir durable pour la blockchain ! Cette carte rapporte 5 points, car elle incarne à la fois l'aspect écologique et les avantages exclusifs liés à l'utilisation d'énergies renouvelables dans le processus de minage.
+
+- title: Stablecoin Mania
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Votre nouveau stablecoin séduit les foules avec sa valeur stable, sa liquidité instantanée et ses frais réduits, transformant les échanges et les paiements mondiaux !
+  description_en: |
+    Adoption de masse des stablecoins : Un nouveau stablecoin de votre blockchain bénéficie d'une valeur stable, d'une liquidité instantanée et de frais réduits. Cela permet des échanges rapides et des paiements mondiaux sans volatilité des crypto-monnaies.
+  tags: 'Cible: +2 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+Carte "Stablecoin Sensationnel" : Votre nouveau stablecoin est un véritable succès ! Grâce à sa valeur stable, sa liquidité instantanée et ses frais réduits, il révolutionne les échanges et les paiements mondiaux. Les foules se ruent dessus, et votre cote de popularité atteint des sommets ! Cette carte rapporte 10 points, symbolisant votre réussite dans la création d'un stablecoin qui fait sensation sur le marché. Les utilisateurs sont ravis de sa fiabilité et de sa praticité, ce qui se traduit par une augmentation de votre score. Bravo, vous êtes un véritable innovateur dans l'univers des cryptomonnaies !
+
+- title: Contrats Intelligents Futuristes
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    L'IA révolutionne vos contrats intelligents en prenant des décisions éclairées, créant une demande sans fin et faisant frétiller les investisseurs.
+  description_en: |
+    Intégration de l'IA dans les contrats intelligents : L'intelligence artificielle révolutionne les contrats intelligents sur votre blockchain en permettant une analyse automatique des données et une prise de décisions autonomes. Cela provoque une demande croissante et un intérêt industriel.
+  tags: 'Cible: -1 / Vous: +3'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+La carte "L'IA Contrat Futé" rapporte 10 points. L'IA, avec son intelligence inégalée, transforme vos contrats intelligents en générant des décisions éclairées. Grâce à cette technologie révolutionnaire, la demande explose et les investisseurs se ruent sur vos contrats. Votre succès sur le marché des contrats intelligents fait frétiller les investisseurs avides de profits. Profitez de cette vague d'enthousiasme et récoltez les bénéfices de l'IA !
+
+- title: Chaînes en Fusion
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Votre blockchain rejoint une union de blockchains, ouvrant les portes à une interconnectivité passionnante, des transferts d'actifs fluides et des interactions transchaines !
+  description_en: |
+    Les mineurs écolos de votre blockchain Proof of Work, alimentés par des énergies renouvelables, reçoivent des tokens supplémentaires. Faites un pas vers une utilisation d'énergie verte, réduisez votre empreinte carbone et profitez d'avantages exclusifs.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+Lorsque votre blockchain rejoint une union de blockchains, cela ouvre de nouvelles possibilités passionnantes pour l'interconnectivité. Votre blockchain peut désormais échanger des actifs avec d'autres blockchains, ce qui facilite les transferts fluides et les interactions transchaines. Cette interconnectivité accrue augmente la valeur et l'utilité de votre blockchain, ce qui se traduit par une augmentation significative de votre score en tant que trader avisé.
+
+- title: Projet Crypto Fantastique
+  icon: data/icons/special.svg
+  theme: Fonctionnalités
+  description_fr: |
+    Une équipe talentueuse remporte un concours épique avec votre blockchain en proposant un projet révolutionnaire qui repousse les limites de l'imagination. Leur innovation éblouissante intrigue les investisseurs et fait tourner les têtes dans l'industrie. Soyez prêt à embarquer dans cette aventure extraordinaire et à récolter des récompenses au-delà de vos rêves les plus fous !
+  description_en: |
+    Solution d'identité décentralisée : Une équipe gagne un hackathon organisé avec votre blockchain avec une identité décentralisée révolutionnaire, donnant aux utilisateurs le contrôle total de leurs données, éliminant les intermédiaires et renforçant la confidentialité. Le projet est primé et attire l'intérêt des grandes organisations.
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+Votre équipe de blockchain a remporté un concours légendaire grâce à un projet révolutionnaire qui dépasse les limites de l'imagination ! Cette victoire épique attire l'attention des investisseurs et secoue l'industrie. Préparez-vous à embarquer dans cette aventure extraordinaire et à récolter des récompenses qui dépassent toutes vos attentes ! Cette carte rapporte 10 points, car elle représente une opportunité exceptionnelle pour le trader d'accumuler des profits massifs grâce à l'engouement suscité par le projet gagnant.

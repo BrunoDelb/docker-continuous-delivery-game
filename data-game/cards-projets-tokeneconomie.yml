@@ -1,0 +1,480 @@
+- title: Contrat Futurproof
+  description: |
+    Vous avez développé un contrat intelligent évolutif et upgradable. Grâce à cette fonctionnalité, vous pouvez apporter des améliorations et des mises à jour sans avoir à déployer un nouveau contrat.
+  level: Avancé
+  video: '',
+  quest: '168559 104631',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Contrat intelligent
+    Contrat intelligent upgradable
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: La Gouvernance Monétaire
+  description: |
+    Votre DAO (Decentralized Autonomous Organization) entre en action pour un vote crucial visant à ajuster les taux d'intérêt qui influencent votre politique monétaire. Les résultats détermineront l'avenir de votre écosystème. Préparez-vous à voter, c'est votre moment de briller !
+  level: Moyen
+  video: '',
+  quest: '113338',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    DAO
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Le Diviseur Mystérieux
+  description: |
+    Comme avec le Bitcoin, les mineurs de votre blockchain voient leurs récompenses diminuer à chaque halving, ce qui rend votre token encore plus rare. C'est comme si les pièces d'or devenaient des diamants !
+  level: Moyen
+  video: '',
+  quest: '112150',
+  cryptoclash_score: 'Vous: +1 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Halving
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: La Bataille de la DAO
+  description: |
+    Vous mettez en place une DAO (Decentralized Autonomous Organization) sur votre blockchain, et les équipes se démènent pour promouvoir un nouveau protocole de consensus. Si elles réussissent à convaincre la majorité, la réforme renforcera la sécurité et les performances de notre blockchain. Que le meilleur protocole gagne !
+  level: Tous niveaux
+  video: '',
+  quest: '113338',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    DAO
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Divorce Blockchain
+  description: |
+    Des différences majeures éclatent au sein de votre communauté, et cela conduit à un hard fork. Les membres de votre communauté doivent choisir leur camp. Que la guerre commence !
+  level: Tous niveaux
+  video: '',
+  quest: '149212',
+  cryptoclash_score: 'Vous: +4 / Cible: -3'
+  cryptoworld_score: +2
+  explanations: |
+    Fork
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Fork Explosif
+  description: |
+    Les querelles sur l'évolutivité (scalabilité) et les frais déchirent votre communauté, entraînant un hard fork. Une nouvelle blockchain émerge avec des blocs plus grands pour accueillir plus de transactions. Qui a dit que la taille ne compte pas ?
+  level: Tous niveaux
+  video: '',
+  quest: '122576 149212',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Fork
+    Evolutivité
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Récompenses de Staking
+  description: |
+    Le staking des tokens récompense les détenteurs qui verrouillent leurs fonds pour valider les transactions. Intérêts, frais réduits et tokens supplémentaires font partie du package. Staker, c'est gagner !
+  level: Tous niveaux
+  video: '',
+  quest: '117248',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Staking
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Prévente Party
+  description: |
+    Les participants à votre prévente de tokens (ICO) ont obtenu une quantité importante de tokens à un prix avantageux. Avec la hausse vertigineuse de la valeur de vos tokens, ils se retrouvent avec des bénéfices qui donnent le vertige. C'est la fête dans leurs portefeuilles !
+  level: Tous niveaux
+  video: '',
+  quest: '131316',
+  cryptoclash_score: 'Vous: +3 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    ICO
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Pluie de Tokens
+  description: |
+    Une pluie de tokens récompense vos utilisateurs existants, augmentant généreusement leurs avoirs en tokens. C'est comme si vous trouviez un trésor tombé du ciel !
+  level: Tous niveaux
+  video: '',
+  quest: '179323',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Airdrop
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Fièvre de l'Adoption
+  description: |
+    Vous récompensez vos membres actifs pour leurs contributions exceptionnelles. Que ce soit avec des articles, du contenu, du développement, des événements ou des résolutions de problèmes, ils se démarquent et renforcent notre communauté. Tokens, statuts spéciaux et avantages uniques sont à l'honneur.
+  level: Tous niveaux
+  video: '',
+  quest: '179323',
+  cryptoclash_score: 'Vous: +3 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Airdrop
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Maître des jetons
+  description: |
+    Vous concevez la structure du token de votre blockchain. Vous déterminez le nombre total de jetons, le distribuez avec sagesse, créez des mécanismes astucieux d'émission et de brûlage (burn) et attribuez des droits et des utilisations uniques à votre précieux jeton. Vous prenez les bonnes décisions pour créer un écosystème blockchain qui fera briller vos jetons dans le monde numérique !
+  level: Moyen
+  video: '',
+  quest: '181872 108375',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Tokeneconomie
+    Burn
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Maîtrisez les Tokenomics
+  description: |
+    Vous prenez les rênes de l'économie du token et forgez un système financier solide. Vous jouez avec la distribution initiale, équilibrez l'offre et la demande et concevez des mécanismes de staking et de récompense qui stimuleront l'activité dans votre écosystème. Vous devenez le maître des Tokenomics et propulsez votre projet vers de nouveaux sommets !
+  level: Tous niveaux
+  video: '',
+  quest: '117248 108375',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Tokeneconomie
+    Staking
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Carte du Maître de la Feuille de Route
+  description: |
+    Vous tracez la voie vers le succès de votre projet blockchain. Vous définissez des étapes palpitantes, fixez des dates explosives et nouez des partenariats stratégiques pour une ascension épique. Avec une feuille de route (roadmap) bien orchestrée, votre projet atteindra des sommets vertigineux et dominera l'adoption massive. Vous prenez la baguette magique et dirigez votre équipe vers la gloire !
+  level: Tous niveaux
+  video: '',
+  quest: '142329',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Roadmap
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Oracle Party
+  description: |
+    Vous décidez d'intégrer des oracles. Ces petits assistants intelligents permettent à votre blockchain d'accéder à des informations externes, comme par enchantement ! Vous les utilisez pour nourrir vos contrats intelligents et prendre des décisions automatisées avec une touche de pouvoir surnaturel. Vous vous préparez à étonner le monde avec votre blockchain enchantée !
+  level: Avancé
+  video: '',
+  quest: '118047',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Oracle
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Choisissez Votre Voie
+  description: |
+    Vous décidez du modèle de consensus qui donnera vie à votre vision. Vous pouvez faire trembler les mineurs avec la preuve de travail ou laisser les détenteurs de tokens se battre avec la preuve d'enjeu. Vous explorez des mécanismes de consensus uniques et les adaptez à votre style. Le monde de la blockchain est prêt à vous accueillir, alors choisissez votre voie avec sagesse !
+  level: Tous niveaux
+  video: '',
+  quest: '113839',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Consensus
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Maître de l'Expérience Utilisateur
+  description: |
+    Vous rendez votre blockchain irrésistible pour les utilisateurs. Vous simplifiez les inscriptions, peaufinez l'interface et offrez une expérience fluide et intuitive. Vous attirez les utilisateurs avec des fonctionnalités conviviales et faites de votre blockchain un véritable plaisir à utiliser !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations:
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: L'Ingénieur Interopérable
+  description: |
+    Vous prenez la décision d'intégrer l'interopérabilité sur la blockchain. En connectant différentes blockchains, vous ouvrez les portes de la collaboration et de l'échange de données entre les mondes numériques. Vous créez des passerelles vers l'avenir de la décentralisation.
+  level: Moyen
+  video: '',
+  quest: '193026',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Interopérabilité
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Le Gardien des Contrats Intelligents
+  description: |
+    Vous prenez des décisions cruciales pour assurer la solidité de vos contrats intelligents, en menant des audits minutieux, en choisissant des bibliothèques de sécurité dignes de confiance et en suivant les meilleures pratiques de développement sécurisé.
+  level: Tous niveaux
+  video: '',
+  quest: '168559',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Contrat intelligent
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Maîtrise du Stockage Décentralisé
+  description: |
+    Vous stockez et récupérez des données d'un stockage décentralisé grâce à l'IPFS, sans dépendre de serveurs centralisés.
+  level: Avancé
+  video: '',
+  quest: '165122',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    IPFS
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Projet Crypto Fantastique
+  description: |
+    Une équipe talentueuse remporte un concours épique avec votre blockchain en proposant un projet révolutionnaire qui repousse les limites de l'imagination. Leur innovation éblouissante fait tourner les têtes dans l'industrie.
+  level: Tous niveaux
+  video: '',
+  quest: '157416',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Hackathon
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: La Blockchain du Futur
+  description: |
+    Votre blockchain révolutionnaire, rapide et écolo, crée une ruée sans précédent grâce à une promotion médiatique déchaînée !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations:
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Chaînes en Fusion
+  description: |
+    Votre blockchain rejoint une union de blockchains, ouvrant les portes à une interconnectivité passionnante, des transferts d'actifs fluides et des interactions transchaines.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations:
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Réseau Eclair
+  description: |
+    Le Lightning Network a fait son entrée sur votre blockchain, permettant des paiements instantanés et peu coûteux. Les transactions sont confirmées à la vitesse de l'éclair. Préparez-vous à dépasser tous les concurrents !
+  level: Avancé
+  video: '',
+  quest: '119559',
+  cryptoclash_score: 'Vous: 2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Lightning Network
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Le Maestro du Whitepaper
+  description: |
+    Vous plongez dans l'élaboration de votre vision révolutionnaire et rédigez un whitepaper captivant qui captivera les investisseurs. En décrivant votre concept innovant, vous montrez au monde entier votre expertise et votre ambition. Soyez créatif, précis et convaincant pour attirer l'attention et susciter l'engouement autour de votre projet. Votre whitepaper est la clé de votre succès dans l'univers des blockchains !
+  level: Moyen
+  video: '',
+  quest: '125307',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Whitepaper
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Rock the Blockchain World!
+  description: |
+    Vous avez l'opportunité de faire vibrer le monde de la blockchain grâce à votre génie de la communication et du marketing ! Vous développez une stratégie captivante pour promouvoir votre projet, attirer une foule d'utilisateurs et d'investisseurs enthousiastes, et laissez une empreinte indélébile dans la communauté blockchain. Avec votre éloquence et votre créativité, votre projet sera la superstar de l'univers blockchain !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations:
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Déchaînez votre créativité
+  description: |
+    Vous prenez la décision audacieuse d'élargir l'écosystème de votre blockchain. Vous ajoutez de nouvelles fonctionnalités excitantes, proposez des services complémentaires innovants et forgez des partenariats avec les applications les plus en vogue. Votre ambition et votre ingéniosité stimuleront l'attrait de votre blockchain et lui assureront une croissance fulgurante. Le monde de la blockchain est entre vos mains !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations:
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Les Portails Magiques
+  description: |
+    Vous avez construit des ponts (bridge) vers d'autres blockchains pour encourager l'adoption massive. Les utilisateurs peuvent désormais explorer facilement des contrats intelligents et des applications décentralisées sur différentes blockchains. Vous avez créé des connexions intergalactiques !
+  level: Avancé
+  video: '',
+  quest: '129407',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Bridge
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Devenez le Maître de l'Evolutivité
+  description: |
+    Vous prenez les rênes et boostez l'évolutivité de votre blockchain avec des décisions audacieuses. Vous faites face à la demande croissante en adoptant des solutions révolutionnaires comme le sharding ou les sidechains. Montrez au monde que votre blockchain est prête à évoluer vers de nouveaux sommets ! Le futur vous appartient, ninja de l'évolutivité !
+  level: Avancé
+  video: '',
+  quest: '163343 182958 122576',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Evolutivité
+    Sharding
+    Sidechain
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Le Savant des Lignes de Code
+  description: |
+    Vous pouvez booster la puissance de la blockchain en intégrant des fonctionnalités époustouflantes. Vous programmez des contrats intelligents magiques, donnez vie aux NFT enchanteurs et invoquez les oracles pour accéder à des connaissances mystiques.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations:
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+
+- title: Code Magicien des Contrats Intelligents
+  description: |
+    Vous créez des contrats intelligents impressionnants. Vous faites apparaître des programmes autonomes qui rendent la blockchain magique. Vous êtes le maître des transactions transparentes et des exécutions sans accroc. Votre code ingénieux fait briller l'innovation blockchain.
+  level: Tous niveaux
+  video: '',
+  quest: '168559',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Contrat intelligent
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Tokenéconomie
+

@@ -1,53 +1,5 @@
-Builder l'image :
+#!/bin/bash
 
-```
-docker build -t card-game docker/
-```
-
-Générer les images :
-
-```
-docker run -it -v $PWD/data:/app/data -v $PWD/_output:/app/_output card-game ruby deck.rb
-```
-
-Clean output folders:
-
-```
-rm -rf $PWD/_output-level1-challenges
-rm -rf $PWD/_output-level2-challenges
-rm -rf $PWD/_output-level3-challenges
-rm -rf $PWD/_output-level1-concepts
-rm -rf $PWD/_output-level2-concepts
-rm -rf $PWD/_output-level3-concepts
-rm -rf $PWD/_output-level1-solutions
-rm -rf $PWD/_output-level2-solutions
-rm -rf $PWD/_output-level3-solutions
-rm -rf $PWD/_output-game
-```
-
-Run all:
-
-```
-docker run -it -v $PWD/data-level1-challenges:/app/data -v $PWD/_output-level1-challenges:/app/_output card-game ruby deck.rb
-docker run -it -v $PWD/data-level1-concepts:/app/data -v $PWD/_output-level1-concepts:/app/_output card-game ruby deck.rb
-docker run -it -v $PWD/data-level1-solutions:/app/data -v $PWD/_output-level1-solutions:/app/_output card-game ruby deck.rb
-
-docker run -it -v $PWD/data-level2-challenges:/app/data -v $PWD/_output-level2-challenges:/app/_output card-game ruby deck.rb
-docker run -it -v $PWD/data-level2-concepts:/app/data -v $PWD/_output-level2-concepts:/app/_output card-game ruby deck.rb
-docker run -it -v $PWD/data-level2-solutions:/app/data -v $PWD/_output-level2-solutions:/app/_output card-game ruby deck.rb
-
-docker run -it -v $PWD/data-level3-challenges:/app/data -v $PWD/_output-level3-challenges:/app/_output card-game ruby deck.rb
-docker run -it -v $PWD/data-level3-concepts:/app/data -v $PWD/_output-level3-concepts:/app/_output card-game ruby deck.rb
-docker run -it -v $PWD/data-level3-solutions:/app/data -v $PWD/_output-level3-solutions:/app/_output card-game ruby deck.rb
-
-docker run -it -v $PWD/data-game:/app/data -v $PWD/_output-game:/app/_output card-game ruby deck.rb
-```
-
-docker run -it -v $PWD/data-game:/home/data -v $PWD/tmp:/home/app -v $PWD/_output-game:/app/_output card-game ruby deck.rb
-
-
-```
-docker run -it --rm -v $PWD/data-game:/home/data -v $PWD/app:/home/app -v $PWD/_output-game:/app/_output card-game bash
 cd ./_output/
 rm *
 cd ..
@@ -56,13 +8,6 @@ ruby deck.rb cryptobuzz
 cd ./_output/
 for file in card_*.svg; do
     mv "$file" "cryptobuzz-${file#card_}"
-done
-cd ..
-echo "Processing cryptoquest..."
-ruby deck.rb cryptoquest
-cd ./_output/
-for file in card_*.svg; do
-    mv "$file" "cryptoquest-${file#card_}"
 done
 cd ..
 echo "Processing consommateurs-oups..."
@@ -163,4 +108,3 @@ for file in card_*.svg; do
     mv "$file" "traders-strategie-${file#card_}"
 done
 cd ..
-```

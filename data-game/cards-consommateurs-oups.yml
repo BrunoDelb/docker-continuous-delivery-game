@@ -1,0 +1,165 @@
+- title: Piégé par le Bambou
+  description: |
+    Vous êtes victime d'une manipulation de marché sournoise et vos gains s'envolent comme un panda farceur. Restez vigilant face aux tactiques trompeuses des autres joueurs, car même les pandas farceurs peuvent influencer vos investissements.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -3 / Cible: +3'
+  cryptoworld_score: -2
+  explanations: |
+    Manipulation du marché
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Le Trésor Perdu
+  description: |
+    Oh non ! En raison d'un problème technique, vous avez perdu tous vos actifs et ne pouvez pas les récupérer. C'est un coup dur, mais gardez le moral et continuez à jouer avec persévérance. Qui sait, peut-être trouverez-vous un autre trésor en chemin ?
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -2 / Cible: +2'
+  cryptoworld_score: -2
+  explanations: |
+    Difficulté de récupération des actifs perdus
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: La Toute-Puissance des Témoins
+  description: |
+    Vos transactions sont visibles par tous, dévoilant vos achats de chaussettes en forme de licorne. Soyez prêt à embrasser la transparence totale et à partager vos excursions shopping les plus excentriques avec le monde entier.
+  level: Tous niveaux
+  video: '',
+  quest: '112693 114329 113504',
+  cryptoclash_score: 'Vous: -1 / Cible: +1'
+  cryptoworld_score: -2
+  explanations: |
+    Confidentialité limitée
+    Confidentialité
+    Transaction
+    Transparence
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: L'Appât du Token
+  description: |
+    Investissez dans un projet frauduleux et perdez vos fonds plus vite qu'une licorne arc-en-ciel. Un avertissement comique sur les risques de se laisser emporter par des promesses trop belles pour être vraies.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -4 / Cible: +4'
+  cryptoworld_score: -2
+  explanations: |
+    Fraudes et escroqueries
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: FOMO Extrême
+  description: |
+    Vous achetez une crypto-monnaie au sommet de son prix, mais malheureusement, elle plonge ensuite dans une chute vertigineuse. Vous devez assumer les conséquences de votre FOMO (Fear Of Missing Out) et faire face à une perte de points.
+  level: Tous niveaux
+  video: '',
+  quest: '104153 198001',
+  cryptoclash_score: 'Vous: -1 / Cible: +1'
+  cryptoworld_score: -2
+  explanations: |
+    Volatilité
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Phishing Epique
+  description: |
+    Tombez dans le piège d'un email de phishing, perdez l'accès à votre portefeuille et subissez les conséquences désastreuses. Faites preuve de prudence dans le monde des cryptomonnaies et évitez les pièges sournois pour protéger vos précieux actifs.
+  level: Tous niveaux
+  video: '',
+  quest: '129082 100168',
+  cryptoclash_score: 'Vous: -3 / Cible: +3'
+  cryptoworld_score: -2
+  explanations: |
+    Sécurité des portefeuilles
+    Portefeuille
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Aïe, Mes Clés
+  description: |
+    Oh non ! Vous avez égaré vos clés privées et tous vos actifs sont désormais perdus à jamais. Une erreur fatale qui vous fait perdre tous vos points accumulés. Soyez prudent avec vos clés et gardez-les en sécurité pour éviter une telle tragédie dans le monde des cryptomonnaies.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -5 / Cible: +5'
+  cryptoworld_score: -2
+  explanations: |
+    Perte de clés privées
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Transaction Coûteuse
+  description: |
+    Les frais de transaction sont si élevés que vous préférez acheter un café au lieu de transférer des fonds. Les frais astronomiques vous font réfléchir à deux fois avant de procéder à la transaction.
+  level: Tous niveaux
+  video: '',
+  quest: '112693 174703',
+  cryptoclash_score: 'Vous: -1 / Cible: +1'
+  cryptoworld_score: -2
+  explanations: |
+    Scalabilité
+    Transaction
+    Frais de transaction
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Les Profits Miraculeux
+  description: |
+    Vous avez découvert une blockchain qui prétend offrir des rendements garantis ! Vous vous précipitez pour sauter à bord. Mais attention, c'est un véritable tour de magie ! Les promesses s'évanouissent, les investissements disparaissent et les poursuites judiciaires pleuvent. Evitez les mirages et restez loin de ces arnaques crypto-désastreuses !
+  level: Tous niveaux
+  video: '',
+  quest: '146234',
+  cryptoclash_score: 'Vous: +1 / Cible: -5'
+  cryptoworld_score: -2
+  explanations: |
+    Rendement
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Le Marteau de la Régulation
+  description: |
+    Enfreignez les lois régissant l'utilisation des blockchains et recevez une amende salée. Soyez prudent dans vos actions, car la régulation est implacable et peut infliger des conséquences financières désastreuses.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -7 / Cible: +7'
+  cryptoworld_score: -2
+  explanations: |
+    Risques réglementaires
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage

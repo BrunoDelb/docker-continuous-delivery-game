@@ -1,0 +1,478 @@
+- title: KYC
+  description: |
+    Le régulateur demande une vérification KYC (Know Your Customer) pour s'assurer de votre identité. Fournissez les informations requises pour vous conformer aux réglementations et garantir la sécurité du réseau. Le KYC est un processus de vérification d'identité utilisé par les régulateurs et les plateformes pour prévenir le blanchiment d'argent, la fraude et d'autres activités illégales.
+  level: Tous les niveaux
+  video: '',
+  quest: '170060',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations: |
+    KYC
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Interdiction du Minage
+  description: |
+    Le régulateur annonce une interdiction du minage de cryptomonnaies. Les mineurs doivent cesser leurs activités immédiatement et trouver de nouvelles opportunités dans l'univers de la blockchain. Soyez prêt à ajuster votre stratégie et à explorer de nouvelles voies pour rester dans le jeu.
+  level: Tous les niveaux
+  video: '',
+  quest: '101494',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations: |
+    Minage
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Gardien des Valeurs Mobilières
+  description: |
+    Le régulateur détecte des tokens qui peuvent être considérés comme des valeurs mobilières (security tokens). Il engage une enquête approfondie pour assurer la conformité et la protection des investisseurs. Son rôle est crucial pour maintenir l'intégrité du marché des cryptomonnaies.
+  level: Tous les niveaux
+  video: '',
+  quest: '171637',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations: |
+    Token Securities
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Le Gendarme des Bénéfices
+  description: |
+    Le régulateur émet des directives sur les token Utilities. Ce sont des tokens conçus pour être utilisés à l'intérieur d'un écosystème spécifique, offrant des avantages ou des fonctionnalités exclusives. Il veille à ce que ces tokens respectent les réglementations en vigueur et servent l'intérêt des utilisateurs.
+  level: Tous les niveaux
+  video: '',
+  quest: '151162',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations: |
+    Token Utilities
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: ICOs Interdits
+  description: |
+    Le régulateur joue les casseurs de fête en interdisant les ICOs (Initial Coin Offerings), laissant les entrepreneurs et les investisseurs se gratter la tête à la recherche de nouvelles solutions de financement. Pendant ce temps, la confiance en prend un coup. Cette décision sème la confusion et l'incertitude dans le marché, faisant vaciller la confiance des acteurs. C'est un véritable numéro d'équilibriste pour les traders qui doivent naviguer avec précaution dans cette période de turbulence réglementaire.
+  level: Moyen
+  video: '',
+  quest: '131316',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '-2'
+  explanations: |
+    ICO
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Fermeture des Frontières
+  description: |
+    Une panique totale règne parmi les traders alors que les échanges ferment leurs portes pour une période indéterminée. Les traders paniquent plus que des renards dans un poulailler. Les actifs sont en chute libre et les problèmes de liquidation font rage. Qui a éteint les lumières et quand seront-elles rallumées ?
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +1 / Cible: -2'
+  cryptoworld_score: '-3'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Loi de la Corde Raide
+  description: |
+    Le régulateur sort le balai pour balayer l'anonymat sur les blockchains. La confidentialité se fait la malle, la confiance part en fumée et l'adoption de la blockchain se met en mode escargot.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -1 / Cible: +1'
+  cryptoworld_score: '-1'
+  explanations: |
+    Anonymat
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Les Accords Infaillibles
+  description: |
+    Les contrats intelligents passent du statut de rockstars underground à celui de stars montantes. Ils deviennent légalement contraignants et tout le monde s'y met : transactions commerciales, transactions immobilières, transactions juridiques... L'automatisation est dans la place, les coûts chutent et la confiance s'envole. C'est une belle histoire d'amour entre la blockchain et les contrats intelligents.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Le Bouclier de Confidentialité
+  description: |
+    C'est le bal masqué de la protection des données dans la blockchain. Le régulateur renforce la confidentialité, faisant de la sécurité et de la confiance les rois de la soirée. Adieu les risques de violation de la vie privée, bonjour l'adoption massive de la blockchain dans tous les secteurs. On a gagné le gros lot, les amis !
+  level: Tous niveaux
+  video: '',
+  quest: '114329 189749',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations: |
+    Protection des données
+    Confidentialité
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: La Règle Bienveillante
+  description: |
+    Le lobbying blockchain porte ses fruits et le régulateur fait une réforme majeure en faveur de la blockchain dans le domaine financier. Les frais sont en chute libre et la confiance bat son plein dans les services financiers basés sur la blockchain. On danse tous la blockchain, yeah !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: La Manipulation Tordue
+  description: |
+    Les opposants aux blockchains font de la résistance et réussissent à influencer le régulateur pour introduire des mesures défavorables aux blockchains. Les projets se mettent sur la défensive et la blockchain doit lutter pour garder sa place sous les projecteurs.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '-1'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Crypto Blocage
+  description: |
+    Grande interdiction ! Les crypto-monnaies deviennent illégales, plongeant le marché de la blockchain dans le deuil. Un lancer de dé décide : entre 1 et 3, vous perdez 3 points ; sinon, choisissez un autre joueur qui les perd. La confiance des traders est ébranlée. Les crypto-monnaies, hors-la-loi, qui l'aurait cru ?
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -2 / Cible: +2'
+  cryptoworld_score: 'Landé de dé'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Inspecteur Crypto en Action
+  description: |
+    Le régulateur décide d'effectuer des audits fréquents sur les plateformes d'échange de cryptomonnaies pour traquer les méchants et garantir leur conformité. Son objectif : renforcer la confiance des utilisateurs envers ces plateformes et maintenir un environnement sûr et transparent dans le monde de la blockchain.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -1 / Cible: +1'
+  cryptoworld_score: '+1'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Inspecteur de la Blockchain
+  description: |
+    Le régulateur mène des enquêtes approfondies sur les protocoles, vérifie les transactions et décortique les contrats intelligents pour maintenir l'ordre et protéger les utilisateurs. Une expertise réglementaire est la clé pour une blockchain juste et transparente. Un lancer de dé décide : entre 1 et 3, vous gagnez 1 points; sinon, choisissez un autre joueur qui gagne 1 point.
+  level: Tous niveaux
+  video: '',
+  quest: '113504',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: 'Lancé de dé'
+  explanations: |
+    Transparence
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Partenariat Main dans la Main
+  description: |
+    En collaborant avec l'industrie des blockchains, le régulateur peut façonner les normes et les bonnes pratiques pour soutenir l'évolution du secteur. Il fait équipe avec les acteurs clés, ils échangent des idées innovantes et bâtissent ensemble un environnement réglementaire solide. Leur partenariat main dans la main favorisera la croissance responsable de la blockchain et inspirera confiance à tous les niveaux.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: L'Entente Régulatrice Globale
+  description: |
+    Le régulateur et les organismes mondiaux créent des normes harmonisées pour les blockchains et les cryptomonnaies. Lancer un dé : 1 à 3 implique des difficultés, une perte de 2 points ; supérieur à 3, amélioration, gain de 2 points. Renforçons la confiance, la transparence et adoptons une révolution technologique sécurisée et réglementée pour tous !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'Lancé de dé'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Le Marteau Régulateur
+  description: |
+    Le régulateur a le pouvoir de brandir le Marteau Régulateur et de contrôler les projets de stablecoins. Il fait trembler les fraudeurs et veille à ce que les cryptomonnaies soient soutenues par des réserves solides, sans risque de secouer l'économie. C'est lui qui décide qui est digne de confiance et qui sera puni par le marteau puissant !
+  level: Tous niveaux
+  video: '',
+  quest: '123710 188229',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations: |
+    Réserves
+    Stablecoin
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Contrats Intelligents Enchantés
+  description: |
+    Le régulateur crée un cadre juridique enchanté pour les contrats intelligents ! Grâce à sa baguette réglementaire, il donner vie aux contrats intelligents en leur conférant une reconnaissance légale. Il clarifie les droits et obligations des parties et s'assure que la magie des contrats intelligents opère en toute sécurité.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Le Gendarme du Crypto-Monde
+  description: |
+    Le régulateur suprême incarne le gardien vigilant en établissant des normes de sécurité strictes pour les blockchains. Il protège les utilisateurs contre les attaques sournoises et les fuites de données en imposant une cryptographie blindée, des contrôles d'accès renforcés et des vérifications d'identité de choc. Sa mission ? Faire régner la sécurité et la confiance dans le royaume des cryptos ! Un lancer de dé détermine leur impact : de 1 à 3, elles sont difficiles à mettre en œuvre et le joueur perd 2 points. Au-delà de 3, elles améliorent la situation et le joueur gagne 2 points.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'Lancé de dé'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Inspecteur Intrépide
+  description: |
+    Le régulateur joue le rôle d'Inspecteur Intrépide. Il exige des rapports réguliers des investisseurs pour briller dans son rôle de régulateur. Il fait respecter la transparence en réclamant des détails sur leurs activités et transactions. Il s'assure que tout le monde joue selon les règles établies.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Boostez l'adoption institutionnelle
+  description: |
+    Le régulateur est capable de booster l'adoption institutionnelle des blockchains ! Il propose des programmes spéciaux et des avantages fiscaux tentants pour attirer les entreprises vers cette révolution numérique. Préparez-vous à créer une frénésie d'entreprises avides d'explorer ces horizons numériques sans fin !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Chasseur de Mystères Monétaires
+  description: |
+    Le redoutable régulateur se lance dans une traque sans relâche contre les cryptomonnaies anonymes ! Il fait preuve d'autorité en bannissant ces monnaies secrètes qui alimentent le côté sombre du monde financier.
+  level: Tous niveaux
+  video: '',
+  quest: '149080',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: '-2'
+  explanations: |
+    Anonymat
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Le Régulateur Inflexible
+  description: |
+    Le régulateur a décidé de jouer les justiciers ! Il impose des limites strictes sur les leviers d'endettement des traders. Bye-bye, volatilité excessive ! Sa mission : assurer une montagne russe moins turbulente sur les plateformes d'échange.
+  level: Tous niveaux
+  video: '',
+  quest: '198001',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations: |
+    Volatilité
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Le Gardien des Conflits
+  description: |
+    Le régulateur intrépide est chargé de mettre en place des mécanismes de résolution des conflits dans le monde de la blockchain. Il a le pouvoir d'établir des procédures d'arbitrage rapides et équitables, ainsi que des tribunaux spécialisés pour résoudre les litiges. Cela apporte la paix et l'harmonie aux utilisateurs de blockchain en résolvant les différends avec style !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Le Régulateur Visionnaire
+  description: |
+    Le régulateur habile encourage l'innovation tout en maintenant un environnement réglementaire solide. En tant que gardien des règles, il peut créer des programmes d'incitation fiscale pour stimuler les projets conformes et soutenir la recherche et le développement de technologies blockchain responsables. Sa vision éclairée favorisera une croissance durable de l'écosystème blockchain.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Super Régulateur de Blockchain
+  description: |
+    Le régulateur est un héros de la protection des investisseurs. Il utilise ses super pouvoirs pour mettre en place des mécanismes de sécurité et de garantie. En cas de fraude ou d'échec du projet, il peut intervenir avec des garanties de remboursement et des mécanismes de médiation pour résoudre les différends.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Le Régulateur Vertueux
+  description: |
+    Le régulateur surveille les activités de minage avec un oeil vigilant. Il s'assure que les mineurs jouent selon les règles en matière d'environnement et d'efficacité énergétique. Il garde un oeil sur les mineurs malicieux et protège la planète blockchain ! Il est le gardien des normes et s'assure que l'exploitation minière reste propre et équilibrée.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+2'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Sherlock Crypto
+  description: |
+    Le régulateur enfile sa casquette de Sherlock et suit les traces des transactions louches, vérifie les identités et s'assure que tout est conforme aux règles anti-blanchiment et anti-terrorisme.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +1 / Cible: -2'
+  cryptoworld_score: '+2'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Mission Regulateur
+  description: |
+    Le régulateur informe et éduque le public sur les mystères des blockchains. Il crée des guides amusants, organise des ateliers interactifs et partage des connaissances pour aider les utilisateurs à naviguer dans les eaux tumultueuses de la blockchain. Il éclaire leurs esprits, les arme de connaissances et les sauve des pièges cachés ! Sa mission est d'éduquer pour protéger.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+3'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: Gardien de la Blockchain
+  description: |
+    Le régulateur vigilant fait des évaluations de risques décalées pour anticiper les embrouilles. Des attaques de consensus sournoises aux cyberattaques farfelues, il est prêt à déjouer ces menaces émergentes. Il protège la blockchain avec son flair et son expertise.
+  level: Tous niveaux
+  video: '',
+  quest: '113839',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+1'
+  explanations: |
+    Consensus
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation
+
+- title: L'oeil vigilant du Régulateur
+  description: |
+    Le régulateur évalue les risques et les avantages des nouvelles technologies blockchain. Il scrute les contrats intelligents et les jetons non fongibles pour façonner des politiques et des réglementations intelligentes et adaptées à ces innovations étonnantes. Il est le gardien de l'ordre et de l'innovation dans le monde des blockchains. En lançant un dé, si le résultat est 1-3, la nouvelle réglementation est trop stricte et le joueur perd 2 points. Sinon, la situation s'améliore et le joueur gagne 2 points.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +1 / Cible: -2'
+  cryptoworld_score: 'Lancé de dé'
+  explanations:
+  character: Le Régulateurs
+  image: ../data/images/regulateurs.png
+  cardcolor: regulateurs_color
+  textcolor: white
+  theme: Régulation

@@ -1,0 +1,8 @@
+- C'est quoi Crypto Clash ?
+- Les types de carte
+- Les thèmes abordés
+- Les règles
+- Le gagnant
+- Le plateau du jeu
+- Les cartes à piocher
+- Des vidéos d'explication à lire sur votre téléphone (essayez ce qrcode !)

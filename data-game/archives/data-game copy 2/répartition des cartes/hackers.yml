@@ -1,0 +1,299 @@
+- title: L'Evasion des Cryptos
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Vol de tokens : Un voleur sournois dérobe des tonnes de tokens sur la blockchain, semant la panique parmi les utilisateurs et la méfiance envers cette blockchain. Tout le monde cherche à attraper le coupable !
+  description_en: |
+    Vol de tokens : Un hacker attaque la blockchain cible, volant des centaines de milliers de tokens. La confiance s'effondre. Panique parmi ses utilisateurs et méfiance envers cette blockchain.
+  tags: 'Cible: -2 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-5
+Un voleur sournois dérobe des tonnes de tokens, causant la panique et la méfiance parmi les utilisateurs de la blockchain. Tout le monde est à la recherche du coupable pour le traduire en justice et récupérer les fonds volés.
+
+- title: Le Complot des Développeurs
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Attaque de la DAO : Une attaque vicieuse contre le contrat intelligent de la DAO entraîne le détournement massif d'Ethers. La communauté se divise en deux camps, et la blockchain se retrouve avec un "fork" géant. C'est le chaos total !
+  description_en: |
+    Attaque de la DAO : Une attaque sur le contrat intelligent de la DAO de la blockchain cible provoque un détournement massif d'Ethers, divisant la communauté et créant un fork.
+  tags: 'Cible: -2 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-10
+Une attaque vicieuse contre le contrat intelligent de la DAO entraîne le détournement massif d'Ethers. La communauté se divise en deux camps et la blockchain subit un "fork" géant, ce qui crée un chaos total et entraîne des conséquences importantes pour les utilisateurs.
+
+- title: L'Exploit Bienveillant
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Hack éthique : Un hacker astucieux parvient à dérober des millions de dollars, mais surprise ! Il se montre d'un bon cœur en restituant la plupart des fonds, invoquant des raisons éthiques. C'est le Robin des Bois des crypto-monnaies !
+  description_en: |
+    Hack éthique : Un hackeur détourne des millions de dollars, mais surprend en restituant la majorité des fonds, invoquant des motivations éthiques.
+  tags: 'Cible: -1 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++5
+Un hacker astucieux réussit à dérober des millions de dollars, mais surprise ! Il se montre d'un bon cœur en restituant la plupart des fonds pour des raisons éthiques. Cette action inattendue fait de lui le Robin des Bois des crypto-monnaies.
+
+- title: La Malchance Financière
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Perte de fonds : Une faille dans la blockchain provoque la disparition de 150 000 Ether. Les pirates ont profité d'une vulnérabilité du contrat intelligent, causant ainsi d'énormes pertes pour les utilisateurs. Oups, ça fait mal !
+  description_en: |
+    Perte de fonds : Une faille dans la blockchain cible cause la perte de 150 000 Ether. Les pirates ont exploité une vulnérabilité du contrat intelligent, causant des pertes considérables pour les utilisateurs.
+  tags: 'Cible: -2 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-8
+Une faille dans la blockchain entraîne la disparition de 150 000 Ether. Les pirates ont exploité une vulnérabilité du contrat intelligent, causant d'énormes pertes pour les utilisateurs. C'est un revers important et douloureux pour l'écosystème.
+
+- title: Le Tour de Passe-Passe
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Manipulation des transactions : Un hacker prend le contrôle de la blockchain et joue avec les transactions comme un magicien. Il crée des doubles dépenses et met en évidence les vulnérabilités de cette blockchain. On se croirait dans un film d'action !
+  description_en: |
+    Manipulation des transactions : Un hacker prend le contrôle de la blockchain cible en manipulant les transactions et en effectuant des doubles dépenses, soulignant les vulnérabilités de ce type de blockchains.
+  tags: 'Cible: -2 / Vous: -1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-3
+Un hacker prend le contrôle de la blockchain et manipule les transactions comme un magicien. Il crée des doubles dépenses et met en évidence les vulnérabilités de la blockchain. Cette situation crée de l'instabilité et de l'incertitude dans l'écosystème.
+
+- title: La Duplicité Monétaire
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Attaque par double dépense : Un hacker rusé parvient à dépenser deux fois les mêmes jetons sur la blockchain, créant une catastrophe financière pour ceux qui ont accepté les transactions frauduleuses. Les utilisateurs sont en colère et la confiance en la blockchain est ébranlée.
+  description_en: |
+    Attaque par double dépense : Un hacker a réussi à dépenser deux fois des jetons sur la blockchain cible, créant une perte financière significative pour les utilisateurs qui ont accepté les transactions frauduleuses et une perte de confiance dans la blockchain.
+  tags: 'Cible: -3 / Vous: +2'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-7
+Un hacker rusé parvient à dépenser deux fois les mêmes jetons sur la blockchain, créant ainsi une catastrophe financière pour ceux qui ont accepté les transactions frauduleuses. Les utilisateurs sont en colère et la confiance en la blockchain est ébranlée.
+
+- title: L'Escroquerie Epique
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Fraude : Des escrocs malicieux attaquent la blockchain avec des transactions fictives, semant le doute et causant d'énormes pertes pour les utilisateurs. C'est une véritable escroquerie crypto-criminelle !
+  description_en: |
+    Fraude : La blockchain cible est attaquée par des transactions fictives. Confiance brisée, pertes massives, remise en question de la sécurité des plateformes d'échange.
+  tags: 'Cible: -1 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-6
+Des escrocs malicieux attaquent la blockchain avec des transactions fictives, semant le doute et causant d'énormes pertes pour les utilisateurs. C'est une véritable escroquerie crypto-criminelle qui ébranle la confiance dans l'écosystème.
+
+- title: Le Coup de DeFi
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Escroquerie DeFi : Une fausse transaction DeFi sur la blockchain escroque les investisseurs, causant des pertes financières et sapant la confiance envers les projets DeFi. Ces escrocs ont des idées diaboliques !
+  description_en: |
+    Escroquerie DeFi : Une fausse transaction DeFi sur la blockchain cible escroque les investisseurs, entraînant des pertes financières et sapant la confiance envers les projets DeFi.
+  tags: 'Cible: -1 / Vous: +1'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-4
+Une fausse transaction DeFi sur la blockchain escroque les investisseurs, entraînant des pertes financières et sapant la confiance envers les projets DeFi. Ces escrocs ont des idées diaboliques qui mettent en péril la confiance de la communauté.
+
+- title: Le Pouvoir Suprême
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Attaque des 51% : Un groupe malveillant s'empare de 51% de la puissance de calcul de la blockchain (Proof of Work), effectuant des doubles dépenses et provoquant la chute de la valeur du token. La communauté se rassemble pour contrer l'attaque, tel un groupe de super-héros crypto !
+  description_en: |
+    Attaque des 51% : Un groupe prend le contrôle de 51% de la puissance de calcul de la blockchain cible (Proof of Work), effectuant des doubles dépenses et ébranlant la confiance. La valeur du token chute. La communauté s'unit pour contrer l'attaque et renforcer la sécurité.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-9
+Un groupe malveillant s'empare de 51% de la puissance de calcul de la blockchain (Proof of Work), effectuant des doubles dépenses et provoquant la chute de la valeur du token. La communauté doit se rassembler pour contrer cette attaque et rétablir la sécurité.
+
+- title: Le Sabotage Démocratique
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Attaque par les droits de vote : Un groupe puissant possède une grande quantité de tokens sur la blockchain (Proof of Stake) et manipule les récompenses, excluant les utilisateurs légitimes. La communauté se lève pour exiger une décentralisation et une démocratie renforcée. C'est la révolution des crypto-voteurs !
+  description_en: |
+    Attaque par les droits de vote : Un groupe détient une grande quantité de tokens de la blockchain cible (Proof of Stake) et contrôle plus d'un tiers des avoirs. Ils manipulent les récompenses et excluent les utilisateurs légitimes. La communauté réagit en demandant une décentralisation et une démocratie renforcée sur la blockchain.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-7
+Un groupe puissant possède une grande quantité de tokens sur la blockchain (Proof of Stake) et manipule les récompenses, excluant les utilisateurs légitimes. La communauté se mobilise pour exiger une décentralisation et une démocratie renforcée.
+
+- title: L'Assaut Incessant
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Attaque par déni de service : Une attaque massive de déni de service paralyse la blockchain. Des transactions malveillantes inondent le réseau, provoquant des retards majeurs. La confiance s'évanouit et les prix deviennent plus instables que jamais.
+  description_en: |
+    Attaque par déni de service : Une attaque massive de déni de service paralyse la blockchain cible. Surchargeant les noeuds avec des transactions malveillantes, des retards majeurs se produisent. La confiance diminue, les prix deviennent volatils.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-5
+Une attaque massive de déni de service paralyse la blockchain. Des transactions malveillantes inondent le réseau, provoquant des retards majeurs. La confiance s'évanouit et les prix deviennent plus instables que jamais.
+
+- title: La Multiplication Diabolique
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Attaque Sybil : Des noeuds malveillants envahissent la blockchain, mettant en péril la sécurité et le consensus. Les détenteurs de tokens se rassemblent pour isoler les faux noeuds et renforcer la détection, empêchant ainsi toute manipulation future. C'est une véritable guerre contre les faux crypto-amis !
+  description_en: |
+    Attaque Sybil : Des noeuds malveillants envahissent la blockchain cible, mettant en péril sécurité et consensus. Les détenteurs de tokens unissent leurs forces pour isoler les noeuds et renforcer la détection, prévenant ainsi de futures manipulations.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-6
+Des nœuds malveillants envahissent la blockchain, mettant en péril la sécurité et le consensus. Les détenteurs de tokens se rassemblent pour isoler les faux nœuds et renforcer la détection, empêchant ainsi toute manipulation future.
+
+- title: L'Invasion Incontrôlable
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Attaque par DoS : Un hacker lance une attaque de déni de service, inondant le réseau de transactions non valides. Les communications ralentissent, perturbant les opérations et faisant chuter la réactivité. C'est comme si la blockchain était prise dans une file d'attente infinie !
+  description_en: |
+    Attaque par DoS : Un hacker lance une attaque par déni de service (DoS), inondant le réseau de transactions non valides. Les communications ralentissent, perturbant les opérations et freinant la réactivité.
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-4
+Un hacker lance une attaque de déni de service, inondant le réseau de transactions non valides. Les communications ralentissent, perturbant les opérations et faisant chuter la réactivité. C'est comme si la blockchain était prise dans une file d'attente infinie.
+
+- title: Voltaire des Watts
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Un hacker exploite une faille du protocole Proof of Work de la blockchain, prend le contrôle de la puissance de calcul et s'accapare toutes les récompenses minières. Il perturbe ainsi l'équilibre du réseau et joue avec les nerfs de tout le monde !
+  description_en: |
+    Vol de ressources énergétiques : Un hacker exploite une vulnérabilité du protocole de la blockchain cible, qui est Proof of Work, et prend le contrôle de la puissance de calcul et monopolise les récompenses minières, perturbant ainsi l'équilibre du réseau.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-5
+Un hacker exploite une faille du protocole Proof of Work de la blockchain, prend le contrôle de la puissance de calcul et s'accapare toutes les récompenses minières. Il perturbe ainsi l'équilibre du réseau et joue avec les nerfs de tout le monde.
+
+- title: Robin des Stakes
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Un hacker accumule des tokens et domine le consensus de la blockchain Proof of Stake en manipulant les décisions et en volant les récompenses de staking, laissant les autres détenteurs perplexes et frustrés. Ce voleur crypto est vraiment audacieux !
+  description_en: |
+    Vol de ressources de staking : Un hacker accumule des tokens et domine le consensus de la blockchain cible, qui est Proof of Stake, en manipulant les décisions et en volant les récompenses de staking, lésant ainsi les autres détenteurs.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-7
+Un hacker accumule des tokens et domine le consensus de la blockchain Proof of Stake en manipulant les décisions et en volant les récompenses de staking, laissant les autres détenteurs perplexes et frustrés.
+
+- title: Bandit de bande passante
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Un hacker exploite une faille dans le système de tarification des frais de la blockchain et lance une attaque de déni de service. Le réseau est submergé de transactions sans valeur, bloquant la bande passante et laissant les utilisateurs légitimes impuissants face à la congestion. C'est comme un embouteillage géant sur l'autoroute crypto !
+  description_en: |
+    Vol de bande passante : Un hacker exploite une faille de tarification des frais sur la blockchain cible et mène une attaque de déni de service. Le réseau est inondé de transactions sans valeur, bloquant la bande passante et empêchant les utilisateurs légitimes d'effectuer des transactions.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-3
+Un hacker exploite une faille dans le système de tarification des frais de la blockchain et lance une attaque de déni de service. Le réseau est submergé de transactions sans valeur, bloquant la bande passante et laissant les utilisateurs légitimes impuissants face à la congestion.
+
+- title: Maître des calculs
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Des ordinateurs infectés se mettent à miner et à attaquer la blockchain Proof of Work, volant la puissance de calcul et perturbant tout le réseau. Ces machines sont comme des parasites crypto voraces !
+  description_en: |
+    Vol de capacité de calcul : Des ordinateurs infectés minent et attaquent la blockchain cible, Proof of Work, volant la puissance de calcul et perturbant le réseau.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-4
+Des ordinateurs infectés se mettent à miner et à attaquer la blockchain Proof of Work, volant la puissance de calcul et perturbant tout le réseau. Ces machines sont comme des parasites crypto voraces.
+
+- title: Verrouilleur de vers
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Un virus sournois qui crypte les portefeuilles infecte la blockchain. Le hacker exige une rançon pour débloquer les fonds, causant d'énormes pertes financières et révélant les failles de sécurité dans l'écosystème crypto. C'est un cauchemar crypto-viral !
+  description_en: |
+    Propagation de virus : Un virus cryptant les portefeuilles infecte la blockchain cible. Le hacker exige une rançon pour débloquer l'accès aux fonds. Cela provoque des pertes financières majeures, soulignant des vulnérabilités de sécurité dans l'écosystème de la blockchain.
+  tags: 'Cible: -1 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-6
+Un virus sournois qui crypte les portefeuilles infecte la blockchain. Le hacker exige une rançon pour débloquer les fonds, causant d'énormes pertes financières et révélant les failles de sécurité dans l'écosystème crypto.
+
+- title: Tempête de transactions
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Attaque par DoS : Une tempête de transactions malveillantes paralyse le réseau de la blockchain, provoquant une congestion majeure, des difficultés pour les utilisateurs légitimes, une baisse de productivité et une confiance sérieusement ébranlée. C'est comme un embouteillage monstre sur une autoroute déjà surchargée !
+  description_en: |
+    Attaque par DoS : Une tempête de transactions malveillantes paralyse le réseau de la blockchain cible, provoquant une congestion majeure, des difficultés pour les utilisateurs légitimes, une baisse de productivité et une confiance affectée.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-5
+Une tempête de transactions malveillantes paralyse le réseau de la blockchain, provoquant une congestion majeure, des difficultés pour les utilisateurs légitimes, une baisse de productivité et une confiance sérieusement ébranlée.
+
+- title: Avalanche des Blocs Vides
+  icon: data/icons/frein.svg
+  theme: Attaque
+  description_fr: |
+    Une attaque de déni de service sur la blockchain Proof of Work provoque une avalanche de blocs vides, surchargeant les noeuds et entravant les transactions légitimes. Les mineurs en ont marre de creuser des blocs vides et tout le monde se demande : où sont passés les vrais blocs ?
+  description_en: |
+    Avalanche de blocs vides : Une attaque DoS sur la blockchain cible, Proof of Work, provoque la multiplication de blocs vides, surchargeant les noeuds et entravant les transactions légitimes. Les coûts de minage augmentent et la capacité réseau est réduite.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-3
+Une attaque de déni de service sur la blockchain Proof of Work provoque une avalanche de blocs vides, surchargeant les nœuds et entravant les transactions légitimes. Les mineurs se retrouvent frustrés et tout le monde s'interroge sur la disparition des vrais blocs.

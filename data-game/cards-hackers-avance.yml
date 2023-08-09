@@ -1,0 +1,128 @@
+- title: Réentrance Malicieuse
+  description: |
+    Un hacker mène une attaque par réentrance pour exploiter un contrat intelligent, permettant de détourner des fonds. Cette attaque peut causer des pertes financières, mais son impact est limité.
+  level: Avancé
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -5'
+  cryptoworld_score: -2
+  explanations: |
+    Attaque par réentrance
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Violation du Contrôle d'Accès
+  description: |
+    Un hacker mène une attaque par violation du contrôle d'accès permettant d'obtenir un accès non autorisé. Cette attaque peut compromettre la confidentialité des données, mais les pertes financières sont généralement limitées.
+  level: Avancé
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -4'
+  cryptoworld_score: -2
+  explanations: |
+    Attaque du contrôle d'accès
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Défi de Gouvernance
+  description: |
+    Un hacker mène une attaque sur le contrôle et la gouvernance dans un protocole DeFi (Finance décentralisée), permettant de modifier les paramètres du protocole et de détourner des fonds des utilisateurs. Cette attaque peut remettre en question la confiance dans le protocole, mais les pertes financières peuvent être mitigées.
+  level: Avancé
+  video: '',
+  quest: '172650 157893',
+  cryptoclash_score: 'Vous: +3 / Cible: -5'
+  cryptoworld_score: -2
+  explanations: |
+    Attaque sur le contrôle et la gouvernance
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Market Manipulator
+  description: |
+    Un hacker mène une attaque pour manipuler les prix des crypto-monnaies, causant des pertes financières et sapant la confiance dans la blockchain. Cette attaque peut causer des pertes financières, mais son impact sur l'ensemble de l'écosystème est limité.
+  level: Avancé
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -4'
+  cryptoworld_score: -2
+  explanations: |
+    Attaque par manipulation des prix
+  character: Le Hacker
+  image: ../data/images/hackers.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Randomness Fragile
+  description: |
+    Un hacker exploite une faiblesse de la génération aléatoire dans la blockchain, compromettant l'impartialité et la sécurité de la blockchain. Cette attaque peut avoir un impact limité sur la blockchain.
+  level: Avancé
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -3 / Cible: -5'
+  cryptoworld_score: -2
+  explanations: |
+    Attaque par Weak randomness
+  character: Le Hacker
+  image: ../data/images/attaque-par-weak-randomness.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Manipulation Temporelle
+  description: |
+    Un hacker exploite la dépendance aux horodatages dans la blockchain ouvrant la voie à des attaques de doubles dépenses ou d'autres types d'attaques. Cette attaque peut causer des perturbations, mais peut être détectée et atténuée.
+  level: Avancé
+  video: '',
+  quest: '169006',
+  cryptoclash_score: 'Vous: -2 / Cible: -4'
+  cryptoworld_score: -2
+  explanations: |
+    Attaque par dépendance Timestamp
+    Horodatage
+  character: Le Hacker
+  image: ../data/images/attaque-par-dependance-timestamp.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Fissure arithmétique
+  description: |
+    Un hacker exploite une vulnérabilité arithmétique pouvant entraîner des erreurs de montants, des doubles dépenses et des perturbations du consensus. Cette attaque peut causer des perturbations, mais son impact est généralement limité.
+  level: Avancé
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -1 / Cible: -3'
+  cryptoworld_score: -2
+  explanations: |
+    Vulnérabilités arithmétiques
+  character: Le Hacker
+  image: ../data/images/vulnerabilites-arithmetiques.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité
+
+- title: Maître de l'éclipse
+  description: |
+    Un hacker lance une attaque d'éclipse sur la blockchain, plongeant le réseau dans les ténèbres et permettant de manipuler ou bloquer à volonté les transactions des utilisateurs. Cette attaque peut perturber le réseau, mais peut être atténuée avec des contre-mesures appropriées.
+  level: Avancé
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: -2 / Cible: -2'
+  cryptoworld_score: -2
+  explanations: |
+    Attaque d'éclipse/de routage
+  character: Le Hacker
+  image: ../data/images/attaque-d-eclipse-de-routage.png
+  cardcolor: hackers_color
+  textcolor: white
+  theme: Sécurité

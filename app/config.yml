@@ -1,0 +1,37 @@
+
+#dpi: 300
+antialias: best
+backend: svg
+warn_ellipsize: false
+
+# Text hints are used to show the boundaries of text boxes.
+# Can be enabled/disabled at the command-level, or set globally with `set`
+#text_hint: '#F00'
+
+# Show progress bars on the command line for potentially long-running operations
+#progress_bars: true
+
+#Enable some custom colors that can be used in any color
+#custom_colors:
+#  foo: '#abc'
+
+custom_colors:
+  orange_color: '#FF8000'
+  green_color: '#00FF80'
+  blue_color: '#00d0ff'
+
+  light_text: '#FFFFFF'
+  dark_text: '#000000'
+
+  traders_color: '#FFA500'
+  market_makers_color: '#006400'
+  hackers_color: '#800080'
+  cryptobuzz_color: '#FF0000'
+  developeurs: '#0000FF'
+  projets_color: '#FFD700'
+  partenaires_color: '#FFC0CB'
+  regulateurs_color: '#808080'
+  consommateurs_color: '#008000'
+
+warn_ellipsize: true
+warn_png_scale: true

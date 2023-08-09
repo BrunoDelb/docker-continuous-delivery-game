@@ -1,0 +1,47 @@
+- title: Faille Fatale
+  description: |
+    Votre contrat intelligent fait face à un bug épique, mettant l'équipe de devs dans une course folle pour déployer une mise à jour salvatrice et éteindre l'incendie de la vulnérabilité.
+  level: Tous niveaux
+  video: '',
+  quest: '168559',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: -2
+  explanations: |
+    Contrat intelligent
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Loterie Loufoque
+  description: |
+    Votre blockchain se retrouve avec un sortilège de génération aléatoire perturbant les transactions. Une mise à jour magique du protocole s'impose et une migration héroïque assure la sécurité des données.
+  level: Avancé
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: -2
+  explanations:
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Bug Loufoque
+  description: |
+    La chasse aux billets est ouverte ! Un bug diabolique frappe votre blockchain, provoquant une inflation incontrôlée. Les devs déployent un correctif redoutable qui stoppe cette folie monétaire et ramène l'équilibre dans l'univers crypto.
+  level: Moyen
+  video: '',
+  quest: '108375',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: -2
+  explanations: |
+    Tokeneconomie
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+

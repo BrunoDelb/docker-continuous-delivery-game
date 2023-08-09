@@ -1,0 +1,276 @@
+- title: La Ruée DeFi
+  theme: Trading
+  description_fr: |
+    DeFi Fever : La folie autour des protocoles DeFi sur la blockchain cible provoque une frénésie congestionnante ! Les confirmations prennent leur temps et les frais de transaction s'envolent pour les utilisateurs. Mais pas de panique, vous êtes un véritable maître de l'arbitrage ! En surfant sur ces fluctuations, vous transformez ces défis en opportunités lucratives. Alors, soyez rapide, soyez astucieux, et saisissez ces occasions pour faire danser les profits !
+  description_en: |
+    DeFi rush : La popularité des protocoles DeFi sur la blockchain cible crée une congestion majeure. Délais de confirmation rallongés et frais de transaction élevés pour les utilisateurs.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
++15
+La carte "DeFi Fever" rapporte 15 points au joueur. En tant que maître de l'arbitrage, le joueur peut exploiter la frénésie congestionnante des protocoles DeFi pour transformer les défis en opportunités lucratives, ce qui lui permet d'accumuler des points et de faire danser les profits dans le jeu.
+
+- title: La Fièvre des Frais
+  icon: data/icons/frein.svg
+  theme: Trading
+  description_fr: |
+    La course aux frais élevés : Vous êtes un maître de l'optimisation des coûts ! Vous pouvez repérer les différences de frais entre les utilisateurs de la blockchain. Si une blockchain présente des frais élevés, vous vous orientez vers d'autres options offrant des frais plus avantageux. Ainsi, vous économisez sur les transactions et évitez les retards. Soyez rapide et astucieux pour saisir ces opportunités lucratives d'optimisation des coûts !
+  description_en: |
+    Course aux frais élevés : Les utilisateurs de la blockchain cible payant moins attendent plus longtemps, entraînant des retards. Améliorer l'évolutivité des blockchains est essentiel.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+Selon le contexte et les règles spécifiques du jeu, le nombre de points attribués à la carte "La course aux frais élevés" peut varier. Cependant, pour un exemple, supposons que la carte rapporte 10 points au joueur. Chaque fois que le joueur réussit à repérer une blockchain avec des frais élevés et à migrer vers une autre option offrant des frais plus avantageux, il gagne 10 points. Cette capacité à optimiser les coûts lui permet de réaliser des économies et d'améliorer son score total.
+
+- title: La NFTmania
+  icon: data/icons/frein.svg
+  theme: Trading
+  description_fr: |
+    Le réseau blockchain est encombré par la frénésie des NFTs DigitalPaws, entraînant des retards et des frais élevés. Soyez patient et agile pour saisir les opportunités dans cette effervescence, tel un maître de l'arbitrage entre plateformes d'échange.
+  description_en: |
+    Frénésie des NFTs DigitalPaws : Suite à la frénésie des NFTs DigitalPaws, le réseau de la blockchain cible est congesté. Des retards et des frais élevés sont constatés. Les joueurs ont dû faire preuve de patience face à l'engouement pour les "Paws" numériques.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++3
+La carte "La Frénésie des NFTs DigitalPaws" rapporte 3 points au trader. Cette situation d'encombrement du réseau blockchain peut être un défi pour les transactions, entraînant des retards et des frais élevés. Cependant, en étant patient et agile, le trader peut saisir les opportunités d'arbitrage entre les différentes plateformes d'échange, maximisant ainsi ses gains dans cette effervescence crypto-féline.
+
+- title: Explosion de la Toupie
+  icon: data/icons/frein.svg
+  theme: Trading
+  description_fr: |
+    Les prix montent en flèche (bulle spéculative), créant une congestion hilarante sur le réseau. Attendez-vous à des frais de transaction qui défient la gravité et des délais de confirmation plus longs que le discours d'un politicien.
+  description_en: |
+    Bulle spéculative : La hausse des prix congestionne le réseau, générant des frais élevés et des délais de confirmation plus longs.
+  tags: 'Cible: -2 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++2
+La carte "Folie des Prix" vous rapporte 2 points. Elle symbolise une situation où les prix des crypto-monnaies grimpent en flèche, créant une congestion hilarante sur le réseau. Vous serez confronté à des frais de transaction qui défient la gravité et à des délais de confirmation plus longs que le discours d'un politicien. Cette situation chaotique peut être à la fois amusante et frustrante, mais gardez votre sens de l'humour et préparez-vous à affronter les défis du marché !
+
+- title: Le Tour de Passe-Pump
+  icon: data/icons/frein.svg
+  theme: Trading
+  description_fr: |
+    Des traders malicieux s'amusent à gonfler artificiellement le prix d'un token (Pump and Dump), comme un ballon de baudruche sur le point d'éclater. Attention à ne pas être pris dans cette montagne russe émotionnelle !
+  description_en: |
+    Pump and Dump : Un groupe de traders malveillants utilise "Pump and Dump" pour augmenter artificiellement le prix du token de la blockchain cible.
+  tags: 'Cible: -3 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+0
+La carte "Montagnes Russes Émotionnelles" rapporte 0 points, car elle met en garde contre une pratique frauduleuse et dangereuse dans le trading des crypto-monnaies. Son objectif est d'informer les joueurs des risques du "Pump and Dump" plutôt que de leur accorder des points.
+
+- title: Le Bain de Ventes
+  icon: data/icons/frein.svg
+  theme: Trading
+  description_fr: |
+    Des acteurs sournois font des vagues en effectuant des transactions fictives à grande échelle sur un token (Wash Trading). Le résultat ? Une illusion d'activité frénétique et de liquidité abondante. Mais ne vous laissez pas noyer par cette supercherie !
+  description_en: |
+    Wash Trading : Des transactions fictives massives sont effectuées sur un le token de la blockchain cible par des acteurs malveillants via le Wash Trading. Cela crée l'illusion d'une activité commerciale intense et d'une liquidité élevée.
+  tags: 'Cible: -3 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-3
+La carte "Illusion de Liquidité" rapporte -3 points. Elle représente les acteurs sournois qui créent une illusion d'activité en effectuant des transactions fictives à grande échelle (Wash Trading) sur un token. Cependant, ne vous laissez pas tromper par cette supercherie, car derrière cette frénésie se cache une réalité décevante.
+
+- title: Le Grand Débarras
+  icon: data/icons/frein.svg
+  theme: Trading
+  description_fr: |
+    L'équipe derrière un token décide de faire du ménage en vendant en masse les jetons qu'elle a collectés (Token Dump). Résultat ? Une plongée vertigineuse du prix qui peut vous laisser le souffle coupé.
+  description_en: |
+    Token Dump : L'équipe de la blockchain cible manipule les prix en vendant massivement les jetons après avoir collecté des fonds, entraînant une baisse significative.
+  tags: 'Cible: -3 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
+-10
+La carte "Chute Libre" rapporte -10 points. La vente massive de jetons par l'équipe provoque une baisse drastique des prix, vous laissant le cœur dans les chaussettes et votre portefeuille en apnée. Restez vigilant et évitez les projets où l'équipe est plus intéressée par la fuite que par le succès !
+
+- title: Le Coup de Vitesse
+  icon: data/icons/frein.svg
+  theme: Trading
+  description_fr: |
+    Un escroc rusé profite d'informations privilégiées sur les transactions pour manipuler le prix d'un token (Front Running). Il achète avant tout le monde, poussant le prix vers les sommets, puis vend pour faire un joli profit. Attention, il pourrait vous prendre de vitesse !
+  description_en: |
+    Front Running : Un acteur malveillant utilise des informations privilégiées sur les transactions pour manipuler le prix du token de la blockchain cible. Il achète avant une transaction majeure, faisant monter le prix, puis vend à profit, nuisant aux autres utilisateurs.
+  tags: 'Cible: -3 / Vous: 0'
+  cardcolor: green_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+La carte "Maître de l'Opportunisme" rapporte 10 points au joueur qui l'utilise avec succès. Cependant, si le joueur se fait prendre de vitesse par l'escroc rusé et subit des pertes, il perd 5 points. C'est un jeu risqué, mais si vous parvenez à déjouer l'escroc et à profiter de ses propres tactiques, vous pourrez accumuler de précieux points et prendre votre revanche !
+
+- title: La Super Promo de la Blockchain
+  icon: data/icons/adoption.svg
+  theme: Trading
+  description_fr: |
+    La Super Promo de la Blockchain : L'Optimiseur de Frais débarque avec fracas sur votre blockchain, vous offrant une réduction de 30% sur les frais de transaction. C'est le moment de faire du shopping sur la blockchain !
+  description_en: |
+    Annonce d'une mise à jour majeure : L'Optimiseur de Frais réduit fortement les frais de transaction sur votre blockchain, offrant aux utilisateurs une réduction de 30% sur les opérations effectuées.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+La carte "La Super Promo de la Blockchain" rapporte 10 points au joueur. Cette réduction de 30% sur les frais de transaction permet au joueur de réaliser des économies substantielles lors de ses transactions, augmentant ainsi son score dans le jeu.
+
+- title: L'Happy Hour des Frais
+  icon: data/icons/adoption.svg
+  theme: Trading
+  description_fr: |
+    L'Happy Hour des Frais : Profitez d'une réduction de 15% sur les frais de transaction pendant une semaine entière. C'est comme si la blockchain vous faisait un clin d'œil complice !
+  description_en: |
+    Frais privilégiés : La carte "Frais Privilégiés" offre 15% de réduction sur les frais de transaction sur votre blockchain pendant une semaine.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++5
+La carte "L'Happy Hour des Frais" rapporte 5 points au joueur. En bénéficiant d'une réduction de 15% sur les frais de transaction pendant une semaine entière, le joueur peut économiser des fonds précieux et maximiser ses profits. C'est une opportunité qui ajoute un petit avantage stratégique au joueur et lui permet de prendre des décisions de trading plus avantageuses pendant cette période.
+
+- title: La Brigade L2
+  icon: data/icons/adoption.svg
+  theme: Trading
+  description_fr: |
+    Déployez votre solution de mise à l'échelle de couche 2 sur votre blockchain. Les frais sont réduits, les transactions sont rapides et économiques. C'est comme si votre blockchain se mettait au fitness !
+  description_en: |
+    Echelon secondaire : Solution de mise à l'échelle de couche 2 déployée sur votre blockchain. Les frais sont réduits. Les transactions sont rapides et économiques.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+La carte "Blockchain en Mode Fitness" rapporte 10 points. En déployant votre solution de mise à l'échelle de couche 2, vous améliorez la performance de votre blockchain. Les frais de transaction sont réduits, les transactions sont rapides et économiques, ce qui donne à votre blockchain une allure svelte et en pleine forme ! Vous êtes en voie de devenir le coach des blockchains !
+
+- title: Le Booster Plasma
+  icon: data/icons/adoption.svg
+  theme: Trading
+  description_fr: |
+    Connectez votre blockchain à une chaîne secondaire, comme deux super-héros unissant leurs forces. Résultat ? Des transactions turbo-chargées et une longueur d'avance sur les autres blockchains.
+  description_en: |
+    Plasma boost : Boost Plasma permet de relier votre blockchain à une chaîne secondaire (dite couche L2) pour des transactions rapides et évolutives. Cela donne un avantage sur les autres blockchains.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++10
+La carte "La Fusion Héroïque" rapporte 10 points au joueur. Elle permet de connecter sa blockchain à une chaîne secondaire, créant ainsi une alliance puissante comme deux super-héros unissant leurs forces. Grâce à cette fusion, les transactions deviennent turbo-chargées, offrant au joueur une longueur d'avance sur les autres blockchains et augmentant ses chances de succès dans le jeu.
+
+- title: SegWit Turbo
+  icon: data/icons/adoption.svg
+  theme: Trading
+  description_fr: |
+    Ajoutez une touche de finesse à votre blockchain avec SegWit (Mise à jour du protocole SegWit). Les transactions deviennent plus rapides et plus fluides, comme une danse bien orchestrée. Les frais sont divisés par deux, vous permettant de garder plus de monnaie dans votre poche.
+  description_en: |
+    Mise à jour du protocole SegWit : SegWit est ajouté à votre blockchain. Il permet d'améliorer les transactions, réduisant de moitié le temps de confirmation.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++5
+La carte "SegWit Sensationnel" rapporte 5 points. Cette mise à jour du protocole SegWit ajoute une touche de finesse à votre blockchain, offrant des transactions plus rapides et fluides, telles une danse bien orchestrée. De plus, les frais sont divisés par deux, vous permettant de garder plus de monnaie dans votre poche. Avec SegWit, vous êtes prêt à danser sur les flots de la blockchain avec style et économie !
+
+- title: L'Explosion d'ICOs
+  icon: data/icons/adoption.svg
+  theme: Trading
+  description_fr: |
+    Organisez une ICO avec un succès fracassant, récoltant des millions de dollars en quelques minutes. Vous aurez plus de fonds que Scrooge McDuck dans sa piscine de pièces d'or !
+  description_en: |
+    Lancement d'une ICO réussie : Une ICO (Initial Coin Offering) est lancée pour votre blockchain avec un succès retentissant, collectant des millions de dollars en quelques minutes. Cela permet d'augmenter les fonds des utilisateurs.
+  tags: 'Cible: 0 / Vous: +1'
+  cardcolor: orange_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++50
+La carte "ICO Spectaculaire" rapporte un énorme gain de 50 points ! Votre capacité à organiser une ICO à succès et à récolter des millions de dollars en un temps record est vraiment impressionnante. Vous êtes inondé de richesse comme Scrooge McDuck dans sa piscine de pièces d'or. Félicitations, cher(e) trader, votre score atteint des sommets stratosphériques !
+
+- title: Le Gang des Signatures
+  icon: data/icons/special.svg
+  theme: Spécial
+  description_fr: |
+    Renforcez la sécurité de votre blockchain avec des portefeuilles multi-signatures. Exigez l'approbation de plusieurs parties pour effectuer une transaction, comme un gang d'amis veillant sur votre argent. C'est la garde rapprochée de la blockchain !
+  description_en: |
+    Portefeuille multi-signature : Les portefeuilles multi-signatures sont mis en place sur votre blockchain. Ils renforcent la sécurité en exigeant l'approbation de plusieurs parties pour la transaction. Ils permettent de protéger les fonds des utilisateurs et d'éviter les risques de vol ou de fraude.
+  tags: 'Cible: 0 / Vous: +2'
+  cardcolor: blue_color
+  textcolor: black
+  iconcolor: black
+  cardPos: cardA
++5
+La carte "Gang des Clés" vous rapporte 5 points. En renforçant la sécurité de votre blockchain avec des portefeuilles multi-signatures, vous créez une véritable garde rapprochée ! Chaque transaction nécessite l'approbation de plusieurs parties, comme un gang d'amis qui veillent sur votre argent. Avec cette défense de haut niveau, vos fonds sont protégés des attaques et des regards indiscrets.
+
+Le Sherlock des Crypto : Plongez dans les profondeurs des cryptos et enquêtez sur les équipes de développement, les technologies révolutionnaires, les partenariats de renom et l'adoption grandissante. Votre mission : dénicher la pépite cachée parmi les joyaux numériques. Utilisez ces informations précieuses pour saisir les opportunités, prendre des décisions éclairées et accumuler des fortunes virtuelles. Que votre flair soit aiguisé, cher Trader !
++20
+La carte "Le Sherlock des Crypto" rapporte 20 points au score du joueur. Elle récompense sa capacité à mener des enquêtes approfondies sur les cryptos, en analysant les équipes de développement, les technologies, les partenariats et l'adoption. En utilisant ces informations pour prendre des décisions éclairées, le joueur peut accumuler des fortunes virtuelles et augmenter son score.
+
+Le Gourou des Graphiques : Vous êtes un expert de l'analyse technique ! Utilisez des graphiques, des indicateurs et des tendances pour repérer les meilleures opportunités d'achat et de vente. Suivez les signaux de surachat et de survente, les croisements de moyennes mobiles, et bien plus encore. Faites preuve de perspicacité et de flair pour réaliser des transactions gagnantes sur le marché. Bonne chance, Maître Trader !
++10
+La carte "Le Gourou des Graphiques" rapporte 10 points au score du joueur. Elle lui permet de bénéficier d'une expertise en analyse technique, lui permettant de repérer les meilleures opportunités d'achat et de vente sur le marché en utilisant des graphiques, des indicateurs et des tendances. En suivant les signaux de surachat, de survente, les croisements de moyennes mobiles et d'autres indicateurs, le joueur est capable de prendre des décisions éclairées et de réaliser des transactions gagnantes, ce qui contribue à l'accumulation de points et à l'amélioration de son score global.
+
+La Chasse aux Prix : Vous êtes un maître de l'arbitrage ! Vous pouvez repérer les différences de prix entre les plateformes d'échange. Si une crypto-monnaie est moins chère sur une plateforme, vous l'achetez là-bas, puis la vendez sur une autre où le prix est plus élevé. Voilà comment vous faites tourner les bénéfices ! Soyez rapide et astucieux pour saisir ces opportunités lucratives !
++10
+La carte "La Chasse aux Prix" peut rapporter 10 points au score du joueur. Cette capacité permet au joueur de repérer les différences de prix entre les plateformes d'échange, d'acheter une crypto-monnaie moins chère sur une plateforme donnée, puis de la vendre sur une autre plateforme où le prix est plus élevé. En exploitant ces opportunités d'arbitrage, le joueur peut générer des bénéfices et augmenter son score. Plus le joueur est rapide et astucieux dans l'exécution de ces transactions lucratives, plus il peut accumuler de points.
+
+Le maître du Spectacle : Diversifiez votre portefeuille en investissant dans un grand nombre de crypto-monnaies en même temps. En jonglant avec ces actifs, vous pouvez réduire les risques et attirer les applaudissements du public en profitant des performances variées du marché. Que le show commence !
++5
+La carte "Le Maître du Spectacle" rapporte 5 points. En diversifiant votre portefeuille et en jonglant avec plusieurs crypto-monnaies, vous réduisez les risques et bénéficiez des performances variées du marché. Votre capacité à attirer les applaudissements du public et à créer un spectacle impressionnant vous permet de marquer des points supplémentaires dans le jeu. Que le show commence et que les gains virtuels pleuvent !
+
+Le Ninja des Stop-Loss : Vous êtes un ninja de la gestion des risques ! Etablissez des ordres stop-loss pour protéger vos précieux investissements. Si le prix d'une crypto-monnaie plonge, vous serez prêt à l'action. Vendez automatiquement pour limiter les pertes et préserver votre portefeuille. Soyez un maître des stratégies défensives et gardez une longueur d'avance sur le marché !
++10
+La carte "Le Ninja des Stop-Loss" rapporte 10 points. Elle récompense les joueurs qui sont capables de mettre en place des ordres stop-loss pour protéger leurs investissements. Lorsque le prix d'une crypto-monnaie chute et atteint le niveau du stop-loss, le joueur vend automatiquement pour limiter les pertes. Cette stratégie défensive permet de préserver le portefeuille et de garder une longueur d'avance sur le marché.
+
+Le Maître du Risque : Prenez les décisions audacieuses pour gérer les risques de vos transactions. Fixez des niveaux de stop-loss judicieux, analysez les risques avec finesse et diversifiez votre portefeuille pour maximiser votre succès. Soyez astucieux et stratégique, et remportez la bataille du trading !
++10
+Félicitations, cher Trader ! Votre maîtrise émotionnelle vous rapporte une récompense spéciale de +10 points de sagesse en trading. Vous évitez les pièges de la peur et de l'avidité, et dansez gracieusement avec vos émotions. Vos décisions de trading sont éclairées et lucratives, et vous avez tout le flair pour accumuler des fortunes virtuelles. Continuez à danser sur le marché et récoltez les bénéfices !
+
+Danse avec les Emotions : Vous êtes le maître de vos émotions en tant que trader ! Prenez des décisions éclairées en évitant les pièges de la peur et de l'avidité. Fermez vos positions avec confiance et sans précipitation, en dansant gracieusement avec vos émotions. La maîtrise émotionnelle est la clé pour des décisions de trading intelligentes et lucratives.
++5
+La carte "Danse avec les Emotions" rapporte 5 points au score du trader. Elle encourage la maîtrise émotionnelle et la prise de décisions rationnelles, ce qui est essentiel pour des transactions intelligentes et rentables. En évitant les pièges de la peur et de l'avidité, le trader peut fermer ses positions avec confiance et sans précipitation, ce qui contribue à augmenter son score. La capacité à danser gracieusement avec ses émotions permet d'éviter les décisions impulsives et de maintenir une approche stratégique du trading, ce qui se traduit par des performances plus solides et des gains plus importants.
+
+L'Oeil Aiguisé des Cryptos : Vous êtes un trader de blockchain plein de flair ! En suivant les actualités et les événements, vous gardez une longueur d'avance. Annonces de partenariats ? Mises à jour technologiques ? Réglementations ? Rien ne vous échappe ! Grâce à votre intuition, vous prenez des décisions éclairées et en récoltez les fruits. Soyez prêt à saisir les opportunités et à dominer le marché des cryptos !
++10
+La carte "L'Oeil Aiguisé des Cryptos" rapporte 10 points. Elle récompense la capacité du joueur à rester informé sur les actualités et les événements liés à la blockchain, à repérer les annonces de partenariats, les mises à jour technologiques et les réglementations. En gardant une longueur d'avance grâce à son intuition et à sa capacité à prendre des décisions éclairées, le joueur peut saisir les opportunités et obtenir des résultats fructueux sur le marché des cryptos.
+
+Chasseur de Tendances : Vous êtes un trader aguerri, capable de flairer les tendances les plus audacieuses. En suivant de près les mouvements du marché, vous pouvez détecter les nouvelles stars émergentes des crypto-monnaies. Ainsi, lorsque les NFT enflamment la scène, vous êtes prêt à bondir dessus tel un prédateur de profits, capitalisant sur la frénésie des collectionneurs et récoltant des gains galactiques !
++10
+La carte "Chasseur de Tendances" rapporte 10 points au score du joueur. Cette carte permet de mesurer la capacité du trader à identifier les tendances émergentes sur le marché des crypto-monnaies et à profiter des opportunités lucratives. Le joueur gagne des points en réalisant des transactions réussies sur des actifs en plein essor, comme les NFT, et en maximisant ses gains grâce à la frénésie des collectionneurs.
+
+Les Yeux Affûtés du Trader : Vous pouvez utiliser votre flair infaillible pour repérer les volumes d'échanges ! Surveillez attentivement les mouvements des différentes crypto-monnaies et détectez celles qui sont en plein essor. Exploitez les fluctuations des prix pour saisir les opportunités et maximiser vos bénéfices. Soyez le trader averti et anticipez les tendances pour devenir un maître de la spéculation !
++3
+La carte "Les Yeux Affûtés du Trader" rapporte 3 points. Elle récompense votre capacité à repérer les volumes d'échanges et à anticiper les tendances du marché. En surveillant attentivement les mouvements des crypto-monnaies et en exploitant les fluctuations des prix, vous maximisez vos bénéfices et devenez un maître de la spéculation. Vos compétences aiguisées vous permettent de prendre des décisions éclairées et de saisir les opportunités au bon moment.
+
+Margin Madness : Vous êtes un trader intrépide, prêt à prendre des risques ? Alors, découvrez le trading sur marge ! Profitez de l'effet de levier et décuplez vos gains (ou vos pertes !). Mais attention, une mauvaise décision pourrait vous faire perdre plus que ce que vous avez misé. Oserez-vous vous aventurer dans l'univers frénétique du trading sur marge ? À vous de jouer !
++10
+La carte "Margin Mania" rapporte 10 points, car elle récompense le courage et la volonté de prendre des risques dans le trading sur marge. Cependant, il y a également un risque élevé de pertes, ce qui ajoute une dimension d'incertitude et d'excitation au jeu.
+
+La Grande Evasion : Vous êtes un trader audacieux ! Vendez une crypto-monnaie pour décrocher le jackpot. Qu'il s'agisse de réaliser un profit, de flairer une tendance baissière ou de saisir les opportunités, vous tenez les rênes de votre succès. Faites attention aux obstacles tels que les actualités négatives et les réglementations pour naviguer vers des sommets financiers !
++20
+La carte "La Grande Evasion" rapporte 20 points au trader. Elle encourage les joueurs à prendre des risques et à vendre une crypto-monnaie pour réaliser des gains importants. Le joueur peut augmenter son score en réalisant des profits, en anticipant les tendances baissières et en saisissant les opportunités. Cependant, il doit également faire attention aux actualités négatives et aux réglementations, car celles-ci peuvent poser des obstacles à son succès financier.
+
+FOMO Master : Vous êtes pris dans le tourbillon du FOMO (Fear of Missing Out) ! Vous observez une crypto-monnaie dont le prix monte en flèche et tout le monde en parle. Vous décidez d'acheter impulsivement pour ne pas manquer l'action.
+-10
+La carte "FOMO Master" rapporte -10 points, car céder à la peur de rater une opportunité et acheter impulsivement peut entraîner des pertes financières si le prix de la crypto-monnaie chute après l'achat.
+
+Le DCA Ninja : Vous embrassez la stratégie du DCA (Dollar-Cost Averaging) avec une détermination inébranlable. Chaque semaine, vous investissez un montant fixe dans une crypto-monnaie, que les prix soient en hausse, en baisse ou en zigzag. Rien ne peut vous détourner de votre quête de l'accumulation régulière de crypto-monnaies.
++3
+La carte "Le DCA Ninja" rapporte 3 points car elle représente un trader qui utilise la stratégie du DCA (Dollar-Cost Averaging). Cette stratégie consiste à investir un montant fixe régulièrement dans une crypto-monnaie, peu importe si les prix sont en hausse, en baisse ou en zigzag. Le trader est déterminé et persévérant dans son approche, et son objectif est d'accumuler des crypto-monnaies de manière régulière. Cette carte récompense la discipline et la constance du trader, ce qui lui permet de marquer des points dans le jeu.

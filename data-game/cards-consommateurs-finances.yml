@@ -1,0 +1,290 @@
+- title: Fiat Fanatic
+  description: |
+    Vous échangez vos cryptos contre de l'argent fiduciaire pour effectuer vos achats en toute simplicité. Restez connecté au monde réel tout en embrassant les innovations de la blockchain ! Le Fiat (monnaie fiduciaire, comme les dollars, les euros, ...) souligne la flexibilité offerte par la possibilité d'échanger ses cryptos contre de l'argent réel pour effectuer des transactions courantes.
+  level: Tous niveaux
+  video: '',
+  quest: '147021',
+  cryptoclash_score: 'Vous: +2 / Cible: +1'
+  cryptoworld_score: +3
+  explanations: |
+    Fiat
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Maître du Prêt Décentralisé
+  description: |
+    Vous explorez les protocoles de prêt/d'emprunt décentralisés et devenez un prêteur ou un emprunteur. Vous prêtez vos tokens à d'autres utilisateurs pour gagner des intérêts ou empruntez des tokens en utilisant vos actifs comme garantie. Avec votre perspicacité financière, vous pourrez naviguer habilement dans le monde du prêt décentralisé et améliorer vos rendements.
+  level: Avancé
+  video: '',
+  quest: '172650 157893',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    DeFi
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Maître de l'échange sans frontières
+  description: |
+    Vous explorez des solutions d'échange décentralisé, devenant un expert du DEX. Vous repoussez les limites de l'échange traditionnel et ouvrez la voie à une nouvelle ère de liberté financière.
+  level: Moyen
+  video: '',
+  quest: '187076',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    DEX
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: L'As des Pools de Liquidités
+  description: |
+    Vous plongez dans les pools DeFi en y déposant vos actifs et en facilitant les échanges entre différentes crypto-monnaies. En récompense, vous récoltez des frais de transaction juteux et des tokens précieux. Vous jouez intelligemment avec les liquidités.
+  level: Tous niveaux
+  video: '',
+  quest: '111721 100146',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Pools de liquidité
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Tirez le meilleur parti des tokens
+  description: |
+    Vous investissez dans les tokens, que ce soit dans un nouveau projet prometteur ou en soutenant des tokens établis. Vous essayez de faire fructifier votre portefeuille.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations:
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Devenez un Maître de la Blockchain
+  description: |
+    Vous participez à des programmes de mining ou de staking de tokens et devenez un héros de la sécurité et de la validation du réseau. Vous mettez vos tokens à contribution et récoltez des récompenses tout en jouant un rôle clé dans l'évolution de la technologie blockchain.
+  level: Moyen
+  video: '',
+  quest: '101494',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Minage, validation
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: La danse du Yield
+  description: |
+    Vous participez à des activités de staking ou de yield farming et faite danser vos gains. En choisissant cette décision audacieuse, vous récoltez des récompenses supplémentaires telles que des intérêts et des tokens de gouvernance.
+  level: Avancé
+  video: '',
+  quest: '157893 156027',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    DeFi
+    Yield farming
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Timing Parfait
+  description: |
+    Vous vendez une crypto-monnaie juste avant une augmentation spectaculaire de prix.
+  level: Tous niveaux
+  video: '',
+  quest: '198001',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Volatilité
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Vitesse de l'Eclair
+  description: |
+    Vous utilisez une blockchain à faibles frais de transaction et effectuez des transactions rapides comme l'éclair.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -2'
+  cryptoworld_score: +3
+  explanations: |
+    Scalabilité
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Backup Champion
+  description: |
+    Vous avez sauvegardé vos clés privées de manière sécurisée, assurant ainsi la protection de vos actifs en cas de besoin. Soyez tranquille, vous êtes prêt à faire face à tous les défis et à garder le contrôle de vos cryptomonnaies.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -3'
+  cryptoworld_score: +3
+  explanations: |
+    Perte de clés privées
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Devenez un Maître de l'Adoption
+  description: |
+    Vous participez à des programmes d'incitation, d'airdrops et de parrainages pour obtenir des tokens gratuits et des récompenses époustouflantes. Vous propagez la révolution blockchain.
+  level: Tous niveaux
+  video: '',
+  quest: '138320 179323',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Incitation
+    Airdrop
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Sécurité Maximale
+  description: |
+    Vous renforcez la protection de vos précieux actifs. Avec des portefeuilles sûrs comme un coffre-fort, des mots de passe qui rendent les pirates verts de jalousie et une double vérification, vos fonds seront à l'abri des attaques.
+  level: Tous niveaux
+  video: '',
+  quest: '129082 100168',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Sécurité des portefeuilles
+    Portefeuille
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Coffre-Fort Virtuel
+  description: |
+    Vous utilisez un portefeuille matériel sécurisé et vos actifs sont en sécurité.
+  level: Moyen
+  video: '',
+  quest: '128522 100168',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations: |
+    Sécurité des portefeuilles
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Détective Anti-Arnaque
+  description: |
+    Vous avez mené une enquête approfondie et évité une escroquerie potentielle comme un ninja des cryptos.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +6 / Cible: -6'
+  cryptoworld_score: +3
+  explanations: |
+    Fraudes et escroqueries
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: La Résurrection Crypto
+  description: |
+    Vous avez pris des mesures de sécurité supplémentaires et pouvez récupérer vos actifs perdus comme un magicien des blockchains.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +3
+  explanations: |
+    Difficulté de récupération des actifs perdus
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Le Cirque des Centimes
+  description: |
+    Entrez dans le merveilleux monde du Cirque des Centimes ! Utilisez les micropaiements sur la blockchain pour participer à l'économie de partage.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -3'
+  cryptoworld_score: +3
+  explanations: |
+    Micropaiements et économie de partage
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Les Ailes du Héros
+  description: |
+    Enfilez votre cape et devenez le héros de ceux qui n'ont pas accès aux services bancaires traditionnels ! Vous pouvez aider les autres à atteindre de nouveaux sommets financiers.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +5 / Cible: -5'
+  cryptoworld_score: +3
+  explanations: |
+    Micropaiements et économie de partage
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+
+- title: Les Lunettes de Sherlock
+  description: |
+    Vous identifiez une tentative de manipulation et évitez les pertes grâce à votre flair pour les comportements douteux.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -2'
+  cryptoworld_score: +3
+  explanations: |
+    Manipulation du marché
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Finances
+

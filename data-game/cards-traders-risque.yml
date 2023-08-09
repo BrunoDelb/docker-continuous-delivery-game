@@ -1,0 +1,128 @@
+- title: Le Ninja des Stop-Loss
+  description: |
+    Vous êtes un ninja de la gestion des risques ! Vous établissez des ordres stop-loss pour protéger vos précieux investissements. Si le prix d'une crypto-monnaie plonge, vous serez prêt à l'action. Vous vendrez automatiquement pour limiter les pertes et préserver votre portefeuille. Soyez un maître des stratégies défensives et gardez une longueur d'avance sur le marché !
+  level: Moyen
+  video: '',
+  quest: '155937',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Ordre Stop-Loss
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: Danse avec les Emotions
+  description: |
+    Vous êtes le maître de vos émotions ! Vous prenez des décisions éclairées en évitant les pièges de la peur et de l'avidité. Vous fermez vos positions avec confiance et sans précipitation, en dansant gracieusement avec vos émotions. La maîtrise émotionnelle est la clé pour des décisions de trading intelligentes et lucratives.
+  level: Tous niveaux
+  video: '',
+  quest: '154849',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Gestion des émotions
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: Le DCA Ninja
+  description: |
+    Vous embrassez la stratégie du DCA (Dollar-Cost Averaging) avec une détermination inébranlable. Chaque semaine, vous investissez un montant fixe dans une crypto-monnaie, que les prix soient en hausse, en baisse ou en zigzag. Rien ne peut vous détourner de votre quête de l'accumulation régulière de crypto-monnaies.
+  level: Moyen
+  video: '',
+  quest: '159424',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+     DCA
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: Maîtrisez la stratégie d'allocation
+  description: |
+    Vous êtes un trader avisé. Vous prenez des décisions éclairées pour allouer vos ressources entre les différents projets de blockchain. Vous répartissez votre capital en fonction de la performance et du potentiel de croissance de chaque investissement. Vous choisissez judicieusement et optimisez votre portefeuille pour atteindre de nouveaux sommets dans l'univers passionnant de la blockchain.
+  level: Tous niveaux
+  video: '',
+  quest: '193245',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Gestion de portefeuille
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: Chasseurs de Baisses
+  description: |
+    Vous êtes un expert dans le trading court et rapide. On parle de short. Vous avez un flair infaillible pour repérer les actifs surévalués prêts à chuter. En prenant des positions courtes, vous tirez profit des baisses de prix. Encaissez les gains lorsque les marchés s'inversent !
+  level: Moyen
+  video: '',
+  quest: '153629',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Trade court
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: La Brigade L2
+  description: |
+    Une solution de mise à l'échelle de couche 2 sur déployée sur la blockchain. Les frais sont réduits, les transactions sont rapides et économiques. C'est comme si la blockchain se mettait au fitness !
+  level: Avancé
+  video: '',
+  quest: '112693 188226',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Solution de mise à l'échelle de couche 2 (L2)
+    Transaction
+  character: Le Trader
+  image: ../data/images/layer-2.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: Le Booster Plasma
+  description: |
+    La blockchain est connectée à une chaîne secondaire, comme deux super-héros unissant leurs forces. On parle de sidechain. Résultat ? Des transactions turbo-chargées et une longueur d'avance sur les autres blockchains.
+  level: Moyen
+  video: '',
+  quest: '182958',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Sidechain
+  character: Le Trader
+  image: ../data/images/chaine-secondaire.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques
+
+- title: SegWit Turbo
+  description: |
+    Une touche de finesse est ajoutée à la blockchain avec SegWit. Les transactions deviennent plus rapides et plus fluides, comme une danse bien orchestrée. Les frais sont divisés par deux, vous permettant de garder plus de monnaie dans votre poche.
+  level: Avancé
+  video: '',
+  quest: '153408',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    SegWit
+  character: Le Trader
+  image: ../data/images/segwit.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Gestion des risques

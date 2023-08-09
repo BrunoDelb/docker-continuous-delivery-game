@@ -1,0 +1,152 @@
+- title: Gardien des Vérifications
+  description: |
+    Votre code est scruté par des ninjas experts en sécurité qui traquent les failles avec une précision chirurgicale, vous offrant une tranquillité d'esprit blindée et éliminant les risques d'attaques sournoises.
+  battle_score: 'Cible: 0 / Vous: +1'
+  role_score: '+15'
+  explanations: |
+    Audit de sécurité des contrats intelligents
+    Contrat intelligent
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Faille Fatale
+  description: |
+    Votre contrat intelligent fait face à un bug épique, mettant l'équipe de devs dans une course folle pour déployer une mise à jour salvatrice et éteindre l'incendie de la vulnérabilité.
+  battle_score: 'Cible: 0 / Vous: +2'
+  role_score: '+5'
+  explanations: |
+    Contrat intelligent
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Loterie Loufoque
+  description: |
+    Votre blockchain se retrouve avec un sortilège de génération aléatoire perturbant les transactions. Une mise à jour magique du protocole s'impose et une migration héroïque assure la sécurité des données.
+  battle_score: 'Cible: 0 / Vous: +2'
+  role_score: '+10'
+  explanations: |
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Bug Loufoque
+  description: |
+    La chasse aux billets est ouverte ! Un bug diabolique frappe votre blockchain, provoquant une inflation incontrôlée. Les devs déployent un correctif redoutable qui stoppe cette folie monétaire et ramène l'équilibre dans l'univers crypto.
+  battle_score: 'Cible: 0 / Vous: +2'
+  role_score: '+8'
+  explanations: |
+    Tokeneconomie
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Code Magicien des Contrats Intelligents
+  description: |
+    Vous créez des contrats intelligents impressionnants. Vous faites apparaître des programmes autonomes qui rendent la blockchain magique. Vous êtes le maître des transactions transparentes et des exécutions sans accroc. Votre code ingénieux fait briller l'innovation blockchain.
+  battle_score: 'Cible:  / Vous: '
+  role_score: '+8'
+  explanations: |
+    Contrat intelligent
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Génie de la documentation
+  description: |
+    Vous créez des guides détaillés et fournissez un support hors pair pour la blockchain. Vous résolvez les problèmes des développeurs utilisant votre blockchain comme par magie et votre réputation atteint des sommets stellaires. Les utilisateurs vous acclament comme le héros des développeurs.
+  battle_score: 'Cible:  / Vous: '
+  role_score: '+6'
+  explanations:
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Dans la peau d'un Super Dev
+  description: |
+    Vous assistez aux conférences les plus branchées, défiez les hackers les plus redoutables lors de hackathons légendaires et dévorez les blogs et les publications spécialisées pour nourrir votre esprit de génie.
+  battle_score: 'Cible:  / Vous: '
+  role_score: '+7'
+  explanations:
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Le Savant des Lignes de Code
+  description: |
+    Vous pouvez booster la puissance de la blockchain en intégrant des fonctionnalités époustouflantes. Vous programmez des contrats intelligents magiques, donnez vie aux NFT enchanteurs et invoquez les oracles pour accéder à des connaissances mystiques.
+  battle_score: 'Cible:  / Vous: '
+  role_score: '+9'
+  explanations:
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: L'Ingénieur Interopérable
+  description: |
+    Vous prenez la décision d'intégrer l'interopérabilité sur la blockchain. En connectant différentes blockchains, vous ouvrez les portes de la collaboration et de l'échange de données entre les mondes numériques. Vous créez des passerelles vers l'avenir de la décentralisation.
+  battle_score: 'Cible:  / Vous: '
+  role_score: '+8'
+  explanations: |
+    Interopérabilité
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Le Gardien des Contrats Intelligents
+  description: |
+    Vous prenez des décisions cruciales pour assurer la solidité de vos contrats intelligents, en menant des audits minutieux, en choisissant des bibliothèques de sécurité dignes de confiance et en suivant les meilleures pratiques de développement sécurisé.
+  battle_score: 'Cible:  / Vous: '
+  role_score: '+9'
+  explanations: |
+    Sécurité des contrats intelligents
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Hackeur bienveillant
+  description: |
+    Vous organisez des programmes de Bug Bounty pour attirer d'autres génies du code. Ensemble, traquez les vulnérabilités dans les blockchains et soyez généreusement récompensés pour chaque bug critique découvert. La sécurité des blockchains n'aura plus de secrets pour vous !
+  battle_score: 'Cible:  / Vous: '
+  role_score: '+6'
+  explanations: |
+    Bug Bounty
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Le Maître de l'Evolutivité
+  description: |
+    Vous mettez en place des mécanismes d'évolutivité et d'extensibilité sur la blockchain. Ainsi, elle pourra s'adapter aux besoins changeants.
+  battle_score: 'Cible:  / Vous: '
+  role_score: '+8'
+  explanations: |
+    Contrat intelligent Upgradable
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white
+
+- title: Maîtrise du Stockage Décentralisé
+  description: |
+    Vous stockez et récupérez des données d'un stockage décentralisé grâce à l'IPFS, sans dépendre de serveurs centralisés.
+  battle_score: 'Cible:  / Vous: '
+  role_score: '+7'
+  explanations: |
+    IPFS
+  theme: Développeur
+  image: ../data/images/developpeurs.png
+  cardcolor: developpeurs_color
+  textcolor: white

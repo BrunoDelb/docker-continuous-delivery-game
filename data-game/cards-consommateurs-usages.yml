@@ -1,0 +1,356 @@
+- title: Tourbillon d'Anonymat
+  description: |
+    Vous utilisez Tornado Cash pour plonger dans un tourbillon d'anonymat absolu ! Vos transactions sont mélangées de manière irréversible avec d'autres utilisateurs, garantissant ainsi la confidentialité de vos mouvements financiers. Naviguez dans les profondeurs de la blockchain avec confiance et protégez votre identité des regards indiscrets.
+  level: Avancé
+  video: '',
+  quest: '133727',
+  cryptoclash_score: 'Vous: +5 / Cible: -3'
+  cryptoworld_score: +2
+  explanations: |
+    Tornado Cash
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: L'ombre Impénétrable
+  description: |
+    La cryptomonnaie de l'anonymat total. Vos transactions sont protégées par des techniques avancées de confidentialité, vous permettant de garder votre identité secrète. Avec Monero, vos affaires restent privées et vos mouvements financiers indéchiffrables. Plongez dans l'ombre et embrassez la confidentialité absolue.
+  level: Avancé
+  video: '',
+  quest: '112693 111715',
+  cryptoclash_score: 'Vous: +5 / Cible: -3'
+  cryptoworld_score: +2
+  explanations: |
+    Monero
+    Transaction
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Crypto Incognito
+  description: |
+    Vous avez déployé la puissance du pseudonymat ! Vous pouvez maintenant explorer les blockchains sous un nom d'emprunt, dissimulant votre véritable identité derrière un voile de mystère. Les autres joueurs devront deviner qui se cache derrière votre pseudonyme. Mais attention, restez sur vos gardes, car la vérité pourrait être révélée à tout moment !
+  level: Tous niveaux
+  video: '',
+  quest: '196191',
+  cryptoclash_score: 'Vous: +5 / Cible: -3'
+  cryptoworld_score: +2
+  explanations: |
+    Pseudonymat
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Shadow Dancer
+  description: |
+    Vous maîtrisez l'art de l'anonymat sur la blockchain ! Votre véritable identité reste un mystère pour tous les autres joueurs. Vous naviguez dans le monde des blockchains sans laisser de trace, tel un fantôme numérique. Soyez prudent, car dans l'ombre de l'anonymat se cachent parfois des opportunités et des risques. Restez discret et profitez de l'avantage de l'anonymat dans ce jeu palpitant !
+  level: Tous niveaux
+  video: '',
+  quest: '149080',
+  cryptoclash_score: 'Vous: +5 / Cible: -3'
+  cryptoworld_score: +2
+  explanations: |
+    Anonymat
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Le Génie du Play-to-Earn
+  description: |
+    Vous êtes un maître du Play-to-Earn ! Plongez dans les mondes virtuels des blockchains, où vous pouvez jouer à des jeux captivants et gagner de vrais actifs numériques. Accomplissez des quêtes, remportez des combats, et récoltez les fruits de vos exploits virtuels. Soyez stratégique et astucieux pour accumuler des richesses numériques tout en vous amusant. Préparez-vous à vivre une expérience ludique et lucrative dans les méandres du Play-to-Earn !
+  level: Tous niveaux
+  video: '',
+  quest: '176936',
+  cryptoclash_score: 'Vous: +5 / Cible: -3'
+  cryptoworld_score: +2
+  explanations: |
+    Play-to-earn
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: L'Explorateur du Métavers
+  description: |
+    Vous êtes un aventurier intrépide du Métavers ! Explorez des mondes virtuels en constante évolution, où vous pouvez interagir avec d'autres utilisateurs, créer des objets uniques et même acheter des biens immobiliers virtuels. Plongez dans des expériences immersives, découvrez des cultures virtuelles et devenez un acteur clé de cet univers numérique. Soyez prêt à vivre des aventures passionnantes et à repousser les frontières du réel dans le fascinant Métavers de la blockchain !
+  level: Tous niveaux
+  video: '',
+  quest: '121106',
+  cryptoclash_score: 'Vous: +4 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Métavers
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Le Maître des Trésors Numériques
+  description: |
+    Vous enfilez votre tenue d'explorateur et partez à la recherche de trésors numériques. Vous plongez dans un univers rempli d'oeuvres d'art étonnantes, de collections rares et de souvenirs virtuels. Vous faites preuve de flair et de courage pour devenir le maître incontesté des NFT.
+  level: Tous niveaux
+  video: '',
+  quest: '169238',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    NFT
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Fiesta Blockchain
+  description: |
+    Vous participez à des jeux captivants où vous pourrez chasser des trésors virtuels, collectionner des NFT uniques et échanger des ressources précieuses. Vous embarquez pour une quête palpitante et êtes récompensé pour votre habileté et votre perspicacité.
+  level: Tous niveaux
+  video: '',
+  quest: '169238',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    NFT
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: L'Explorateur Intrépide
+  description: |
+    Vous décidez d'explorer de nouvelles fonctionnalités, de plonger dans l'univers des contrats intelligents, des NFTs et des protocoles DeFi. Vous êtes prêt à saisir de nouvelles opportunités et à découvrir des applications passionnantes.
+  level: Tous niveaux
+  video: '',
+  quest: '157893 169238',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    NFT
+    DeFi
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Plongez dans l'univers des DApps
+  description: |
+    Vous plongez dans l'univers passionnant des applications décentralisées. Vous explorez un vaste choix de DApps pour le trading, les jeux, les prêts et bien plus encore. Interagissez avec d'autres utilisateurs et profitez de la décentralisation.
+  level: Tous niveaux
+  video: '',
+  quest: '152108 110269',
+  cryptoclash_score: 'Vous: +2 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    DApp
+    Décentralisation
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: La Chasse aux Imposteurs
+  description: |
+    Enfilez votre chapeau de détective et partez à la chasse aux imposteurs ! Sur la blockchain, vous pouvez vérifier l'authenticité des produits. À chaque produit authentique que vous démasquez, gagnez +9 points. Soyez l'expert de la détection des faux et faites triompher la vérité sur le marché !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +7 / Cible: -7'
+  cryptoworld_score: +2
+  explanations: |
+    Authenticité des produits
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Le Pouvoir du Green Avenger
+  description: |
+    Enfilez votre costume de Green Avenger et rejoignez la ligue des héros de la planète ! À chaque action sociale ou environnementale que vous entreprenez, gagnez +6 points. Luttez contre les méchants pollueurs, plantez des arbres et faites briller votre étoile verte dans le ciel blockchain !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +2
+  explanations: |
+    Impact social et environnemental
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: La Magie de l'Instantanéité
+  description: |
+    Devenez le magicien de la simplicité avec la blockchain ! À chaque processus administratif simplifié, gagnez +4 points. Éliminez les tracas, les formulaires interminables et les délais frustrants. Faites apparaître l'instantanéité et libérez-vous des contraintes bureaucratiques !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    Simplification des processus
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Vie Privée Mode Activé
+  description: |
+    Vous utilisez une blockchain offrant des fonctionnalités de confidentialité avancées et protégez vos secrets les mieux gardés.
+  level: Tous niveaux
+  video: '',
+  quest: '114329',
+  cryptoclash_score: 'Vous: +5 / Cible: -5'
+  cryptoworld_score: +2
+  explanations: |
+    Confidentialité limitée
+    Confidentialité
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: La Voie Légale
+  description: |
+    Vous vous conformez aux réglementations en vigueur et évitez les ennuis juridiques comme un modèle de citoyenneté.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +5 / Cible: -5'
+  cryptoworld_score: +2
+  explanations: |
+    Risques réglementaires
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Le Ballet des Données
+  description: |
+    Grâce à la blockchain, vous avez un contrôle total sur vos informations personnelles. Vous décidez qui a accès à vos données et à quel moment.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +4 / Cible: -4'
+  cryptoworld_score: +2
+  explanations: |
+    Contrôle des données personnelles
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Le Philanthrope Blockchain
+  description: |
+    Vous contribuez à des projets caritatifs ou écologiques basés sur la blockchain en faisant des dons de tokens ou en participant à des campagnes de collecte de fonds. Chaque action compte pour créer un monde meilleur. Vous faites briller votre coeur de blockchainer et laissez votre générosité se propager à travers la chaîne !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -2'
+  cryptoworld_score: +2
+  explanations:
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Devenez le maître de la blockchain
+  description: |
+    Vous participez à des DAO (Decentralized Autonomous Organizations) pour exprimer votre voix en votant sur des propositions, proposer vos idées innovantes et contribuer à des projets passionnants. Avec votre participation active, vous façonnez la gouvernance et décidez du futur de la communauté blockchain.
+  level: Tous niveaux
+  video: '',
+  quest: '113338',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    DAO
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: La Course vers les Carottes Dorées
+  description: |
+    Enfilez vos baskets et rejoignez la course effrénée vers les récompenses et les incitations. Accumulez les carottes dorées et montez sur le podium des gagnants. Soyez rapide, soyez rusé et assurez-vous de ne pas trébucher sur votre chemin vers la gloire blockchain !
+  level: Moyen
+  video: '',
+  quest: '138320',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Récompenses et incitations
+    Incitation
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Le Tourbillon des Evénements Blockchain
+  description: |
+    Vous participez à des événements communautaires. Que ce soit des meetups palpitants, des webinaires enflammés ou des hackathons survoltés, vous êtes toujours partant pour apprendre, partager des connaissances et rencontrer des esprits créatifs de la communauté blockchain.
+  level: Tous niveaux
+  video: '',
+  quest: ' 157416',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Hackathon
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Le Pouvoir du Vote Blockchain
+  description: |
+    Vous participez activement en votant pour ou contre les propositions de mise à niveau du protocole. Votre voix compte et peut influencer les développements futurs, ajoutant de nouvelles fonctionnalités passionnantes à la blockchain. Vous prenez position et montrez votre soutien pour la croissance et l'innovation de la blockchain.
+  level: Tous niveaux
+  video: '',
+  quest: '113338',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +2
+  explanations: |
+    DAO
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+
+- title: Testnet Trépidant
+  description: |
+    Vous plongez dans le Testnet Intrépide et explorez les profondeurs de la blockchain. Vous expérimentez, découvrez et repoussez les limites de cette technologie révolutionnaire en toute sécurité. Votre curiosité sans limites contribue à l'amélioration de la blockchain. Vous vous préparez à des défis captivants et à des découvertes étonnantes dans ce monde fascinant du testnet !
+  level: Moyen
+  video: '',
+  quest: '142674',
+  cryptoclash_score: 'Vous: +3 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Testnet
+  character: Le Consommateur
+  image: ../data/images/consommateurs.png
+  cardcolor: consommateurs_color
+  textcolor: white
+  theme: Usage
+

@@ -1,0 +1,495 @@
+- title: Flat Tax Ninja
+  description: |
+    Vous bénéficiez d'une flat tax avantageuse sur les transactions. Profitez d'un taux fixe et équitable, sans tracas ni surprises. Vous pouvez économiser davantage tout en profitant pleinement des avantages de la blockchain.
+  level: Tous niveaux
+  video: '',
+  quest: '131661',
+  cryptoclash_score: 'Vous: +2 / Cible: +1'
+  cryptoworld_score: '+1'
+  explanations: |
+    Flat Tax
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Actu
+
+- title: NFT Extravaganza
+  description: |
+    Un NFT du marché bat tous les records en se vendant à des millions de dollars, rendant les autres collectionneurs verts de jalousie. Le marché du NFT est boosté.
+  level: Tous niveaux
+  video: '',
+  quest: '169238',
+  cryptoclash_score: 'Vous: +4 / Cible: +2'
+  cryptoworld_score: '+5'
+  explanations: |
+    NFT
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Actu
+
+- title: Blockchain Nation
+  description: |
+    Un pays instable adopte votre blockchain, propulsant le prix du token vers des sommets stratosphériques et ébranlant les économies traditionnelles.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +8 / Cible: +4'
+  cryptoworld_score: '+3'
+  explanations:
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Actu
+
+- title: DéFi Mania
+  description: |
+    Le DeFi fait un carton sur votre blockchain avec des frais minimes et des incitations attrayantes, attirant tous les aventuriers de la finance décentralisée.
+  level: Tous niveaux
+  video: '',
+  quest: '157893',
+  cryptoclash_score: 'Vous: +6 / Cible: +3'
+  cryptoworld_score: '+3'
+  explanations: |
+    DeFi
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Actu
+
+- title: Pizza Party Bitcoin
+  description: |
+    22 mai 2010, première transaction réelle avec Bitcoin : Laszlo Hanyecz achète 2 pizzas pour 10 000 BTC. On célèbre le jour où Bitcoin a été utilisé pour acheter des pizzas en distribuant des récompenses en crypto lors d'une fête épique.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: 2 / Cible: +1'
+  cryptoworld_score: '+1'
+  explanations:
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Actu
+
+- title: L'Escroquerie Catastrophe
+  description: |
+    Une fraude retentissante (Scam) secoue la blockchain cible, donnant le vertige aux investisseurs et semant la zizanie dans l'écosystème crypto.
+  level: Tous niveaux
+  video: '',
+  quest: '133952',
+  cryptoclash_score: 'Vous: +2 / Cible: +1'
+  cryptoworld_score: '-3'
+  explanations: |
+    Scam
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Actu
+
+- title: NFT Frenzy
+  description: |
+    Un artiste célèbre lance sa collection de NFT sur votre blockchain, créant une frénésie chez les fans et les investisseurs, avec des NFT atteignant des prix stratosphériques !
+  level: Tous niveaux
+  video: '',
+  quest: '169238',
+  cryptoclash_score: 'Vous: +8 / Cible: +4'
+  cryptoworld_score: '+2'
+  explanations: |
+    NFT
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Actu
+
+- title: Crypto-Ecolo
+  description: |
+    Les mineurs écolos des blockchains Proof of Work, alimentés par des énergies renouvelables, reçoivent des tokens supplémentaires. Faites un pas vers une utilisation d'énergie verte, réduisez votre empreinte carbone et profitez d'avantages exclusifs.
+  level: Tous niveaux
+  video: '',
+  quest: '101494',
+  cryptoclash_score: 'Vous: +4 / Cible: +2'
+  cryptoworld_score: '+1'
+  explanations: |
+    Minage
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Actu
+
+- title: Stablecoin Mania
+  description: |
+    Un nouveau stablecoin séduit les foules avec sa valeur stable, sa liquidité instantanée et ses frais réduits, transformant les échanges et les paiements mondiaux.
+  level: Tous niveaux
+  video: '',
+  quest: '111721 188229',
+  cryptoclash_score: 'Vous: +6 / Cible: +3'
+  cryptoworld_score: '+2'
+  explanations: |
+    Stablecoin
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Actu
+
+- title: Contrats Intelligents Futuristes
+  description: |
+    L'IA révolutionne les contrats intelligents en prenant des décisions éclairées, créant une demande sans fin et faisant frétiller les investisseurs.
+  level: Tous niveaux
+  video: '',
+  quest: '169202',
+  cryptoclash_score: 'Vous: +6 / Cible: +3'
+  cryptoworld_score: '+3'
+  explanations: |
+    AI
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Actu
+
+- title: Crypto Whale
+  description: |
+    En tant que baleine crypto redoutable, vous avez le pouvoir de voler deux points à un autre joueur de votre choix. En tant qu'investisseur influent, vous détenez de grandes quantités de cryptomonnaies et pouvez influencer le marché à votre avantage. Préparez-vous à dominer le marché et à laisser les autres joueurs échoués dans votre sillage de richesse démesurée !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'Vol de tokens !'
+  explanations:
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Bull Run
+  description: |
+    C'est l'heure du taureau ! <b>Doublez vos points pendant deux tours consécutifs</b>. Profitez de cette période de hausse explosive des prix des cryptomonnaies pour faire grimper votre score en flèche. Accrochez-vous, c'est le moment idéal pour faire décoller vos gains vers de nouveaux sommets !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'Doublement !'
+  explanations: |
+    Cycle
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Crypto Winter
+  description: |
+    Oh là là ! Vous voilà pris dans le tourbillon du "Crypto Winter". Cette carte capricieuse vous fait <b>perdre des points pendant un tour, correspondant au nombre de tokens que vous auriez dû gagner</b>. Mais ne vous découragez pas, car même les cryptos ont leurs moments glaciales. Restez optimiste et espérez que le soleil reviendra bientôt réchauffer votre portefeuille !
+  level: Tous niveaux
+  video: '',
+  quest: '165971',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'Perte de tokens !'
+  explanations: |
+    Cycle
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: To the Moon
+  description: |
+    <b>Doublez tous vos points pendant un tour</b>. "To the moon" fait référence à une augmentation spectaculaire du prix des cryptomonnaies. Préparez-vous à une envolée fulgurante et à des gains stratosphériques !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'Doublement !'
+  explanations: |
+    To the moon
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: FUD attack
+  description: |
+    Devenez le maître de la désinformation en manipulant le FUD (Fear, Uncertainty, Doubt) ! Lancez une rumeur farfelue sur un autre joueur et regardez le chaos s'ensuivre. Les yeux s'écarquillent, les doutes s'installent et tout devient incertain. Votre adversaire perd 2 points tandis que vous en gagnez 1, mais attention, la vérité finira par éclater. Préparez-vous à assumer les conséquences de vos ragots déjantés dans ce jeu plein de rebondissements.
+  level: Tous niveaux
+  video: '',
+  quest: '157271',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'Attaque !'
+  explanations: |
+    FUD
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: L'Héritage de Nakamoto
+  description: |
+    Vous invoquez l'esprit de Satoshi Nakamoto, le mystérieux créateur de Bitcoin. Vous bénéficiez de son génie visionnaire et de sa sagesse cryptographique : <b>pendant un tour, doublez vos tokens</b>. Vos décisions sont éclairées, vos stratégies sont infaillibles. Vous êtes béni par le pionnier de la blockchain et rien ne peut vous arrêter dans votre quête de la victoire.
+  level: Tous niveaux
+  video: '',
+  quest: '118868',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'Doublement !'
+  explanations: |
+    Satoshi Nakamoto
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Genie d'Ethereum
+  description: |
+    Canalisez le génie de Vitalik Buterin, le créateur d'Ethereum. <b>Pendant un tour, doublez vos points</b> grâce à ses compétences en programmation et en conception de blockchain. Profitez de cette opportunité pour prendre des décisions éclairées et prendre une longueur d'avance sur vos adversaires !
+  level: Tous niveaux
+  video: '',
+  quest: '111186',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'Doublement !'
+  explanations: |
+    Vitalik Buterin
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: HODL inébranlable
+  description: |
+    Incarnez l'esprit du HODL et tenez bon face aux fluctuations du marché. Votre détermination est inébranlable ! <b>Pendant quatre tours, vos points sont protégés de toute perte.</b>
+  level: Moyen
+  video: '',
+  quest: '130129',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'Protection !'
+  explanations: |
+    HODL
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: NFT Winner
+  description: |
+    Félicitations ! Vous avez remporté un NFT (Non-Fungible Token) unique et précieux. Il s'agit d'un véritable trésor numérique qui vous distingue des autres joueurs. Votre collection de NFT s'enrichit, et votre statut de gagnant atteint de nouveaux sommets. Affichez votre NFT avec fierté et préparez-vous à attirer l'attention dans l'univers des blockchains. Vous avez gagné un NFT !
+  level: Moyen
+  video: '',
+  quest: '169238',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: 'NFT !'
+  explanations: |
+    NFT
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble de l'investisseur en blockchain ? Réponse : Etre incollable sur les crypto-monnaies et avoir un portefeuille vide.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble du mineur de Bitcoin ? Réponse : Etre accro à l'énergie renouvelable pour éviter de dépenser trop en électricité.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble du trader de cryptos ? Réponse : Être un expert en gestion du sommeil, car le marché ne dort jamais.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble du fanatique des NFT ? Réponse : Collectionner des cartes à jouer dans la vraie vie... sur la blockchain.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble de la sécurité blockchain ? Réponse : Avoir une mémoire parfaite pour se souvenir de chaque clé privée.
+  level: Moyen
+  video: '',
+  quest: '137795',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble du spécialiste DeFi ? Réponse : Décentraliser sa propre vie et vivre sans intermédiaires.
+  level: Moyen
+  video: '',
+  quest: '157893',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble du trader de crypto-monnaies ? Réponse : Échanger ses euros pour des bitcoins lors de son mariage.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble de la blockchain écologique ? Réponse : Imprimer les preuves de travail sur du papier recyclé.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble du détenteur de NFT ? Réponse : Collectionner des œuvres d'art numériques... sur des tableaux physiques.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble du passionné de la DeFi ? Réponse : Prêter ses cryptos à lui-même pour payer ses factures.
+  level: Moyen
+  video: '',
+  quest: '157893',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble du développeur de contrats intelligents débutant ? Réponse : Utiliser son propre contrat intelligent pour stocker ses mots de passe... et les oublier.
+  level: Moyen
+  video: '',
+  quest: '168559',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble du fan de DAO (Organisation Autonome Décentralisée) ? Réponse : Voter par blockchain pour décider quelle pizza commander lors des soirées entre amis.
+  level: Moyen
+  video: '',
+  quest: '113338',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest
+
+- title: Le comble
+  description: |
+    Quel est le comble du participant à une ICO ratée ? Réponse : Recevoir une invitation exclusive à une soirée de lancement... le jour d'après la fermeture du projet.
+  level: Moyen
+  video: '',
+  quest: '131316',
+  cryptoclash_score: ''
+  cryptoworld_score: '0'
+  explanations: 
+  character: Le CryptoBuzz
+  image: ../data/images/cryptobuzz.png
+  cardcolor: cryptobuzz_color
+  textcolor: white
+  theme: Quest

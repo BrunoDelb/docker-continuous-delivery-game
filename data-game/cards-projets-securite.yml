@@ -1,0 +1,305 @@
+- title: Le Gang des Signatures
+  description: |
+    Vous renforcez la sécurité de votre blockchain avec des portefeuilles multi-signatures. Cela permet d'exiger l'approbation de plusieurs parties pour effectuer une transaction, comme un gang d'amis veillant sur votre argent. C'est la garde rapprochée de la blockchain !
+  level: Moyen
+  video: '',
+  quest: '186163',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Portefeuilles multi-signatures
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Le Gardien Infaillible
+  description: |
+    Vous avez renforcé les contrôles de sécurité pour vos contrats intelligents sur votre blockchain. Les experts ont mené des audits de sécurité rigoureux pour éviter les attaques et assurer un environnement sûr. Vos contrats intelligents sont aussi solides qu'une forteresse !
+  level: Tous niveaux
+  video: '',
+  quest: '129082 193685',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Audit de sécurité des contrats intelligents
+    Portefeuille
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: La Mutation Drastique
+  description: |
+    Votre blockchain subit une mise à jour majeure du protocole pour renforcer la sécurité. Les mineurs et les validateurs doivent mettre à jour leurs logiciels pour obtenir une protection maximale contre les attaques. Une mise à jour épique pour une sécurité sans faille !
+  level: Moyen
+  video: '',
+  quest: '172650 149212',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +3
+  explanations: |
+    Fork
+    Protocole
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Protocole du Savoir Caché
+  description: |
+    Votre blockchain adopte un protocole de Preuves de Connaissance nulle pour protéger la vie privée de nos utilisateurs. Les espions n'ont aucune chance contre notre technologie de pointe. La vie privée est votre priorité absolue !
+  level: Moyen
+  video: '',
+  quest: '172650 111679',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Preuves de Connaissance nulle
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: La Révolution Démocratique
+  description: |
+    Vous avez introduit une gouvernance décentralisée (DAO) sur votre blockchain, où les utilisateurs gèrent collectivement les décisions et la sécurité. Transparence, démocratie et résilience sont vos mots d'ordre.
+  level: Tous niveaux
+  video: '',
+  quest: '113338',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +3
+  explanations: |
+    DAO
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Le Trésor des Engagés
+  description: |
+    Votre gouvernance participative DAO récompense ceux qui s'impliquent dans les décisions. Les participants sont les boss de la prise de décision, et leurs récompenses le prouvent !
+  level: Tous niveaux
+  video: '',
+  quest: '113338',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  explanations: |
+    DAO
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Gardien des Vérifications
+  description: |
+    Votre code est scruté par des ninjas experts en sécurité qui traquent les failles avec une précision chirurgicale, vous offrant une tranquillité d'esprit blindée et éliminant les risques d'attaques sournoises.
+  level: Tous niveaux
+  video: '',
+  quest: '168559 193685',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Audit de sécurité des contrats intelligents
+    Contrat intelligent
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Protocole Evolutionnaire
+  description: |
+    Votre blockchain reçoit une mise à jour majeure de son protocole, apportant de nouvelles fonctionnalités et des améliorations éblouissantes. Vous êtes prêt à impressionner avec votre toute nouvelle version !
+  level: Tous niveaux
+  video: '',
+  quest: '172650 149212',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Fork
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Pionnier de l'Adoption
+  description: |
+    Vous récompensez nos fidèles supporters qui ont géré des noeuds sécurisés avec des tokens bonus. Ils voient leurs portefeuilles se remplir à mesure que la valeur de notre token explose. Ils ont misé sur le bon cheval !
+  level: Tous niveaux
+  video: '',
+  quest: '179323 159002',
+  cryptoclash_score: 'Vous: +3 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Airdrop
+    Noeud
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Privacy Crusaders
+  description: |
+    Vous avez décidé d'ajouter une touche de confidentialité à votre blockchain. Avec des fonctionnalités novatrices, vous protégez les données personnelles des utilisateurs et faites disparaître les regards indiscrets. Vous construisez une forteresse de confidentialité pour une expérience sécurisée et privée.
+  level: Tous niveaux
+  video: '',
+  quest: '114329',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Confidentialité
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Le dédale de la Réglementation
+  description: |
+    Vous devez naviguer à travers les méandres réglementaires. Vous respectez les lois, protégez les données et collaborez avec les organismes de réglementation pour gagner des points et construire une blockchain légale et responsable. Attention aux pièges et aux détours, seule une véritable maîtrise vous mènera vers la victoire !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: +3
+  explanations:
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Génie de la documentation
+  description: |
+    Vous créez des guides détaillés et fournissez un support hors pair pour la blockchain. Vous résolvez les problèmes des développeurs utilisant votre blockchain comme par magie et votre réputation atteint des sommets stellaires. Les utilisateurs vous acclament comme le héros des développeurs.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations:
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Contrats Intelligents Magiques
+  description: |
+    Vous mettez en avant les contrats intelligents pour des possibilités incroyables ! Vous développez et promouvez ces petits génies de la blockchain, offrant aux utilisateurs la liberté de créer des applications décentralisées et d'effectuer des transactions automatisées en toute confiance. Vous vous préparez à épater le monde avec vos pouvoirs magiques de Smart Contracts !
+  level: Tous niveaux
+  video: '',
+  quest: '168559',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Contrat intelligent
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Hackeur bienveillant
+  description: |
+    Vous organisez des programmes de Bug Bounty pour attirer d'autres génies du code. Ensemble, traquez les vulnérabilités dans les blockchains et soyez généreusement récompensés pour chaque bug critique découvert. La sécurité des blockchains n'aura plus de secrets pour vous !
+  level: Tous niveaux
+  video: '',
+  quest: '137366',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Bug Bounty
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Choisissez votre nuage
+  description: |
+    Vous êtes confronté à une décision cruciale : quel cloud choisir pour votre blockchain ? Vous explorez les options avec passion et trouvez la plateforme d'hébergement et le fournisseur de cloud qui propulseront votre projet vers les sommets. Vous évaluez les performances, les fonctionnalités et les coûts pour faire le choix ultime. Vous vous préparez à conquérir les cieux de la blockchain avec votre déploiement stratégique.
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Cloud
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Le dilemme des chaînes
+  description: |
+    Vous devez faire un choix crucial : blockchain publique, privée ou hybride ? Prenez une décision éclairée pour façonner l'avenir de votre projet et tracer la voie vers le succès !
+  level: Moyen
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Blockchain publique, privée ou hybride
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Le Grand Réglage du Réseau
+  description: |
+    Vous modifiez les paramètres du réseau, accélérez les blocs, ajustez les frais ... Mais attention, les utilisateurs auront leur mot à dire ! Soyez prêt pour un débat animé et créez une expérience de blockchain épique en écoutant la communauté !
+  level: Avancé
+  video: '',
+  quest: '122576',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Evolutivité
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Noeud Ninja
+  description: |
+    Vous choisissez avec soin le nombre de noeuds à déployer et leur emplacement géographique pour garantir une résilience maximale. Vous devenez un véritable maître du "Noeud Ninja" en assurant une distribution stratégique et en protégeant l'intégrité de la blockchain.
+  level: Avancé
+  video: '',
+  quest: '159002',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Noeud
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+
+- title: Dans la peau d'un Super Dev
+  description: |
+    Vous assistez aux conférences les plus branchées, défiez les hackers les plus redoutables lors de hackathons légendaires et dévorez les blogs et les publications spécialisées pour nourrir votre esprit de génie.
+  level: Tous niveaux
+  video: '',
+  quest: ' 157416',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: +3
+  explanations: |
+    Hackathon
+  character: L'Equipe Projet
+  image: ../data/images/developpeurs.png
+  cardcolor: projets_color
+  textcolor: black
+  theme: Sécurité
+

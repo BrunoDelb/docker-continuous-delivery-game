@@ -11,8 +11,8 @@ RUN apt-get install -y \
       pdftk \
       poppler-utils
 
-WORKDIR /app
-ADD app/ /app
-COPY Gemfile /app
+WORKDIR /home/app
+ADD app/ /home/app
+COPY Gemfile /home/app
 #ADD . /app
 RUN bundle install

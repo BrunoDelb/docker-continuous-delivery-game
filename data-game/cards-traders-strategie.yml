@@ -1,0 +1,239 @@
+- title: L'Happy Hour des Frais
+  description: |
+    Profitez d'une réduction de 15% sur les frais de transaction pendant une semaine entière. C'est comme si la blockchain vous faisait un clin d'oeil complice !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations:
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: L'Explosion d'ICOs
+  description: |
+    Vous participez à une ICO (Initial Coin Offering) récoltant des millions de dollars en quelques minutes. Vous aurez peut-être plus de fonds que Picsou dans sa piscine de pièces d'or !
+  level: Tous niveaux
+  video: '',
+  quest: '131316',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    ICO
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: Le Gourou des Graphiques
+  description: |
+    Vous êtes un expert de l'analyse technique ! Utilisez des graphiques, des indicateurs et des tendances pour repérer les meilleures opportunités d'achat et de vente. Suivez les signaux de surachat et de survente, les croisements de moyennes mobiles, et bien plus encore. Faites preuve de perspicacité et de flair pour réaliser des transactions gagnantes sur le marché. Bonne chance, Maître Trader !
+  level: Moyen
+  video: '',
+  quest: '159874 156488',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Analyse technique
+  character: Le Trader
+  image: ../data/images/analyse-technique.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: La Chasse aux Prix
+  description: |
+    Vous êtes un maître de l'arbitrage ! Vous pouvez repérer les différences de prix entre les plateformes d'échange. Si une crypto-monnaie est moins chère sur une plateforme, vous l'achetez là-bas, puis la vendez sur une autre où le prix est plus élevé. Voilà comment vous faites tourner les bénéfices ! Soyez rapide et astucieux pour saisir ces opportunités lucratives !
+  level: Moyen
+  video: '',
+  quest: '105604',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Arbitrage
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: Le maître du Spectacle
+  description: |
+    Vous diversifiez votre portefeuille en investissant dans un grand nombre de crypto-monnaies en même temps. En jonglant avec ces actifs, vous pouvez réduire les risques et attirer les applaudissements du public en profitant des performances variées du marché. Que le show commence !
+  level: Tous niveaux
+  video: '',
+  quest: '194247',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Diversification de portefeuille
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: L'Oeil Aiguisé des Cryptos
+  description: |
+    Vous êtes un trader de blockchain plein de flair ! En suivant les actualités et les événements, vous gardez une longueur d'avance. Annonces de partenariats ? Mises à jour technologiques ? Réglementations ? Rien ne vous échappe ! Grâce à votre intuition, vous prenez des décisions éclairées et en récoltez les fruits. Soyez prêt à saisir les opportunités et à dominer le marché des cryptos !
+  level: Tous niveaux
+  video: '',
+  quest: '135521',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Veille sur l'actualité
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: Chasseur de Tendances
+  description: |
+    Vous êtes un trader aguerri, capable de flairer les tendances les plus audacieuses. En suivant de près les mouvements du marché, vous pouvez détecter les nouvelles stars émergentes des crypto-monnaies. Ainsi, lorsque les NFT enflamment la scène, vous êtes prêt à bondir dessus tel un prédateur de profits, capitalisant sur la frénésie des collectionneurs et récoltant des gains galactiques !
+  level: Tous niveaux
+  video: '',
+  quest: '109180 169238 156488',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Analyse des tendances
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: Les Yeux Affûtés du Trader
+  description: |
+    Vous pouvez utiliser votre flair infaillible pour repérer les volumes d'échanges ! Vous surveillez attentivement les mouvements des différentes crypto-monnaies et détectez celles qui sont en plein essor. Vous exploitez les fluctuations des prix pour saisir les opportunités et maximiser vos bénéfices. Soyez le trader averti et anticipez les tendances pour devenir un maître de la spéculation !
+  level: Tous niveaux
+  video: '',
+  quest: '116038',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Surveillance des mouvements, volumes d'échanges
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: Wheel of Crypto Fortune
+  description: |
+    Vous êtes un trader audacieux ! Vous faites tourner la roue et choisissez votre niveau de prise de risque. Vous optez pour des projets émergents avec un potentiel de rendement élevé ou privilégiez la stabilité des investissements établis.
+  level: Tous niveaux
+  video: '',
+  quest: '186083',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Gestion du risque
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: Ninja du Scalping
+  description: |
+    Vous êtes un expert du scalping, capable de saisir les petites fluctuations du marché pour réaliser des gains rapides. Avec votre agilité et votre réactivité, vous exécutez des transactions rapides et précises, en tirant profit des mouvements de prix minimes. Soyez le maître de l'opportunité et accumulez des profits en utilisant votre savoir-faire en scalping !
+  level: Moyen
+  video: '',
+  quest: '136511',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Scalping
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: Sniper des Tendances
+  description: |
+    Vous êtes un tireur d'élite du marché, capable de repérer les tendances dominantes et d'anticiper les mouvements majeurs. Grâce à votre analyse approfondie et à votre perspicacité, vous identifiez les opportunités de trading basées sur les tendances à long terme. Soyez précis, patient et tirez profit des mouvements significatifs du marché en tant que véritable sniper des tendances !
+  level: Tous niveaux
+  video: '',
+  quest: '156488',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Tendance
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: Visionnaires de la Croissance
+  description: |
+    Vous êtes un visionnaire de la croissance. Vous avez la capacité de repérer les actifs avec un potentiel de croissance à long terme. Avec vos positions longues, vous profitez des gains sur le long terme.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Trade long
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: La Fièvre des Frais
+  description: |
+    Vous êtes un maître de l'optimisation des coûts ! Vous pouvez repérer les différences de frais entre les utilisateurs de la blockchain. Si une blockchain présente des frais élevés, vous vous orientez vers d'autres options offrant des frais plus avantageux. Ainsi, vous économisez sur les transactions et évitez les retards. Soyez rapide et astucieux pour saisir ces opportunités lucratives d'optimisation des coûts !
+  level: Tous niveaux
+  video: '',
+  quest: '198343',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Effets de la congestion
+    Congestion
+  character: Le Trader
+  image: ../data/images/effets-de-la-congestion.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: La Super Promo de la Blockchain
+  description: |
+    La fonctionnalité d'Optimiseur de Frais débarque avec fracas sur votre blockchain, vous offrant une réduction de 30% sur les frais de transaction. C'est le moment de faire du shopping sur la blockchain !
+  level: Tous niveaux
+  video: '',
+  quest: '174703',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Frais de transaction
+  character: Le Trader
+  image: ../data/images/traders.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading
+
+- title: Le Sherlock des Crypto
+  description: |
+    Plongez dans les profondeurs des cryptos et enquêtez sur les équipes de développement, les technologies révolutionnaires, les partenariats de renom et l'adoption grandissante. Votre mission : dénicher la pépite cachée parmi les joyaux numériques. Utilisez ces informations précieuses pour saisir les opportunités, prendre des décisions éclairées et accumuler des fortunes virtuelles. Que votre flair soit aiguisé, cher Trader !
+  level: Tous niveaux
+  video: '',
+  quest: '183933',
+  cryptoclash_score: 'Vous: +1 / Cible: -1'
+  cryptoworld_score: +2
+  explanations: |
+    Analyse fondamentale
+  character: Le Trader
+  image: ../data/images/analyse-fondamentale.png
+  cardcolor: traders_color
+  textcolor: black
+  theme: Stratégie de trading

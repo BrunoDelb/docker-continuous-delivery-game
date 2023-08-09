@@ -1,0 +1,187 @@
+- title: Alliance des Technos
+  description: |
+    La blockchain et une grande société se marient pour une danse des paiements transfrontaliers révolutionnaires ! Les frais de transfert d'argent internationaux sont réduits de moitié, facilitant des échanges monétaires rapides et économiques entre devises.
+  level: Moyen
+  video: '',
+  quest: '127267',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: '+1'
+  explanations: |
+    Paiements transfrontaliers
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: Nuage Intégré
+  description: |
+    La blockchain et un grand fournisseur de Cloud fusionnent leurs super pouvoirs pour créer des applications décentralisées plus faciles que de faire une pirouette ! La blockchain peut obtenir une assistance technique gratuite pour utiliser les services sur le Cloud.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+1'
+  explanations: |
+    Cloud
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: Traceur de Sentiers
+  description: |
+    La blockchain et un cabinet d'audit de renom forment un duo de choc pour combattre les contrefaçons et garantir une chaîne d'approvisionnement transparente. La blockchain gagne la confiance des clients grâce à des informations précises sur l'origine et la qualité de vos produits. Les imposteurs n'ont qu'à bien se tenir !
+  level: Tous niveaux
+  video: '',
+  quest: '119960',
+  cryptoclash_score: 'Vous: 4 / Cible: -3'
+  cryptoworld_score: '+1'
+  explanations: |
+    Chaîne d'approvisionnement
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: L'Alliance des Oracles
+  description: |
+    La blockchain est associée aux oracles décentralisés de Chainlink. Elle dispose maintenant de données externes fiables et sécurisées pour vseos contrats intelligents et ses applications décentralisées. La blockchain améliore l'interopérabilité et les utilisateurs acclament la blockchain. C'est un partenariat qui en jette !
+  level: Avancé
+  video: '',
+  quest: '118047',
+  cryptoclash_score: 'Vous: +3 / Cible: -2'
+  cryptoworld_score: '+1'
+  explanations: |
+    Oracle
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: Gouvernance Solidaire
+  description: |
+    Le gouvernement progressiste se joint à la blockchain pour enregistrer en toute transparence des transactions financières et des votes électroniques. La confiance citoyenne est renforcée et la participation sécurisée. C'est une union politique qui fait des étincelles !
+  level: Tous niveaux
+  video: '',
+  quest: '195954',
+  cryptoclash_score: 'Vous: +4 / Cible: -3'
+  cryptoworld_score: '+1'
+  explanations: |
+    Votes électroniques
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: L'Alliance Majestueuse
+  description: |
+    La blockchain attire une grande entreprise avec des promesses de gains alléchants. Mais attention, le partenariat se révèle être un mirage, causant des pertes financières et une perte de confiance dans votre token. Il va falloir retrouver votre équilibre !
+  level: Tous niveaux
+  video: '',
+  quest: '184629 146234',
+  cryptoclash_score: 'Vous: +1 / Cible: -2'
+  cryptoworld_score: '-1'
+  explanations: |
+    Promesses de rendements excessifs
+    Rendement
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: Intégration Populaire
+  description: |
+    Une application populaire s'allie à la blockchain pour une sécurité renforcée et une ergonomie impeccable. Les médias s'emballent, voilà la blockchain sous les feux de la rampe !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+1'
+  explanations:
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: Le Soutien Etoilé
+  description: |
+    Accusée de fraude, la blockchain reçoit le soutien de célébrités, mais cela secoue la confiance des investisseurs et crée de lourdes pertes. Il va falloir retrouver votre équilibre et convaincre de la légitimité de la blockchain.
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +1 / Cible: -2'
+  cryptoworld_score: '-1'
+  explanations:
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: L'Appui Magnat
+  description: |
+    Un célèbre entrepreneur se range derrière la blockchain. La valeur de sa crypto-monnaie bondit de 200% et la voilà sur la voie du succès grâce à un simple tweet. C'est une ascension fulgurante !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -1'
+  cryptoworld_score: '+1'
+  explanations:
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: Accès VIP au Monde des Jeux
+  description: |
+    Un partenariat avec la blockchain lui ouvre les portes du monde des jeux blockchain, où les participants peuvent gagner, échanger et posséder des actifs numériques de grande valeur. Ils récoltent des récompenses spéciales et profite,t d'avantages uniques. C'est un passe VIP qui en jette !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +3 / Cible: -1'
+  cryptoworld_score: '+1'
+  explanations:
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: Le Tissage Magique
+  description: |
+    Un partenariat stratégique permet de connecter deux blockchains pour des transferts d'actifs et d'informations sécurisés et transparents. La blockchain étend son écosystème et renforce l'interopérabilité. C'est un grand pas en avant pour la blockchain !
+  level: Tous niveaux
+  video: '',
+  quest: '193026',
+  cryptoclash_score: 'Vous: 3 / Cible: -2'
+  cryptoworld_score: '+1'
+  explanations: |
+    Interopérabilité
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat
+
+- title: Le Buzz Insensé
+  description: |
+    Une campagne médiatique épique est lancée pour promouvoir la blockchain, attirer les utilisateurs et marquer des points. Elle fait monter l'adrénaline en vantant les avantages de la plateforme. Les médias sont en ébullition, et la blockchain est au coeur de l'action !
+  level: Tous niveaux
+  video: '',
+  quest: '',
+  cryptoclash_score: 'Vous: +2 / Cible: -1'
+  cryptoworld_score: '+1'
+  explanations:
+  character: Le Partenaire
+  image: ../data/images/partenaires.png
+  cardcolor: partenaires_color
+  textcolor: black
+  theme: Partenariat

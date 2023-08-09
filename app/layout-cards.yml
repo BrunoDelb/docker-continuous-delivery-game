@@ -39,27 +39,10 @@ HeaderFlatBottom:
   height: -= 100
   radius: 0
 
-CardA:
-  # 675 -2*25 = 625 -> 200 - 12 - 200 - 12 - 200
-  x: 100
-  y: 80
-  stroke_color: white
-  width: 200
-  height: 20
-  radius: 5
-
-CardB:
-  extends: 'CardA'
-  x: += 212
-
-CardC:
-  extends: 'CardA'
-  x: += 425
-
 Description:
   extends: 'AllText'
   x: 115
-  y: 350
+  y: 550
   width: 600
   height: 600
   crop_x: 20
@@ -67,7 +50,7 @@ Description:
   justify: false
   valign: top
   align: center
-  font_size: 8 #31
+  font_size: 7
   color: 'black'
 
 art:
@@ -78,67 +61,105 @@ art:
   align: center
   valign: middle
 
-icon:
-  extends: 'art'
-  y: += 5
-
-image:
-  extends: 'art'
-  y: += 5
-
 Title:
   extends: AllText
   font: ChunkFive Roman,Sans bold
-  font_size: 7 #35
+  font_size: 8 #35
   width: 500
   x: 220
   y: 140
 
 LTitle:
   extends: Title
+  font: ChunkFive Roman,Sans bold
   width: 600
+  font_size: 11
   height: 300
   x: 125
+  y: 8
+  valign: middle
+
+image:
+  x: 78
+  y: 235
+  width: 300
+  height: 300
+
+TextOnImage:
+  extends: Title
+  font_size: 7
+  fill_color: red
+  width: 250
+  height: 70
+  x: 100
+  y: 460
+  valign: bottom
+  align: center
+  color: 'white'
 
 Theme:
   extends: Title
-  font_size: 12
+  font_size: 10
   fill_color: red
-  width: 720
-  x: 50
-  y: 280
+  width: 420
+  x: 350
+  y: 225
+  height: 120
+  valign: middle
   color: 'black'
 
-battle_score:
+level:
   extends: 'AllText'
-  font: ChunkFive Roman,Sans italic
-  x: 115
-  y: 950
-  width: 620
-  height: 100
-  valign: middle
+  font: ChunkFive Roman
+  x: 400
+  y: 350
+  width: 300
+  height: 24
   align: center
-  font_size: 8 #31
+  font_size: 8
 
-####
+level_image:
+  x: 400
+  y: 360
+  width: 300
+  height: 24
 
-Shield: # Not Used
+cryptoclash_score1:
   extends: 'AllText'
-  font: ChunkFive Roman,Sans bold
-  font_size: 8 #35
-  x: 720
-  y: 80
-  width: 100
+  font: ChunkFive Roman bold
+  x: 390
+  y: 390
+  width: 350
   height: 100
-  justify: true
-  valign: top
-  align: left
-
-badge:  # Not Used
-  x: 50
-  y: 50
-  width: 64
-  height: 64
   align: center
-  valign: middle
+  font_size: 7
 
+cryptoclash_score2:
+  extends: 'AllText'
+  font: ChunkFive Roman
+  x: 400
+  y: 425
+  width: 300
+  height: 100
+  align: center
+  font_size: 7
+
+cryptoworld_score1:
+  extends: 'AllText'
+  font: ChunkFive Roman bold
+  x: 390
+  y: 465
+  width: 350
+  height: 100
+  align: center
+  font_size: 7
+
+cryptoworld_score2:
+  extends: 'AllText'
+  font: ChunkFive Roman
+  x: 400
+  y: 500
+  width: 300
+  height: 100
+  align: center
+  font_size: 7
